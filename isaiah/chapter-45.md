@@ -1,0 +1,57 @@
+---
+weight: 45
+---
+
+# Chapter 45
+
+<sup>1</sup> Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him, and I will loose the loins of kings; to open the doors before him, and the gates shall not be shut; 
+
+<sup>2</sup> I will go before thee, and make the rugged places plain: I will break in pieces the doors of brass, and cut in sunder the bars of iron: 
+
+<sup>3</sup> and I will give thee the treasures of darkness, and hidden riches of secret places, that thou mayest know that I am the LORD, which call thee by thy name, even the God of Israel. 
+
+<sup>4</sup> For Jacob my servant’s sake, and Israel my chosen, I have called thee by thy name: I have surnamed thee, though thou hast not known me. 
+
+<sup>5</sup> I am the LORD, and there is none else; beside me there is no God: I will gird thee, though thou hast not known me: 
+
+<sup>6</sup> that they may know from the rising of the sun, and from the west, that there is none beside me: I am the LORD, and there is none else. 
+
+<sup>7</sup> I form the light, and create darkness; I make peace, and create evil; I am the LORD, that doeth all these things. 
+
+<sup>8</sup> Drop down, ye heavens, from above, and let the skies pour down righteousness: let the earth open, that they may bring forth salvation, and let her cause righteousness to spring up together; I the LORD have created it. 
+
+<sup>9</sup> Woe unto him that striveth with his Maker! a potsherd among the potsherds of the earth! shall the clay say to him that fashioneth it, What makest thou? or thy work, He hath no hands? 
+
+<sup>10</sup> Woe unto him that saith unto a father, What begettest thou? or to a woman, with what travailest thou? 
+
+<sup>11</sup> Thus saith the LORD, the Holy One of Israel, and his Maker: Ask me of the things that are to come concerning my sons, and concerning the work of my hands, command ye me. 
+
+<sup>12</sup> I have made the earth, and created man upon it: I, even my hands, have stretched out the heavens, and all their host have I commanded. 
+
+<sup>13</sup> I have raised him up in righteousness, and I will make straight all his ways: he shall build my city, and he shall let my exiles go free, not for price nor reward, saith the LORD of hosts. 
+
+<sup>14</sup> Thus saith the LORD, The labour of Egypt, and the merchandise of Ethiopia, and the Sabeans, men of stature, shall come over unto thee, and they shall be thine; they shall go after thee; in chains they shall come over: and they shall fall down unto thee, they shall make supplication unto thee, saying, Surely God is in thee; and there is none else, there is no God. 
+
+<sup>15</sup> Verily thou art a God that hidest thyself, O God of Israel, the Saviour. 
+
+<sup>16</sup> They shall be ashamed, yea, confounded, all of them: they shall go into confusion together that are makers of idols. 
+
+<sup>17</sup> But Israel shall be saved by the LORD with an everlasting salvation: ye shall not be ashamed nor confounded world without end. 
+
+<sup>18</sup> For thus saith the LORD that created the heavens; he is God; that formed the earth and made it; he established it, he created it not a waste, he formed it to be inhabited: I am the LORD; and there is none else. 
+
+<sup>19</sup> I have not spoken in secret, in a place of the land of darkness; I said not unto the seed of Jacob, Seek ye me in vain: I the LORD speak righteousness, I declare things that are right. 
+
+<sup>20</sup> Assemble yourselves and come; draw near together, ye that are escaped of the nations: they have no knowledge that carry the wood of their graven image, and pray unto a god that cannot save. 
+
+<sup>21</sup> Declare ye, and bring it forth; yea, let them take counsel together: who hath shewed this from ancient time? who hath declared it of old? have not I the LORD? and there is no God else beside me; a just God and a saviour; there is none beside me. 
+
+<sup>22</sup> Look unto me, and be ye saved, all the ends of the earth: for I am God, and there is none else. 
+
+<sup>23</sup> By myself have I sworn, the word is gone forth from my mouth in righteousness, and shall not return, that unto me every knee shall bow, every tongue shall swear. 
+
+<sup>24</sup> Only in the LORD, shall one say unto me, is righteousness and strength: even to him shall men come, and all they that were incensed against him shall be ashamed. 
+
+<sup>25</sup> In the LORD shall all the seed of Israel be justified, and shall glory. 
+
+

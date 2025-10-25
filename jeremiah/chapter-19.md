@@ -1,0 +1,37 @@
+---
+weight: 19
+---
+
+# Chapter 19
+
+<sup>1</sup> Thus said the LORD, Go, and buy a potter’s earthen bottle, and take of the elders of the people, and of the elders of the priests; 
+
+<sup>2</sup> and go forth unto the valley of the son of Hinnom, which is by the entry of the gate Harsith, and proclaim there the words that I shall tell thee: 
+
+<sup>3</sup> and say, Hear ye the word of the LORD, O kings of Judah, and inhabitants of Jerusalem; thus saith the LORD of hosts, the God of Israel, Behold, I will bring evil upon this place, the which whosoever heareth, his ears shall tingle. 
+
+<sup>4</sup> Because they have forsaken me, and have estranged this place, and have burned incense in it unto other gods, whom they knew not, they and their fathers and the kings of Judah; and have filled this place with the blood of innocents; 
+
+<sup>5</sup> and have built the high places of Baal, to burn their sons in the fire for burnt offerings unto Baal; which I commanded not, nor spake it, neither came it into my mind: 
+
+<sup>6</sup> therefore, behold, the days come, saith the LORD, that this place shall no more be called Topheth, nor The valley of the son of Hinnom, but The valley of Slaughter. 
+
+<sup>7</sup> And I will make void the counsel of Judah and Jerusalem in this place; and I will cause them to fall by the sword before their enemies, and by the hand of them that seek their life: and their carcases will I give to be meat for the fowls of the heaven, and for the beasts of the earth. 
+
+<sup>8</sup> And I will make this city an astonishment, and an hissing; every one that passeth thereby shall be astonished and hiss because of all the plagues thereof. 
+
+<sup>9</sup> And I will cause them to eat the flesh of their sons and the flesh of their daughters, and they shall eat every one the flesh of his friend, in the siege and in the straitness, wherewith their enemies, and they that seek their life, shall straiten them. 
+
+<sup>10</sup> Then shalt thou break the bottle in the sight of the men that go with thee, 
+
+<sup>11</sup> and shalt say unto them, Thus saith the LORD of hosts: Even so will I break this people and this city, as one breaketh a potter’s vessel, that cannot be made whole again: and they shall bury in Topheth, till there be no place to bury. 
+
+<sup>12</sup> Thus will I do unto this place, saith the LORD, and to the inhabitants thereof, even making this city as Topheth: 
+
+<sup>13</sup> and the houses of Jerusalem, and the houses of the kings of Judah, which are defiled, shall be as the place of Topheth, even all the houses upon whose roofs they have burned incense unto all the host of heaven, and have poured out drink offerings unto other gods. 
+
+<sup>14</sup> Then came Jeremiah from Topheth, whither the LORD had sent him to prophesy; and he stood in the court of the LORD’S house, and said to all the people: 
+
+<sup>15</sup> Thus saith the LORD of hosts, the God of Israel, Behold, I will bring upon this city and upon all her towns all the evil that I have pronounced against it; because they have made their neck stiff, that they might not hear my words. 
+
+

@@ -1,0 +1,105 @@
+---
+weight: 2
+---
+
+# Chapter 2
+
+<sup>1</sup> And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams; and his spirit was troubled, and his sleep brake from him. 
+
+<sup>2</sup> Then the king commanded to call the magicians, and the enchanters, and the sorcerers, and the Chaldeans, for to tell the king his dreams. So they came in and stood before the king. 
+
+<sup>3</sup> And the king said unto them, I have dreamed a dream, and my spirit is troubled to know the dream. 
+
+<sup>4</sup> Then spake the Chaldeans to the king in the Syrian language, O king, live for ever: tell thy servants the dream, and we will shew the interpretation. 
+
+<sup>5</sup> The king answered and said to the Chaldeans, The thing is gone from me: if ye make not known unto me the dream and the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill. 
+
+<sup>6</sup> But if ye shew the dream and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream and the interpretation thereof. 
+
+<sup>7</sup> They answered the second time and said, Let the king tell his servants the dream, and we will shew the interpretation. 
+
+<sup>8</sup> The king answered and said, I know of a certain that ye would gain time, because ye see the thing is gone from me. 
+
+<sup>9</sup> But if ye make not known unto me the dream, there is but one law for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can shew me the interpretation thereof. 
+
+<sup>10</sup> The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king’s matter: forasmuch as no king, lord, nor ruler, hath asked such a thing of any magician, or enchanter, or Chaldean. 
+
+<sup>11</sup> And it is a rare thing that the king requireth, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh. 
+
+<sup>12</sup> For this cause the king was angry and very furious, and commanded to destroy all the wise men of Babylon. 
+
+<sup>13</sup> So the decree went forth, and the wise men were to be slain; and they sought Daniel and his companions to be slain. 
+
+<sup>14</sup> Then Daniel returned answer with counsel and prudence to Arioch the captain of the king’s guard, which was gone forth to slay the wise men of Babylon; 
+
+<sup>15</sup> he answered and said to Arioch the king’s captain, Wherefore is the decree so urgent from the king? Then Arioch made the thing known to Daniel. 
+
+<sup>16</sup> And Daniel went in, and desired of the king that he would appoint him a time, and he would shew the king the interpretation. 
+
+<sup>17</sup> Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions: 
+
+<sup>18</sup> that they would desire mercies of the God of heaven concerning this secret; that Daniel and his companions should not perish with the rest of the wise men of Babylon. 
+
+<sup>19</sup> Then was the secret revealed unto Daniel in a vision of the night. Then Daniel blessed the God of heaven. 
+
+<sup>20</sup> Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his: 
+
+<sup>21</sup> And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding: 
+
+<sup>22</sup> he revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him. 
+
+<sup>23</sup> I thank thee, and praise thee, O thou God of my fathers, who hast given me wisdom and might, and hast now made known unto me what we desired of thee: for thou hast made known unto us the king’s matter. 
+
+<sup>24</sup> Therefore Daniel went in unto Arioch, whom the king had appointed to destroy the wise men of Babylon: he went and said thus unto him; Destroy not the wise men of Babylon: bring me in before the king, and I will shew unto the king the interpretation. 
+
+<sup>25</sup> Then Arioch brought in Daniel before the king in haste, and said thus unto him, I have found a man of the children of the captivity of Judah, that will make known unto the king the interpretation. 
+
+<sup>26</sup> The king answered and said to Daniel, whose name was Belteshazzar, Art thou able to make known unto me the dream which I have seen, and the interpretation thereof? 
+
+<sup>27</sup> Daniel answered before the king, and said, The secret which the king hath demanded can neither wise men, enchanters, magicians, nor soothsayers, shew unto the king; 
+
+<sup>28</sup> but there is a God in heaven that revealeth secrets, and he hath made known to the king Nebuchadnezzar what shall be in the latter days. Thy dream, and the visions of thy head upon thy bed, are these: 
+
+<sup>29</sup> as for thee, O king, thy thoughts came into thy mind upon thy bed, what should come to pass hereafter: and he that revealeth secrets hath made known to thee what shall come to pass. 
+
+<sup>30</sup> But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but to the intent that the interpretation may be made known to the king, and that thou mayest know the thoughts of thy heart. 
+
+<sup>31</sup> Thou, O king, sawest, and behold a great image. This image, which was mighty, and whose brightness was excellent, stood before thee; and the aspect thereof was terrible. 
+
+<sup>32</sup> As for this image, his head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass, 
+
+<sup>33</sup> his legs of iron, his feet part of iron, and part of clay. 
+
+<sup>34</sup> Thou sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them in pieces. 
+
+<sup>35</sup> Then was the iron, the clay, the brass, the silver, and the gold, broken in pieces together, and became like the chaff of the summer threshing-floors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth. 
+
+<sup>36</sup> This is the dream; and we will tell the interpretation thereof before the king. 
+
+<sup>37</sup> Thou, O king, art king of kings, unto whom the God of heaven hath given the kingdom, the power, and the strength, and the glory; 
+
+<sup>38</sup> and wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into thine hand, and hath made thee to rule over them all: thou art the head of gold. 
+
+<sup>39</sup> And after thee shall arise another kingdom inferior to thee; and another third kingdom of brass, which shall bear rule over all the earth. 
+
+<sup>40</sup> And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things: and as iron that crusheth all these, shall it break in pieces and crush. 
+
+<sup>41</sup> And whereas thou sawest the feet and toes, part of potters’ clay, and part of iron, it shall be a divided kingdom; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay. 
+
+<sup>42</sup> And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken. 
+
+<sup>43</sup> And whereas thou sawest the iron mixed with miry clay, they shall mingle themselves with the seed of men; but they shall not cleave one to another, even as iron doth not mingle with clay. 
+
+<sup>44</sup> And in the days of those kings shall the God of heaven set up a kingdom, which shall never be destroyed, nor shall the sovereignty thereof be left to another people; but it shall break in pieces and consume all these kingdoms, and it shall stand for ever. 
+
+<sup>45</sup> Forasmuch as thou sawest that a stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure. 
+
+<sup>46</sup> Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him. 
+
+<sup>47</sup> The king answered unto Daniel, and said, Of a truth your God is the God of gods, and the Lord of kings, and a revealer of secrets, sing thou hast been able to reveal this secret. 
+
+<sup>48</sup> Then the king made Daniel great, and gave him many great gifts, and made him to rule over the whole province of Babylon, and to be chief governor over all the wise men of Babylon. 
+
+<sup>49</sup> And Daniel requested of the king, and he appointed Shadrach, Meshach, and Abed-nego, over the affairs of the province of Babylon: but Daniel was in the gate of the king. 
+
+
