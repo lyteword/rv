@@ -1,0 +1,83 @@
+---
+weight: 9
+---
+
+# Chapter 9
+
+<sup>1</sup> Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackcloth, and earth upon them. 
+
+<sup>2</sup> And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers. 
+
+<sup>3</sup> And they stood up in their place, and read in the book of the law of the LORD their God a fourth part of the day; and another fourth part they confessed, and worshipped the LORD their God. 
+
+<sup>4</sup> Then stood up upon the stairs of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice unto the LORD their God. 
+
+<sup>5</sup> Then the Levites, Jeshua, and Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, Stand up and bless the LORD your God from everlasting to everlasting: and blessed be thy glorious name, which is exalted above all blessing and praise. 
+
+<sup>6</sup> Thou art the LORD, even thou alone; thou hast made heaven, the heaven of heavens, with all their host, the earth and all things that are thereon, the seas and all that is in them, and thou preservest them all; and the host of heaven worshippeth thee. 
+
+<sup>7</sup> Then art the LORD the God, who didst choose Abram and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham; 
+
+<sup>8</sup> and foundest his heart faithful before thee, and madest a covenant with him to give the land of the Canaanite, the Hittite, the Amorite, and the Perizzite, and the Jebusite, and the Girgashite, even to give it unto his seed, and hast performed thy words; for thou art righteous. 
+
+<sup>9</sup> And thou sawest the affliction of our fathers in Egypt, and heardest their cry by the Red Sea; 
+
+<sup>10</sup> and shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land; for thou knewest that they dealt proudly against them; and didst get thee a name, as it is this day. 
+
+<sup>11</sup> And thou didst divide the sea before them, so that they went through the midst of the sea on the dry land; and their pursuers thou didst cast into the depths, as a stone into the mighty waters. 
+
+<sup>12</sup> Moreover thou leddest them in a pillar of cloud by day; and in a pillar of fire by night, to give them light in the way wherein they should go. 
+
+<sup>13</sup> Thou camest down also upon mount Sinai, and spakest with them from heaven, and gavest them right judgments and true laws, good statutes and commandments: 
+
+<sup>14</sup> and madest known unto them thy holy sabbath, and commandedst them commandments, and statutes, and a law, by the hand of Moses thy servant: 
+
+<sup>15</sup> and gavest them bread from heaven for their hunger, and broughtest forth water for them out of the rock for their thirst, and commandedst them that they should go in to possess the land which thou hadst lifted up thine hand to give them. 
+
+<sup>16</sup> But they and our fathers dealt proudly, and hardened their neck, and hearkened not to thy commandments, 
+
+<sup>17</sup> and refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their neck, and in their rebellion appointed a captain to return to their bondage: but thou art a God ready to pardon, gracious and full of compassion, slow to anger, and plenteous in mercy, and forsookest them not. 
+
+<sup>18</sup> Yea, when they had made them a molten calf, and said, This is thy God that brought thee up out of Egypt, and had wrought great provocations; 
+
+<sup>19</sup> yet thou in thy manifold mercies forsookest them not in the wilderness: the pillar of cloud departed not from over them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way wherein they should go. 
+
+<sup>20</sup> Thou gavest also thy good spirit to instruct them, and withheldest not thy manna from their mouth, and gavest them water for their thirst. 
+
+<sup>21</sup> Yea, forty years didst thou sustain them in the wilderness, and they lacked nothing; their clothes waxed not old, and their feet swelled not. 
+
+<sup>22</sup> Moreover thou gavest them kingdoms and peoples, which thou didst allot after their portions: so they possessed the land of Sihon, even the land of the king of Heshbon, and the land of Og king of Bashan. 
+
+<sup>23</sup> Their children also multipliedst thou as the stars of heaven, and broughtest them into the land, concerning which thou didst say to their fathers, that they should go in to possess it. 
+
+<sup>24</sup> So the children went in and possessed the land, and thou subduedst before them the inhabitants of the land, the Canaanites, and gavest them into their hands, with their kings, and the peoples of the land, that they might do with them as they would. 
+
+<sup>25</sup> And they took fenced cities, and a fat land and possessed houses full of good things, cisterns hewn out, vineyards, and oliveyards, and fruit trees in abundance: so they did eat, and were filled, and became fat, and delighted themselves in thy great goodness. 
+
+<sup>26</sup> Nevertheless they were disobedient, and rebelled against thee, and cast thy law behind their back, and slew thy prophets which testified against them to turn them again unto thee, and they wrought great provocations. 
+
+<sup>27</sup> Therefore thou deliveredst them into the hand of their adversaries, who distressed them: and in the time of their trouble, when they cried unto thee, thou heardest from heaven; and according to thy manifold mercies thou gavest them saviours who saved them out of the hand of their adversaries. 
+
+<sup>28</sup> But after they had rest, they did evil again before thee: therefore leftest thou them in the hand of their enemies, so that they had the dominion over them: yet when they returned, and cried unto thee, thou heardest from heaven; and many times didst thou deliver them according to thy mercies; 
+
+<sup>29</sup> and testifiedst against them, that thou mightest bring them again unto thy law: yet they dealt proudly, and hearkened not unto thy commandments, but sinned against thy judgments, (which if a man do, he shall live in them,) and withdrew the shoulder, and hardened their neck, and would not hear. 
+
+<sup>30</sup> Yet many years didst thou bear with them, and testifiedst against them by thy spirit through thy prophets: yet would they not give ear: therefore gavest thou them into the hand of the peoples of the lands. 
+
+<sup>31</sup> Nevertheless in thy manifold mercies thou didst not make a full end of them, nor forsake them; for thou art a gracious and merciful God. 
+
+<sup>32</sup> Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the travail seem little before thee, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers; and on all thy people, since the time of the kings of Assyria unto this day. 
+
+<sup>33</sup> Howbeit thou art just in all that is come upon us; for thou hast dealt truly, but we have done wickedly: 
+
+<sup>34</sup> neither have our kings, our princes, our priests, nor our fathers, kept thy law, nor hearkened unto thy commandments and thy testimonies, wherewith thou didst testify against them. 
+
+<sup>35</sup> For they have not served thee in their kingdom, and in thy great goodness that thou gavest them, and in the large and fat land which thou gavest before them, neither turned they from their wicked works. 
+
+<sup>36</sup> Behold, we are servants this day, and as for the land that thou gavest unto our fathers to eat the fruit thereof and the good thereof, behold, we are servants in it. 
+
+<sup>37</sup> And it yieldeth much increase unto the kings whom thou hast set over us because of our sins: also they have power over our bodies, and over our cattle, at their pleasure, and we are in great distress. 
+
+<sup>38</sup> And yet for all this we make a sure covenant, and write it; and our princes, our Levites, and our priests, seal unto it. 
+
+

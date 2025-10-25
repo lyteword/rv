@@ -1,0 +1,41 @@
+---
+weight: 3
+---
+
+# Chapter 3
+
+<sup>1</sup> And Joshua rose up early in the morning, and they removed from Shittim, and came to Jordan, he and all the children of Israel; and they lodged there before they passed over. 
+
+<sup>2</sup> And it came to pass after three days, that the officers went through the midst of the camp; 
+
+<sup>3</sup> and they commanded the people, saying, When ye see the ark of the covenant of the LORD your God, and the priests the Levites bearing it, then ye shall remove from your place, and go after it. 
+
+<sup>4</sup> Yet there shall be a space between you and it, about two thousand cubits by measure: come not near unto it, that ye may know the way by which ye must go; for ye have not passed this way heretofore. 
+
+<sup>5</sup> And Joshua said unto the people, Sanctify yourselves: for tomorrow the LORD will do wonders among you. 
+
+<sup>6</sup> And Joshua spake unto the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people. 
+
+<sup>7</sup> And the LORD said unto Joshua, This day will I begin to magnify thee in the sight of all Israel, that they may know that as I was with Moses, so I will be with thee. 
+
+<sup>8</sup> And thou shalt command the priests that bear the ark of the covenant, saying, When ye are come to the brink of the waters of Jordan, ye shall stand still in Jordan. 
+
+<sup>9</sup> And Joshua said unto the children of Israel, Come hither, and hear the words of the LORD your God. 
+
+<sup>10</sup> And Joshua said, Hereby ye shall know that the living God is among you, and that he will without fail drive out from before you the Canaanite, and the Hittite, and the Hivite, and the Perizzite, and the Girgashite, and the Amorite, and the Jebusite. 
+
+<sup>11</sup> Behold, the ark of the covenant of the Lord of all the earth passeth over before you into Jordan. 
+
+<sup>12</sup> Now therefore take you twelve men out of the tribes of Israel, for every tribe a man. 
+
+<sup>13</sup> And it shall come to pass, when the soles of the feet of the priests that bear the ark of the LORD, the Lord of all the earth, shall rest in the waters of Jordan, that the waters of Jordan shall be cut off, even the waters that come down from above; and they shall stand in one heap. 
+
+<sup>14</sup> And it came to pass, when the people removed from their tents, to pass over Jordan, the priests that bare the ark of the covenant being before the people; 
+
+<sup>15</sup> and when they that bare the ark were come unto Jordan, and the feet of the priests that bare the ark were dipped in the brink of the water, (for Jordan overfloweth all its banks all the time of harvest,) 
+
+<sup>16</sup> that the waters which came down from above stood, and rose up in one heap, a great way off, at Adam, the city that is beside Zarethan: and those that went down toward the sea of the Arabah, even the Salt Sea, were wholly cut off: and the people passed over right against Jericho. 
+
+<sup>17</sup> And the priests that bare the ark of the covenant of the LORD stood firm on dry ground in the midst of Jordan, and all Israel passed over on dry ground, until all the nation were passed clean over Jordan. 
+
+

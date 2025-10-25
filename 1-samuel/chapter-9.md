@@ -1,0 +1,61 @@
+---
+weight: 9
+---
+
+# Chapter 9
+
+<sup>1</sup> Now there was a man of Benjamin, whose name was Kish, the son of Abiel, the son of Zeror, the son of Becorath, the son of Aphiah, the son of a Benjamite, a mighty man of valour. 
+
+<sup>2</sup> And he had a son, whose name was Saul, a young man and a goodly: and there was not among the children of Israel a goodlier person than he: from his shoulders and upward he was higher than any of the people. 
+
+<sup>3</sup> And the asses of Kish Saul’s father were lost. And Kish said to Saul his son, Take now one of the servants with thee, and arise, go seek the asses. 
+
+<sup>4</sup> And he passed through the hill country of Ephraim, and passed through the land of Shalishah, but they found them not: then they passed through the land of Shaalim, and there they were not: and he passed through the land of the Benjamites, but they found them not. 
+
+<sup>5</sup> When they were come to the land of Zuph, Saul said to his servant that was with him, Come and let us return; lest my father leave caring for the asses, and take thought for us. 
+
+<sup>6</sup> And he said unto him, Behold now, there is in this city a man of God, and he is a man that is held in honour; all that he saith cometh surely to pass: now let us go thither; peradventure he can tell us concerning our journey whereon we go. 
+
+<sup>7</sup> Then said Saul to his servant, But, behold, if we go, what shall we bring the man? for the bread is spent in our vessels, and there is not a present to bring to the man of God: what have we? 
+
+<sup>8</sup> And the servant answered Saul again, and said, Beheld, I have in my hand the fourth part of a shekel of silver: that will I give to the man of God, to tell us our way. 
+
+<sup>9</sup> (Beforetime in Israel, when a man went to inquire of God, thus he said, Come and let us go to the seer: for he that is now called a Prophet was beforetime called a Seer.) 
+
+<sup>10</sup> Then said Saul to his servant, Well said; come, let us go. So they went unto the city where the man of God was. 
+
+<sup>11</sup> As they went up the ascent to the city, they found young maidens going out to draw water, and said unto them, Is the seer here? 
+
+<sup>12</sup> And they answered them, and said, He is; behold, he is before thee: make haste now, for he is come today into the city; for the people have a sacrifice today in the high place: 
+
+<sup>13</sup> as soon as ye be come into the city, ye shall straightway find him, before he go up to the high place to eat: for the people will not eat until he come, because he doth bless the sacrifice; and afterwards they eat that be bidden. Now therefore get you up; for at this time ye shall find him. 
+
+<sup>14</sup> And they went up to the city; and as they came within the city, behold, Samuel came out against them, for to go up to the high place. 
+
+<sup>15</sup> Now the LORD had revealed unto Samuel a day before Saul came, saying, 
+
+<sup>16</sup> Tomorrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him to be prince over my people Israel, and he shall save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come unto me: 
+
+<sup>17</sup> And when Samuel saw Saul, the LORD said unto him, Behold the man of whom I spake to thee! this same shall have authority over my people. 
+
+<sup>18</sup> Then Saul drew near to Samuel in the gate, and said, Tell me, I pray thee, where the seer’s house is. 
+
+<sup>19</sup> And Samuel answered Saul, and said, I am the seer; go up before me unto the high place, for ye shall eat with me today: and in the morning I will let thee go, and will tell thee all that is in thine heart. 
+
+<sup>20</sup> And as for thine asses that were lost three days ago, set not thy mind on them; for they are found. And for whom is all that is desirable in Israel? Is it not for thee, and for all thy father’s house? 
+
+<sup>21</sup> And Saul answered and said, Am not I a Benjamite, of the smallest of the tribes of Israel? and my family the least of all the families of the tribe of Benjamin? wherefore then speakest thou to me after this manner? 
+
+<sup>22</sup> And Samuel took Saul and his servant, and brought them into the guest-chamber, and made them sit in the chiefest place among them that were bidden, which were about thirty persons. 
+
+<sup>23</sup> And Samuel said unto the cook, Bring the portion which I gave thee, of which I said unto thee, Set it by thee. 
+
+<sup>24</sup> And the cook took up the thigh, and that which was upon it, and set it before Saul. And Samuel said, Behold that which hath been reserved! set it before thee and eat; because unto the appointed time hath it been kept for thee, for I said, I have invited the people. So Saul did eat with Samuel that day. 
+
+<sup>25</sup> And when they were come down from the high place into the city, he communed with Saul upon the housetop. 
+
+<sup>26</sup> And they arose early: and it came to pass about the spring of the day, that Samuel called to Saul on the housetop, saying, Up, that I may send thee away. And Saul arose, and they went out both of them, he and Samuel, abroad. 
+
+<sup>27</sup> As they were going down at the end of the city, Samuel said to Saul, Bid the servant pass on before us, (and he passed on,) but stand thou still at this time, that I may cause thee to hear the word of God. 
+
+
