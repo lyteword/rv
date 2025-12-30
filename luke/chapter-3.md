@@ -4,80 +4,80 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene, 
+**¹** Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene, 
 
-<sup>2</sup> in the high-priesthood of Annas and Caiaphas, the word of God came unto John the son of Zacharias in the wilderness. 
+**²** in the high-priesthood of Annas and Caiaphas, the word of God came unto John the son of Zacharias in the wilderness. 
 
-<sup>3</sup> And he came into all the region round about Jordan, preaching the baptism of repentance unto remission of sins; 
+**³** And he came into all the region round about Jordan, preaching the baptism of repentance unto remission of sins; 
 
-<sup>4</sup> as it is written in the book of the words of Isaiah the prophet, The voice of one crying in the wilderness, Make ye ready the way of the Lord, Make his paths straight. 
+**⁴** as it is written in the book of the words of Isaiah the prophet, The voice of one crying in the wilderness, Make ye ready the way of the Lord, Make his paths straight. 
 
-<sup>5</sup> Every valley shall be filled, And every mountain and hill shall be brought low; And the crooked shall become straight, And the rough ways smooth; 
+**⁵** Every valley shall be filled, And every mountain and hill shall be brought low; And the crooked shall become straight, And the rough ways smooth; 
 
-<sup>6</sup> And all flesh shall see the salvation of God. 
+**⁶** And all flesh shall see the salvation of God. 
 
-<sup>7</sup> He said therefore to the multitudes that went out to be baptized of him, Ye offspring of vipers, who warned you to flee from the wrath to come? 
+**⁷** He said therefore to the multitudes that went out to be baptized of him, Ye offspring of vipers, who warned you to flee from the wrath to come? 
 
-<sup>8</sup> Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham. 
+**⁸** Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham. 
 
-<sup>9</sup> And even now is the axe also laid unto the root of the trees: every tree therefore that bringeth not forth good fruit is hewn down, and cast into the fire. 
+**⁹** And even now is the axe also laid unto the root of the trees: every tree therefore that bringeth not forth good fruit is hewn down, and cast into the fire. 
 
-<sup>10</sup> And the multitudes asked him, saying, What then must we do? 
+**¹⁰** And the multitudes asked him, saying, What then must we do? 
 
-<sup>11</sup> And he answered and said unto them, He that hath two coats, let him impart to him that hath none; and he that hath food, let him do likewise. 
+**¹¹** And he answered and said unto them, He that hath two coats, let him impart to him that hath none; and he that hath food, let him do likewise. 
 
-<sup>12</sup> And there came also publicans to be baptized, and they said unto him, Master, what must we do? 
+**¹²** And there came also publicans to be baptized, and they said unto him, Master, what must we do? 
 
-<sup>13</sup> And he said unto them, Extort no more than that which is appointed you. 
+**¹³** And he said unto them, Extort no more than that which is appointed you. 
 
-<sup>14</sup> And soldiers also asked him, saying, And we, what must we do? And he said unto them, Do violence to no man, neither exact anything wrongfully; and be content with your wages. 
+**¹⁴** And soldiers also asked him, saying, And we, what must we do? And he said unto them, Do violence to no man, neither exact anything wrongfully; and be content with your wages. 
 
-<sup>15</sup> And as the people were in expectation, and all men reasoned in their hearts concerning John, whether haply he were the Christ; 
+**¹⁵** And as the people were in expectation, and all men reasoned in their hearts concerning John, whether haply he were the Christ; 
 
-<sup>16</sup> John answered, saying unto them all, I indeed baptize you with water; but there cometh he that is mightier than I, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire: 
+**¹⁶** John answered, saying unto them all, I indeed baptize you with water; but there cometh he that is mightier than I, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire: 
 
-<sup>17</sup> whose fan is in his hand, throughly to cleanse his threshing-floor, and to gather the wheat into his garner; but the chaff he will burn up with unquenchable fire. 
+**¹⁷** whose fan is in his hand, throughly to cleanse his threshing-floor, and to gather the wheat into his garner; but the chaff he will burn up with unquenchable fire. 
 
-<sup>18</sup> With many other exhortations therefore preached he good tidings unto the people; 
+**¹⁸** With many other exhortations therefore preached he good tidings unto the people; 
 
-<sup>19</sup> but Herod the tetrarch, being reproved by him for Herodias his brother’s wife, and for all the evil things which Herod had done, 
+**¹⁹** but Herod the tetrarch, being reproved by him for Herodias his brother’s wife, and for all the evil things which Herod had done, 
 
-<sup>20</sup> added yet this above all, that he shut up John in prison. 
+**²⁰** added yet this above all, that he shut up John in prison. 
 
-<sup>21</sup> Now it came to pass, when all the people were baptized, that, Jesus also having been baptized, and praying, the heaven was opened, 
+**²¹** Now it came to pass, when all the people were baptized, that, Jesus also having been baptized, and praying, the heaven was opened, 
 
-<sup>22</sup> and the Holy Ghost descended in a bodily form, as a dove, upon him, and a voice came out of heaven, Thou art my beloved Son; in thee I am well pleased. 
+**²²** and the Holy Ghost descended in a bodily form, as a dove, upon him, and a voice came out of heaven, Thou art my beloved Son; in thee I am well pleased. 
 
-<sup>23</sup> And Jesus himself, when he began to teach, was about thirty years of age, being the son (as was supposed) of Joseph, the son of Heli, 
+**²³** And Jesus himself, when he began to teach, was about thirty years of age, being the son (as was supposed) of Joseph, the son of Heli, 
 
-<sup>24</sup> the son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph, 
+**²⁴** the son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph, 
 
-<sup>25</sup> the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai, 
+**²⁵** the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai, 
 
-<sup>26</sup> the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda, 
+**²⁶** the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda, 
 
-<sup>27</sup> the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri, 
+**²⁷** the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri, 
 
-<sup>28</sup> the son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er, 
+**²⁸** the son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er, 
 
-<sup>29</sup> the son of Jesus, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi, 
+**²⁹** the son of Jesus, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi, 
 
-<sup>30</sup> the son of Symeon, the son of Judas, the son of Joseph, the son of Jonam, the son of Eliakim, 
+**³⁰** the son of Symeon, the son of Judas, the son of Joseph, the son of Jonam, the son of Eliakim, 
 
-<sup>31</sup> the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David, 
+**³¹** the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David, 
 
-<sup>32</sup> the son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon, 
+**³²** the son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon, 
 
-<sup>33</sup> the son of Amminadab, the son of Arni, the son of Hezron, the son of Perez, the son of Judah, 
+**³³** the son of Amminadab, the son of Arni, the son of Hezron, the son of Perez, the son of Judah, 
 
-<sup>34</sup> the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor, 
+**³⁴** the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor, 
 
-<sup>35</sup> the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah, 
+**³⁵** the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah, 
 
-<sup>36</sup> the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech, 
+**³⁶** the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech, 
 
-<sup>37</sup> the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalaleel, the son of Cainan, 
+**³⁷** the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalaleel, the son of Cainan, 
 
-<sup>38</sup> the son of Enos, the son of Seth, the son of Adam, the son of God. 
+**³⁸** the son of Enos, the son of Seth, the son of Adam, the son of God. 
 
 

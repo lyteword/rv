@@ -4,22 +4,22 @@ weight: 15
 
 # Chapter 15
 
-<sup>1</sup> The burden of Moab. For in a night Ar of Moab is laid waste, and brought to nought; for in a night Kir of Moab is laid waste, and brought to nought. 
+**¹** The burden of Moab. For in a night Ar of Moab is laid waste, and brought to nought; for in a night Kir of Moab is laid waste, and brought to nought. 
 
-<sup>2</sup> He is gone up to Bayith, and to Dibon, to the high places, to weep: Moab howleth over Nebo, and over Medeba: on all their heads is baldness, every beard is cut off. 
+**²** He is gone up to Bayith, and to Dibon, to the high places, to weep: Moab howleth over Nebo, and over Medeba: on all their heads is baldness, every beard is cut off. 
 
-<sup>3</sup> In their streets they gird themselves with sackcloth: on their housetops, and in their broad places, every one howleth, weeping abundantly. 
+**³** In their streets they gird themselves with sackcloth: on their housetops, and in their broad places, every one howleth, weeping abundantly. 
 
-<sup>4</sup> And Heshbon crieth out, and Elealeh; their voice is heard even unto Jahaz: therefore the armed men of Moab cry aloud; his soul trembleth within him. 
+**⁴** And Heshbon crieth out, and Elealeh; their voice is heard even unto Jahaz: therefore the armed men of Moab cry aloud; his soul trembleth within him. 
 
-<sup>5</sup> My heart crieth out for Moab; her nobles flee unto Zoar, to Eglath-shelishiyah: for by the ascent of Luhith with weeping they go up; for in the way of Horonaim they raise up a cry of destruction. 
+**⁵** My heart crieth out for Moab; her nobles flee unto Zoar, to Eglath-shelishiyah: for by the ascent of Luhith with weeping they go up; for in the way of Horonaim they raise up a cry of destruction. 
 
-<sup>6</sup> For the waters of Nimrim shall be desolate: for the grass is withered away, the tender grass faileth, there is no green thing. 
+**⁶** For the waters of Nimrim shall be desolate: for the grass is withered away, the tender grass faileth, there is no green thing. 
 
-<sup>7</sup> Therefore the abundance they have gotten, and that which they have laid up, shall they carry away to the brook of the willows. 
+**⁷** Therefore the abundance they have gotten, and that which they have laid up, shall they carry away to the brook of the willows. 
 
-<sup>8</sup> For the cry is gone round about the borders of Moab; the howling thereof unto Eglaim, and the howling thereof unto Beer-elim. 
+**⁸** For the cry is gone round about the borders of Moab; the howling thereof unto Eglaim, and the howling thereof unto Beer-elim. 
 
-<sup>9</sup> For the waters of Dimon are full of blood: for I will bring yet more upon Dimon, a lion upon him that escapeth of Moab, and upon the remnant of the land. 
+**⁹** For the waters of Dimon are full of blood: for I will bring yet more upon Dimon, a lion upon him that escapeth of Moab, and upon the remnant of the land. 
 
 

@@ -4,34 +4,34 @@ weight: 14
 
 # Chapter 14
 
-<sup>1</sup> So Abijah slept with his fathers, and they buried him in the city of David, and Asa his son reigned in his stead: in his days the land was quiet ten years. 
+**¹** So Abijah slept with his fathers, and they buried him in the city of David, and Asa his son reigned in his stead: in his days the land was quiet ten years. 
 
-<sup>2</sup> And Asa did that which was good and right in the eyes of the LORD his God: 
+**²** And Asa did that which was good and right in the eyes of the LORD his God: 
 
-<sup>3</sup> for he took away the strange altars, and the high places, and brake down the pillars, and hewed down the Asherim; 
+**³** for he took away the strange altars, and the high places, and brake down the pillars, and hewed down the Asherim; 
 
-<sup>4</sup> and commanded Judah to seek the LORD, the God of their fathers, and to do the law and the commandment. 
+**⁴** and commanded Judah to seek the LORD, the God of their fathers, and to do the law and the commandment. 
 
-<sup>5</sup> Also he took away out of all the cities of Judah the high places and the sun-images: and the kingdom was quiet before him. 
+**⁵** Also he took away out of all the cities of Judah the high places and the sun-images: and the kingdom was quiet before him. 
 
-<sup>6</sup> And he built fenced cities in Judah: for the land was quiet, and he had no war in those years; because the LORD had given him rest. 
+**⁶** And he built fenced cities in Judah: for the land was quiet, and he had no war in those years; because the LORD had given him rest. 
 
-<sup>7</sup> For he said unto Judah, Let us build these cities, and make about them walls, and towers, gates, and bars; the land is yet before us, because we have sought the LORD our God; we have sought him, and he hath given us rest on every side. So they built and prospered. 
+**⁷** For he said unto Judah, Let us build these cities, and make about them walls, and towers, gates, and bars; the land is yet before us, because we have sought the LORD our God; we have sought him, and he hath given us rest on every side. So they built and prospered. 
 
-<sup>8</sup> And Asa had an army that bare bucklers and spears, out of Judah three hundred thousand; and out of Benjamin, that bare shields and drew bows, two hundred and fourscore thousand: an these were mighty men of valour. 
+**⁸** And Asa had an army that bare bucklers and spears, out of Judah three hundred thousand; and out of Benjamin, that bare shields and drew bows, two hundred and fourscore thousand: an these were mighty men of valour. 
 
-<sup>9</sup> And there came out against them Zerah the Ethiopian with an army of a thousand thousand, and three hundred chariots; and he came unto Mareshah. 
+**⁹** And there came out against them Zerah the Ethiopian with an army of a thousand thousand, and three hundred chariots; and he came unto Mareshah. 
 
-<sup>10</sup> Then Asa went out to meet him, and they set the battle in array in the valley of Zephathah at Mareshah. 
+**¹⁰** Then Asa went out to meet him, and they set the battle in array in the valley of Zephathah at Mareshah. 
 
-<sup>11</sup> And Asa cried unto the LORD his God, and said, LORD, there is none beside thee to help, between the mighty and him that hath no strength: help us, O LORD our God; for we rely on thee, and in thy name are we come against this multitude. O LORD, thou art our God; let not man prevail against thee; 
+**¹¹** And Asa cried unto the LORD his God, and said, LORD, there is none beside thee to help, between the mighty and him that hath no strength: help us, O LORD our God; for we rely on thee, and in thy name are we come against this multitude. O LORD, thou art our God; let not man prevail against thee; 
 
-<sup>12</sup> So the LORD smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled. 
+**¹²** So the LORD smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled. 
 
-<sup>13</sup> And Asa and the people that were with him pursued them unto Gerar: and there fell of the Ethiopians so many that they could not recover themselves; for they were destroyed before the LORD, and before his host; and they carried away very much booty. 
+**¹³** And Asa and the people that were with him pursued them unto Gerar: and there fell of the Ethiopians so many that they could not recover themselves; for they were destroyed before the LORD, and before his host; and they carried away very much booty. 
 
-<sup>14</sup> And they smote all the cities round shout Gerar; for the fear of the LORD came upon them: and they spoiled all the cities; for there was much spoil in them: 
+**¹⁴** And they smote all the cities round shout Gerar; for the fear of the LORD came upon them: and they spoiled all the cities; for there was much spoil in them: 
 
-<sup>15</sup> They smote also the tents of cattle, and carried away sheep in abundance and camels, and returned to Jerusalem. 
+**¹⁵** They smote also the tents of cattle, and carried away sheep in abundance and camels, and returned to Jerusalem. 
 
 

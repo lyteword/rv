@@ -4,18 +4,18 @@ weight: 18
 
 # Chapter 18
 
-<sup>1</sup> Ah, the land of the rustling of wings, which is beyond the rivers of Ethiopia: 
+**¹** Ah, the land of the rustling of wings, which is beyond the rivers of Ethiopia: 
 
-<sup>2</sup> that sendeth ambassadors by the sea, even in vessels of papyrus upon the waters, saying, Go, ye swift messengers, to a nation tall and smooth, to a people terrible from their beginning onward; a nation that meteth out and treadeth down, whose land the rivers divide! 
+**²** that sendeth ambassadors by the sea, even in vessels of papyrus upon the waters, saying, Go, ye swift messengers, to a nation tall and smooth, to a people terrible from their beginning onward; a nation that meteth out and treadeth down, whose land the rivers divide! 
 
-<sup>3</sup> All ye inhabitants of the world, and ye dwellers on the earth, when an ensign is lifted up on the mountains, see ye; and when the trumpet is blown, hear ye. 
+**³** All ye inhabitants of the world, and ye dwellers on the earth, when an ensign is lifted up on the mountains, see ye; and when the trumpet is blown, hear ye. 
 
-<sup>4</sup> For thus hath the LORD said unto me, I will be still, and I will behold in my dwelling place; like clear heat in sunshine, like a cloud of dew in the heat of harvest. 
+**⁴** For thus hath the LORD said unto me, I will be still, and I will behold in my dwelling place; like clear heat in sunshine, like a cloud of dew in the heat of harvest. 
 
-<sup>5</sup> For afore the harvest, when the blossom is over, and the flower becometh a ripening grape, he shall cut off the sprigs with pruning-hooks, and the spreading branches shall he take away and cut down. 
+**⁵** For afore the harvest, when the blossom is over, and the flower becometh a ripening grape, he shall cut off the sprigs with pruning-hooks, and the spreading branches shall he take away and cut down. 
 
-<sup>6</sup> They shall be left together unto the ravenous birds of the mountains, and to the beasts of the earth: and the ravenous birds shall summer upon them, and all the beasts of the earth shall winter upon them. 
+**⁶** They shall be left together unto the ravenous birds of the mountains, and to the beasts of the earth: and the ravenous birds shall summer upon them, and all the beasts of the earth shall winter upon them. 
 
-<sup>7</sup> In that time shall a present be brought unto the LORD of hosts of a people tall and smooth, and from a people terrible from their beginning onward; a nation that meteth out and treadeth down, whose land the rivers divide, to the place of the name of the LORD of hosts, the mount Zion. 
+**⁷** In that time shall a present be brought unto the LORD of hosts of a people tall and smooth, and from a people terrible from their beginning onward; a nation that meteth out and treadeth down, whose land the rivers divide, to the place of the name of the LORD of hosts, the mount Zion. 
 
 

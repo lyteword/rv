@@ -4,44 +4,44 @@ weight: 21
 
 # Chapter 21
 
-<sup>1</sup> And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David: and Jehoram his son reigned in his stead. 
+**¹** And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David: and Jehoram his son reigned in his stead. 
 
-<sup>2</sup> And he had brethren the sons of Jehoshaphat, Azariah, and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah: all these were the sons of Jehoshaphat king of Israel. 
+**²** And he had brethren the sons of Jehoshaphat, Azariah, and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah: all these were the sons of Jehoshaphat king of Israel. 
 
-<sup>3</sup> And their father gave them great gifts, of silver, and of gold, and of precious things, with fenced cities in Judah: but the kingdom gave he to Jehoram, because he was the firstborn. 
+**³** And their father gave them great gifts, of silver, and of gold, and of precious things, with fenced cities in Judah: but the kingdom gave he to Jehoram, because he was the firstborn. 
 
-<sup>4</sup> Now when Jehoram was risen up over the kingdom of his father, and had strengthened himself, he slew all his brethren with the sword, and divers also of the princes of Israel. 
+**⁴** Now when Jehoram was risen up over the kingdom of his father, and had strengthened himself, he slew all his brethren with the sword, and divers also of the princes of Israel. 
 
-<sup>5</sup> Jehoram was thirty and two years old when he began to reign; and he reigned eight years in Jerusalem. 
+**⁵** Jehoram was thirty and two years old when he began to reign; and he reigned eight years in Jerusalem. 
 
-<sup>6</sup> And he walked in the way of the kings of Israel, as did the house of Ahab: for he had the daughter of Ahab to wife: and he did that which was evil in the sight of the LORD. 
+**⁶** And he walked in the way of the kings of Israel, as did the house of Ahab: for he had the daughter of Ahab to wife: and he did that which was evil in the sight of the LORD. 
 
-<sup>7</sup> Howbeit the LORD would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a lamp to him and to his children alway. 
+**⁷** Howbeit the LORD would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a lamp to him and to his children alway. 
 
-<sup>8</sup> In his days Edom revolted from under the hand of Judah, and made a king over themselves. 
+**⁸** In his days Edom revolted from under the hand of Judah, and made a king over themselves. 
 
-<sup>9</sup> Then Jehoram passed over with his captains, and all his chariots with him: and he rose up by night, and smote the Edomites which compassed him about, and the captains of the chariots. 
+**⁹** Then Jehoram passed over with his captains, and all his chariots with him: and he rose up by night, and smote the Edomites which compassed him about, and the captains of the chariots. 
 
-<sup>10</sup> So Edom revolted from under the hand of Judah, unto this day: then did Libnah revolt at the same time from under his hand: because he had forsaken the LORD, the God of his fathers. 
+**¹⁰** So Edom revolted from under the hand of Judah, unto this day: then did Libnah revolt at the same time from under his hand: because he had forsaken the LORD, the God of his fathers. 
 
-<sup>11</sup> Moreover he made high places in the mountains of Judah, and made the inhabitants of Jerusalem to go a whoring, and led Judah astray. 
+**¹¹** Moreover he made high places in the mountains of Judah, and made the inhabitants of Jerusalem to go a whoring, and led Judah astray. 
 
-<sup>12</sup> And there came a writing to him from Elijah the prophet, saying, Thus saith the LORD, the God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah; 
+**¹²** And there came a writing to him from Elijah the prophet, saying, Thus saith the LORD, the God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah; 
 
-<sup>13</sup> but hast walked in the way of the kings of Israel, and hast made Judah and the inhabitants of Jerusalem to go a whoring, like as the house of Ahab did; and also hast slain thy brethren of thy father’s house, which were better than thyself: 
+**¹³** but hast walked in the way of the kings of Israel, and hast made Judah and the inhabitants of Jerusalem to go a whoring, like as the house of Ahab did; and also hast slain thy brethren of thy father’s house, which were better than thyself: 
 
-<sup>14</sup> behold, the LORD will smite with a great plague thy people, and thy children, and thy wives, and all thy substance: 
+**¹⁴** behold, the LORD will smite with a great plague thy people, and thy children, and thy wives, and all thy substance: 
 
-<sup>15</sup> and thou shalt have great sickness by disease of thy bowels, until thy bowels fall out by reason of the sickness, day by day. 
+**¹⁵** and thou shalt have great sickness by disease of thy bowels, until thy bowels fall out by reason of the sickness, day by day. 
 
-<sup>16</sup> And the LORD stirred up against Jehoram the spirit of the Philistines, and of the Arabians which are beside the Ethiopians: 
+**¹⁶** And the LORD stirred up against Jehoram the spirit of the Philistines, and of the Arabians which are beside the Ethiopians: 
 
-<sup>17</sup> and they came up against Judah, and brake into it, and carried away all the substance that was found in the king’s house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the youngest of his sons. 
+**¹⁷** and they came up against Judah, and brake into it, and carried away all the substance that was found in the king’s house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the youngest of his sons. 
 
-<sup>18</sup> And after all this the LORD smote him in his bowels with an incurable disease. 
+**¹⁸** And after all this the LORD smote him in his bowels with an incurable disease. 
 
-<sup>19</sup> And it came to pass, in process of time, at the end of two years, that his bowels fell out by reason of his sickness, and he died of sore diseases. And his people made no burning for him, like the burning of his fathers. 
+**¹⁹** And it came to pass, in process of time, at the end of two years, that his bowels fell out by reason of his sickness, and he died of sore diseases. And his people made no burning for him, like the burning of his fathers. 
 
-<sup>20</sup> Thirty and two years old was he when he began to reign, and he reigned in Jerusalem eight years: and he departed without being desired; and they buried him in the city of David, but not in the sepulchres of the kings. 
+**²⁰** Thirty and two years old was he when he began to reign, and he reigned in Jerusalem eight years: and he departed without being desired; and they buried him in the city of David, but not in the sepulchres of the kings. 
 
 

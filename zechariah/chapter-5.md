@@ -4,26 +4,26 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> Then again I lifted up mine eyes, and saw, and behold, a flying roll. 
+**¹** Then again I lifted up mine eyes, and saw, and behold, a flying roll. 
 
-<sup>2</sup> And he said unto me, What seest thou? And I answered, I see a flying roll; the length thereof is twenty cubits, and the breadth thereof ten cubits. 
+**²** And he said unto me, What seest thou? And I answered, I see a flying roll; the length thereof is twenty cubits, and the breadth thereof ten cubits. 
 
-<sup>3</sup> Then said he unto me, This is the curse that goeth forth over the face of the whole land: for every one that stealeth shall be purged out on the one side according to it; and every one that sweareth shall be purged out on the other side according to it. 
+**³** Then said he unto me, This is the curse that goeth forth over the face of the whole land: for every one that stealeth shall be purged out on the one side according to it; and every one that sweareth shall be purged out on the other side according to it. 
 
-<sup>4</sup> I will cause it to go forth, saith the LORD of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall abide in the midst of his house, and shall consume it with the timber thereof and the stones thereof. 
+**⁴** I will cause it to go forth, saith the LORD of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall abide in the midst of his house, and shall consume it with the timber thereof and the stones thereof. 
 
-<sup>5</sup> Then the angel that talked with me went forth, and said unto me, Lift up now thine eyes, and see what is this that goeth forth. 
+**⁵** Then the angel that talked with me went forth, and said unto me, Lift up now thine eyes, and see what is this that goeth forth. 
 
-<sup>6</sup> And I said, What is it? And he said, This is the ephah that goeth forth. He said moreover, This is their resemblance in all the land: 
+**⁶** And I said, What is it? And he said, This is the ephah that goeth forth. He said moreover, This is their resemblance in all the land: 
 
-<sup>7</sup> (and behold, there was lifted up a talent of lead:) and this is a woman sitting in the midst of the ephah. 
+**⁷** (and behold, there was lifted up a talent of lead:) and this is a woman sitting in the midst of the ephah. 
 
-<sup>8</sup> And he said, This is Wickedness; and he cast her down into the midst of the ephah: and he cast the weight of lead upon the mouth thereof. 
+**⁸** And he said, This is Wickedness; and he cast her down into the midst of the ephah: and he cast the weight of lead upon the mouth thereof. 
 
-<sup>9</sup> Then lifted I up mine eyes, and saw, and behold, there came forth two women, and the wind was in their wings; now they had wings like the wings of a stork: and they lifted up the ephah between the earth and the heaven. 
+**⁹** Then lifted I up mine eyes, and saw, and behold, there came forth two women, and the wind was in their wings; now they had wings like the wings of a stork: and they lifted up the ephah between the earth and the heaven. 
 
-<sup>10</sup> Then said I to the angel that talked with me, Whither do these bear the ephah? 
+**¹⁰** Then said I to the angel that talked with me, Whither do these bear the ephah? 
 
-<sup>11</sup> And he said unto me, To build her an house in the land of Shinar: and when it is prepared, she shall be set there in her own place. 
+**¹¹** And he said unto me, To build her an house in the land of Shinar: and when it is prepared, she shall be set there in her own place. 
 
 

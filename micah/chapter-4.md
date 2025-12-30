@@ -4,30 +4,30 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> But in the latter days it shall come to pass, that the mountain of the LORD’S house shall be established in the top of the mountains, and it shall be exalted above the hills; and peoples shall flow unto it. 
+**¹** But in the latter days it shall come to pass, that the mountain of the LORD’S house shall be established in the top of the mountains, and it shall be exalted above the hills; and peoples shall flow unto it. 
 
-<sup>2</sup> And many nations shall go and say, Come ye, and let us go up to the mountain of the LORD, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem. 
+**²** And many nations shall go and say, Come ye, and let us go up to the mountain of the LORD, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem. 
 
-<sup>3</sup> and he shall judge between many peoples, and shall reprove strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more. 
+**³** and he shall judge between many peoples, and shall reprove strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more. 
 
-<sup>4</sup> But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts hath spoken it. 
+**⁴** But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts hath spoken it. 
 
-<sup>5</sup> For all the peoples will walk every one in the name of his god, and we will walk in the name of the LORD our God for ever and ever. 
+**⁵** For all the peoples will walk every one in the name of his god, and we will walk in the name of the LORD our God for ever and ever. 
 
-<sup>6</sup> In that day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven away, and her that I have afflicted; 
+**⁶** In that day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven away, and her that I have afflicted; 
 
-<sup>7</sup> and I will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth even for ever. 
+**⁷** and I will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth even for ever. 
 
-<sup>8</sup> And thou, O tower of the flock, the hill of the daughter of Zion, unto thee shall it come; yea, the former dominion shall come, the kingdom of the daughter of Jerusalem. 
+**⁸** And thou, O tower of the flock, the hill of the daughter of Zion, unto thee shall it come; yea, the former dominion shall come, the kingdom of the daughter of Jerusalem. 
 
-<sup>9</sup> Now why dost thou cry out aloud? Is there no king in thee, is thy counsellor perished, that pangs have taken hold of thee as of a woman in travail? 
+**⁹** Now why dost thou cry out aloud? Is there no king in thee, is thy counsellor perished, that pangs have taken hold of thee as of a woman in travail? 
 
-<sup>10</sup> Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and shalt dwell in the field, and shalt come even unto Babylon; there shalt thou be rescued; there shall the LORD redeem thee from the hand of thine enemies. 
+**¹⁰** Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and shalt dwell in the field, and shalt come even unto Babylon; there shalt thou be rescued; there shall the LORD redeem thee from the hand of thine enemies. 
 
-<sup>11</sup> And now many nations are assembled against thee, that say, Let her be defiled, and let our eye see its desire upon Zion. 
+**¹¹** And now many nations are assembled against thee, that say, Let her be defiled, and let our eye see its desire upon Zion. 
 
-<sup>12</sup> But they know not the thoughts of the LORD, neither understand they his counsel: for he hath gathered them as the sheaves to the threshingfloor. 
+**¹²** But they know not the thoughts of the LORD, neither understand they his counsel: for he hath gathered them as the sheaves to the threshingfloor. 
 
-<sup>13</sup> Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many peoples: and thou shalt devote their gain unto the LORD, and their substance unto the Lord of the whole earth. 
+**¹³** Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many peoples: and thou shalt devote their gain unto the LORD, and their substance unto the Lord of the whole earth. 
 
 

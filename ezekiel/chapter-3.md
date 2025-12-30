@@ -4,58 +4,58 @@ weight: 3
 
 # Chapter 3
 
-<sup>1</sup> And he said unto me, Son of man, eat that thou findest; eat this roll, and go, speak unto the house of Israel. 
+**¹** And he said unto me, Son of man, eat that thou findest; eat this roll, and go, speak unto the house of Israel. 
 
-<sup>2</sup> So I opened my mouth, and he caused me to eat the roll. 
+**²** So I opened my mouth, and he caused me to eat the roll. 
 
-<sup>3</sup> And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness. 
+**³** And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness. 
 
-<sup>4</sup> And he said unto me, Son of man, go, get thee unto the house of Israel, and speak with my words unto them. 
+**⁴** And he said unto me, Son of man, go, get thee unto the house of Israel, and speak with my words unto them. 
 
-<sup>5</sup> For thou art not sent to a people of a strange speech and of an hard language, but to the house of Israel; 
+**⁵** For thou art not sent to a people of a strange speech and of an hard language, but to the house of Israel; 
 
-<sup>6</sup> not to many peoples of a strange speech and of an hard language, whose words thou canst not understand. Surely, if I sent thee to them, they would hearken unto thee. 
+**⁶** not to many peoples of a strange speech and of an hard language, whose words thou canst not understand. Surely, if I sent thee to them, they would hearken unto thee. 
 
-<sup>7</sup> But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel are of an hard forehead and of a stiff heart. 
+**⁷** But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel are of an hard forehead and of a stiff heart. 
 
-<sup>8</sup> Behold, I have made thy face hard against their faces, and thy forehead hard against their foreheads. 
+**⁸** Behold, I have made thy face hard against their faces, and thy forehead hard against their foreheads. 
 
-<sup>9</sup> As an adamant harder than flint have I made thy forehead: fear them not, neither be dismayed at their looks, though they be a rebellious house. 
+**⁹** As an adamant harder than flint have I made thy forehead: fear them not, neither be dismayed at their looks, though they be a rebellious house. 
 
-<sup>10</sup> Moreover he said unto me, Son of man, all my words that I shalt speak unto thee receive in thine heart, and hear with thine ears. 
+**¹⁰** Moreover he said unto me, Son of man, all my words that I shalt speak unto thee receive in thine heart, and hear with thine ears. 
 
-<sup>11</sup> And go, get thee to them of the captivity, unto the children of thy people, and speak unto them, and tell them, Thus saith the Lord GOD; whether they will hear, or whether they will forbear. 
+**¹¹** And go, get thee to them of the captivity, unto the children of thy people, and speak unto them, and tell them, Thus saith the Lord GOD; whether they will hear, or whether they will forbear. 
 
-<sup>12</sup> Then the spirit lifted me up, and I heard behind me the voice of a great rushing, saying, Blessed be the glory of the LORD from his place. 
+**¹²** Then the spirit lifted me up, and I heard behind me the voice of a great rushing, saying, Blessed be the glory of the LORD from his place. 
 
-<sup>13</sup> And I heard the noise of the wings of the living creatures as they touched one another, and the noise of the wheels beside them, even the noise of a great rushing. 
+**¹³** And I heard the noise of the wings of the living creatures as they touched one another, and the noise of the wheels beside them, even the noise of a great rushing. 
 
-<sup>14</sup> So the spirit lifted me up, and took me away: and I went in bitterness, in the heat of my spirit, and the hand of the LORD was strong upon me. 
+**¹⁴** So the spirit lifted me up, and took me away: and I went in bitterness, in the heat of my spirit, and the hand of the LORD was strong upon me. 
 
-<sup>15</sup> Then I came to them of the captivity at Tel-abib, that dwelt by the river Chebar, and to where they dwelt; and I sat there astonied among them seven days. 
+**¹⁵** Then I came to them of the captivity at Tel-abib, that dwelt by the river Chebar, and to where they dwelt; and I sat there astonied among them seven days. 
 
-<sup>16</sup> And it came to pass at the end of seven days, that the word of the LORD came unto me, saying, 
+**¹⁶** And it came to pass at the end of seven days, that the word of the LORD came unto me, saying, 
 
-<sup>17</sup> Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me. 
+**¹⁷** Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me. 
 
-<sup>18</sup> When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood wilt I require at thine hand. 
+**¹⁸** When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood wilt I require at thine hand. 
 
-<sup>19</sup> Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul. 
+**¹⁹** Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul. 
 
-<sup>20</sup> Again, when a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumblingblock before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteous deeds which he hath done shall not be remembered; but his blood will I require at thine hand. 
+**²⁰** Again, when a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumblingblock before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteous deeds which he hath done shall not be remembered; but his blood will I require at thine hand. 
 
-<sup>21</sup> Nevertheless if thou warn the righteous man, that the righteous sin not, and he doth not sin, he shall surely live, because he took warning; and thou hast delivered thy soul. 
+**²¹** Nevertheless if thou warn the righteous man, that the righteous sin not, and he doth not sin, he shall surely live, because he took warning; and thou hast delivered thy soul. 
 
-<sup>22</sup> And the hand of the LORD was there upon me; and he said unto me, Arise, go forth into the plain, and I will there talk with thee. 
+**²²** And the hand of the LORD was there upon me; and he said unto me, Arise, go forth into the plain, and I will there talk with thee. 
 
-<sup>23</sup> Then I arose, and went forth into the plain: and, behold, the glory of the LORD stood there, as the glory which I saw by the river Chebar: and I fell on my face. 
+**²³** Then I arose, and went forth into the plain: and, behold, the glory of the LORD stood there, as the glory which I saw by the river Chebar: and I fell on my face. 
 
-<sup>24</sup> Then the spirit entered into me, and set me upon my feet; and he spake with me, and said unto me, Go, shut thyself within thine house. 
+**²⁴** Then the spirit entered into me, and set me upon my feet; and he spake with me, and said unto me, Go, shut thyself within thine house. 
 
-<sup>25</sup> But thou, son of man, behold, they shall lay bands upon thee, and shall bind thee with them, and thou shalt not go out among them: 
+**²⁵** But thou, son of man, behold, they shall lay bands upon thee, and shall bind thee with them, and thou shalt not go out among them: 
 
-<sup>26</sup> and I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they are a rebellious house. 
+**²⁶** and I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they are a rebellious house. 
 
-<sup>27</sup> But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord GOD: He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house. 
+**²⁷** But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord GOD: He that heareth, let him hear; and he that forbeareth, let him forbear: for they are a rebellious house. 
 
 

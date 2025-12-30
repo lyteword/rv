@@ -4,36 +4,36 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> And when any one offereth an oblation of a meal offering unto the LORD, his oblation shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon: 
+**¹** And when any one offereth an oblation of a meal offering unto the LORD, his oblation shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon: 
 
-<sup>2</sup> and he shall bring it to Aaron’s sons the priests: and he shall take thereout his handful of the fine flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn it as the memorial thereof upon the altar, an offering made by fire, of a sweet savour unto the LORD: 
+**²** and he shall bring it to Aaron’s sons the priests: and he shall take thereout his handful of the fine flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn it as the memorial thereof upon the altar, an offering made by fire, of a sweet savour unto the LORD: 
 
-<sup>3</sup> and that which is left of the meal offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire. 
+**³** and that which is left of the meal offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire. 
 
-<sup>4</sup> And when thou offerest an oblation of a meal offering baken in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil. 
+**⁴** And when thou offerest an oblation of a meal offering baken in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil. 
 
-<sup>5</sup> And if thy oblation be a meal offering of the baking pan, it shall be of fine flour unleavened, mingled with oil. 
+**⁵** And if thy oblation be a meal offering of the baking pan, it shall be of fine flour unleavened, mingled with oil. 
 
-<sup>6</sup> Thou shalt part it in pieces, and pour oil thereon: it is a meal offering. 
+**⁶** Thou shalt part it in pieces, and pour oil thereon: it is a meal offering. 
 
-<sup>7</sup> And if thy oblation be a meal offering of the frying pan, it shall be made of fine flour with oil. 
+**⁷** And if thy oblation be a meal offering of the frying pan, it shall be made of fine flour with oil. 
 
-<sup>8</sup> And thou shalt bring the meal offering that is made of these things unto the LORD: and it shall be presented unto the priest, and he shall bring it unto the altar. 
+**⁸** And thou shalt bring the meal offering that is made of these things unto the LORD: and it shall be presented unto the priest, and he shall bring it unto the altar. 
 
-<sup>9</sup> And the priest shall take up from the meal offering the memorial thereof, and shall burn it upon the altar: an offering made by fire, of a sweet savour unto the LORD. 
+**⁹** And the priest shall take up from the meal offering the memorial thereof, and shall burn it upon the altar: an offering made by fire, of a sweet savour unto the LORD. 
 
-<sup>10</sup> And that which is left of the meal offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire. 
+**¹⁰** And that which is left of the meal offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire. 
 
-<sup>11</sup> No meal offering, which ye shall offer unto the LORD, shall be made with leaven: for ye shall burn no leaven, nor any honey, as an offering made by fire unto the LORD. 
+**¹¹** No meal offering, which ye shall offer unto the LORD, shall be made with leaven: for ye shall burn no leaven, nor any honey, as an offering made by fire unto the LORD. 
 
-<sup>12</sup> As an oblation of firstfruits ye shall offer them unto the LORD: but they shall not come up for a sweet savour on the altar. 
+**¹²** As an oblation of firstfruits ye shall offer them unto the LORD: but they shall not come up for a sweet savour on the altar. 
 
-<sup>13</sup> And every oblation of thy meal offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meal offering: with all thine oblations thou shalt offer salt. 
+**¹³** And every oblation of thy meal offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meal offering: with all thine oblations thou shalt offer salt. 
 
-<sup>14</sup> And if thou offer a meal offering of firstfruits unto the LORD, thou shalt offer for the meal offering of thy firstfruits corn in the ear parched with fire, bruised corn of the fresh ear. 
+**¹⁴** And if thou offer a meal offering of firstfruits unto the LORD, thou shalt offer for the meal offering of thy firstfruits corn in the ear parched with fire, bruised corn of the fresh ear. 
 
-<sup>15</sup> And thou shalt put oil upon it, and lay frankincense thereon: it is a meal offering. 
+**¹⁵** And thou shalt put oil upon it, and lay frankincense thereon: it is a meal offering. 
 
-<sup>16</sup> And the priest shall burn the memorial of it, part of the bruised corn thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto the LORD. 
+**¹⁶** And the priest shall burn the memorial of it, part of the bruised corn thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto the LORD. 
 
 

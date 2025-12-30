@@ -4,34 +4,34 @@ weight: 20
 
 # Chapter 20
 
-<sup>1</sup> And I saw an angel coming down out of heaven, having the key of the abyss and a great chain in his hand. 
+**¹** And I saw an angel coming down out of heaven, having the key of the abyss and a great chain in his hand. 
 
-<sup>2</sup> And he laid hold on the dragon, the old serpent, which is the Devil and Satan, and bound him for a thousand years, 
+**²** And he laid hold on the dragon, the old serpent, which is the Devil and Satan, and bound him for a thousand years, 
 
-<sup>3</sup> and cast him into the abyss, and shut it, and sealed it over him, that he should deceive the nations no more, until the thousand years should be finished: after this he must be loosed for a little time. 
+**³** and cast him into the abyss, and shut it, and sealed it over him, that he should deceive the nations no more, until the thousand years should be finished: after this he must be loosed for a little time. 
 
-<sup>4</sup> And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that had been beheaded for the testimony of Jesus, and for the word of God, and such as worshipped not the beast, neither his image, and received not the mark upon their forehead and upon their hand; and they lived, and reigned with Christ a thousand years. 
+**⁴** And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that had been beheaded for the testimony of Jesus, and for the word of God, and such as worshipped not the beast, neither his image, and received not the mark upon their forehead and upon their hand; and they lived, and reigned with Christ a thousand years. 
 
-<sup>5</sup> The rest of the dead lived not until the thousand years should be finished. This is the first resurrection. 
+**⁵** The rest of the dead lived not until the thousand years should be finished. This is the first resurrection. 
 
-<sup>6</sup> Blessed and holy is he that hath part in the first resurrection: over these the second death hath no power; but they shall be priests of God and of Christ, and shall reign with him a thousand years. 
+**⁶** Blessed and holy is he that hath part in the first resurrection: over these the second death hath no power; but they shall be priests of God and of Christ, and shall reign with him a thousand years. 
 
-<sup>7</sup> And when the thousand years are finished, Satan shall be loosed out of his prison, 
+**⁷** And when the thousand years are finished, Satan shall be loosed out of his prison, 
 
-<sup>8</sup> and shall come forth to deceive the nations which are in the four corners of the earth, Gog and Magog, to gather them together to the war: the number of whom is as the sand of the sea. 
+**⁸** and shall come forth to deceive the nations which are in the four corners of the earth, Gog and Magog, to gather them together to the war: the number of whom is as the sand of the sea. 
 
-<sup>9</sup> And they went up over the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down out of heaven, and devoured them. 
+**⁹** And they went up over the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down out of heaven, and devoured them. 
 
-<sup>10</sup> And the devil that deceived them was cast into the lake of fire and brimstone, where are also the beast and the false prophet; and they shall be tormented day and night for ever and ever. 
+**¹⁰** And the devil that deceived them was cast into the lake of fire and brimstone, where are also the beast and the false prophet; and they shall be tormented day and night for ever and ever. 
 
-<sup>11</sup> And I saw a great white throne, and him that sat upon it, from whose face the earth and the heaven fled away; and there was found no place for them. 
+**¹¹** And I saw a great white throne, and him that sat upon it, from whose face the earth and the heaven fled away; and there was found no place for them. 
 
-<sup>12</sup> And I saw the dead, the great and the small, standing before the throne; and books were opened: and another book was opened, which is the book of life: and the dead were judged out of the things which were written in the books, according to their works. 
+**¹²** And I saw the dead, the great and the small, standing before the throne; and books were opened: and another book was opened, which is the book of life: and the dead were judged out of the things which were written in the books, according to their works. 
 
-<sup>13</sup> And the sea gave up the dead which were in it; and death and Hades gave up the dead which were in them: and they were judged every man according to their works. 
+**¹³** And the sea gave up the dead which were in it; and death and Hades gave up the dead which were in them: and they were judged every man according to their works. 
 
-<sup>14</sup> And death and Hades were cast into the lake of fire. This is the second death, even the lake of fire. 
+**¹⁴** And death and Hades were cast into the lake of fire. This is the second death, even the lake of fire. 
 
-<sup>15</sup> And if any was not found written in the book of life, he was cast into the lake of fire. 
+**¹⁵** And if any was not found written in the book of life, he was cast into the lake of fire. 
 
 

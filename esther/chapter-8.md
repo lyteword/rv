@@ -4,38 +4,38 @@ weight: 8
 
 # Chapter 8
 
-<sup>1</sup> On that day did the king Ahasuerus give the house of Haman the Jews enemy unto Esther the queen. And Mordecai came before the king; for Esther had told what he was unto her. 
+**¹** On that day did the king Ahasuerus give the house of Haman the Jews enemy unto Esther the queen. And Mordecai came before the king; for Esther had told what he was unto her. 
 
-<sup>2</sup> And the king took off his ring, which he had taken from Haman, and gave it unto Mordecai. And Esther set Mordecai over the house of Haman. 
+**²** And the king took off his ring, which he had taken from Haman, and gave it unto Mordecai. And Esther set Mordecai over the house of Haman. 
 
-<sup>3</sup> And Esther spake yet again before the king, and fell down at his feet, and besought him with tears to put away the mischief of Haman the Agagite, and his device that he had devised against the Jews. 
+**³** And Esther spake yet again before the king, and fell down at his feet, and besought him with tears to put away the mischief of Haman the Agagite, and his device that he had devised against the Jews. 
 
-<sup>4</sup> Then the king held out to Esther the golden sceptre. So Esther arose, and stood before the king. 
+**⁴** Then the king held out to Esther the golden sceptre. So Esther arose, and stood before the king. 
 
-<sup>5</sup> And she said, If it please the king, and if I have found favour in his sight, and the thing seem right before the king, and I be pleasing in his eyes, let it be written to reverse the letters devised by Haman the son of Hammedatha the Agagite, which he wrote to destroy the Jews which are in all the king’s provinces: 
+**⁵** And she said, If it please the king, and if I have found favour in his sight, and the thing seem right before the king, and I be pleasing in his eyes, let it be written to reverse the letters devised by Haman the son of Hammedatha the Agagite, which he wrote to destroy the Jews which are in all the king’s provinces: 
 
-<sup>6</sup> for how can I endure to see the evil that shall come unto my people? or how can I endure to see the destruction of my kindred? 
+**⁶** for how can I endure to see the evil that shall come unto my people? or how can I endure to see the destruction of my kindred? 
 
-<sup>7</sup> Then the king Ahasuerus said unto Esther the queen and to Mordecai the Jew, Behold, I have given Esther the house of Haman, and him they have hanged upon the gallows, because he laid his hand upon the Jews. 
+**⁷** Then the king Ahasuerus said unto Esther the queen and to Mordecai the Jew, Behold, I have given Esther the house of Haman, and him they have hanged upon the gallows, because he laid his hand upon the Jews. 
 
-<sup>8</sup> Write ye also to the Jews, as it liketh you, in the king’s name, and seal it with the king’s ring: for the writing which is written in the king’s name, and sealed with the king’s ring, may no man reverse. 
+**⁸** Write ye also to the Jews, as it liketh you, in the king’s name, and seal it with the king’s ring: for the writing which is written in the king’s name, and sealed with the king’s ring, may no man reverse. 
 
-<sup>9</sup> Then were the king’s scribes called at that time, in the third month, which is the month, Sivan, on the three and twentieth day thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the satraps, and the governors and princes of the provinces which are from India unto Ethiopia, an hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language. 
+**⁹** Then were the king’s scribes called at that time, in the third month, which is the month, Sivan, on the three and twentieth day thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the satraps, and the governors and princes of the provinces which are from India unto Ethiopia, an hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language. 
 
-<sup>10</sup> And he wrote in the name of king Ahasuerus, and sealed it with the king’s ring, and sent letters by posts on horseback, riding on swift steeds that were used in the king’s service, bred of the stud: 
+**¹⁰** And he wrote in the name of king Ahasuerus, and sealed it with the king’s ring, and sent letters by posts on horseback, riding on swift steeds that were used in the king’s service, bred of the stud: 
 
-<sup>11</sup> wherein the king granted the Jews which were in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would assault them, their little ones and women, and to take the spoil of them for a prey, 
+**¹¹** wherein the king granted the Jews which were in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would assault them, their little ones and women, and to take the spoil of them for a prey, 
 
-<sup>12</sup> upon one day in all the provinces of king Ahasuerus, namely, upon the thirteenth day of the twelfth month, which is the month Adar. 
+**¹²** upon one day in all the provinces of king Ahasuerus, namely, upon the thirteenth day of the twelfth month, which is the month Adar. 
 
-<sup>13</sup> A copy of the writing, that the decree should be given out in every province, was published unto all the peoples, and that the Jews should be ready against that day to avenge themselves on their enemies. 
+**¹³** A copy of the writing, that the decree should be given out in every province, was published unto all the peoples, and that the Jews should be ready against that day to avenge themselves on their enemies. 
 
-<sup>14</sup> So the posts that rode upon swift steeds that were used in the king’s service went out, being hastened and pressed on by the king’s commandment; and the decree was given out in Shushan the palace. 
+**¹⁴** So the posts that rode upon swift steeds that were used in the king’s service went out, being hastened and pressed on by the king’s commandment; and the decree was given out in Shushan the palace. 
 
-<sup>15</sup> And Mordecai went forth front the presence of the king in royal apparel of blue and white, and with a great crown of gold, and with a robe of fine linen and purple: and the city of Shushan shouted and was glad. 
+**¹⁵** And Mordecai went forth front the presence of the king in royal apparel of blue and white, and with a great crown of gold, and with a robe of fine linen and purple: and the city of Shushan shouted and was glad. 
 
-<sup>16</sup> The Jews had light and gladness, and joy and honour. 
+**¹⁶** The Jews had light and gladness, and joy and honour. 
 
-<sup>17</sup> And in every province, and in every city, whithersoever the king’s commandment and his decree came, the Jews had gladness and joy, a feast and a good day. And many from among the peoples of the land became Jews; for the fear of the Jews was fallen upon them. 
+**¹⁷** And in every province, and in every city, whithersoever the king’s commandment and his decree came, the Jews had gladness and joy, a feast and a good day. And many from among the peoples of the land became Jews; for the fear of the Jews was fallen upon them. 
 
 

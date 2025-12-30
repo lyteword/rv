@@ -4,40 +4,40 @@ weight: 10
 
 # Chapter 10
 
-<sup>1</sup> And after Abimelech there arose to save Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in the hill country of Ephraim. 
+**¹** And after Abimelech there arose to save Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in the hill country of Ephraim. 
 
-<sup>2</sup> And he judged Israel twenty and three years, and died, and was buried in Shamir. 
+**²** And he judged Israel twenty and three years, and died, and was buried in Shamir. 
 
-<sup>3</sup> And after him arose Jair, the Gileadite; and he judged Israel twenty and two years. 
+**³** And after him arose Jair, the Gileadite; and he judged Israel twenty and two years. 
 
-<sup>4</sup> And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havvoth-jair unto this day, which are in the land of Gilead. 
+**⁴** And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havvoth-jair unto this day, which are in the land of Gilead. 
 
-<sup>5</sup> And Jair died, and was buried in Kamon. 
+**⁵** And Jair died, and was buried in Kamon. 
 
-<sup>6</sup> And the children of Israel again did that which was evil in the sight of the LORD, and served the Baalim, and the Ashtaroth, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines; and they forsook the LORD, and served him not. 
+**⁶** And the children of Israel again did that which was evil in the sight of the LORD, and served the Baalim, and the Ashtaroth, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines; and they forsook the LORD, and served him not. 
 
-<sup>7</sup> And the anger of the LORD was kindled against Israel, and he sold them into the hand of the Philistines, and into the hand of the children of Ammon. 
+**⁷** And the anger of the LORD was kindled against Israel, and he sold them into the hand of the Philistines, and into the hand of the children of Ammon. 
 
-<sup>8</sup> And they vexed and oppressed the children of Israel that year: eighteen years oppressed they all the children of Israel that were beyond Jordan in the land of the Amorites, which is in Gilead. 
+**⁸** And they vexed and oppressed the children of Israel that year: eighteen years oppressed they all the children of Israel that were beyond Jordan in the land of the Amorites, which is in Gilead. 
 
-<sup>9</sup> And the children of Ammon passed over Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim; so that Israel was sore distressed. 
+**⁹** And the children of Ammon passed over Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim; so that Israel was sore distressed. 
 
-<sup>10</sup> And the children of Israel cried unto the LORD, saying, We have sinned against thee, even because we have forsaken our God, and have served the Baalim. 
+**¹⁰** And the children of Israel cried unto the LORD, saying, We have sinned against thee, even because we have forsaken our God, and have served the Baalim. 
 
-<sup>11</sup> And the LORD said unto the children of Israel, Did not I save you from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines? 
+**¹¹** And the LORD said unto the children of Israel, Did not I save you from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines? 
 
-<sup>12</sup> The Zidonians also, and the Amalekites, and the Maonites, did oppress you; and ye cried unto me, and I saved you out of their hand. 
+**¹²** The Zidonians also, and the Amalekites, and the Maonites, did oppress you; and ye cried unto me, and I saved you out of their hand. 
 
-<sup>13</sup> Yet ye have forsaken me, and served other gods: wherefore I will save you no more. 
+**¹³** Yet ye have forsaken me, and served other gods: wherefore I will save you no more. 
 
-<sup>14</sup> Go and cry unto the gods which ye have chosen; let them save you in the time of your distress. 
+**¹⁴** Go and cry unto the gods which ye have chosen; let them save you in the time of your distress. 
 
-<sup>15</sup> And the children of Israel said unto the LORD, We have sinned: do thou unto us whatsoever seemeth good unto thee; only deliver us, we pray thee, this day. 
+**¹⁵** And the children of Israel said unto the LORD, We have sinned: do thou unto us whatsoever seemeth good unto thee; only deliver us, we pray thee, this day. 
 
-<sup>16</sup> And they put away the strange gods from among them, and served the LORD: and his soul was grieved for the misery of Israel. 
+**¹⁶** And they put away the strange gods from among them, and served the LORD: and his soul was grieved for the misery of Israel. 
 
-<sup>17</sup> Then the children of Ammon were gathered together, and encamped in Gilead. And the children of Israel assembled themselves together, and encamped in Mizpah. 
+**¹⁷** Then the children of Ammon were gathered together, and encamped in Gilead. And the children of Israel assembled themselves together, and encamped in Mizpah. 
 
-<sup>18</sup> And the people, the princes of Gilead, said one to another, What man is he that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead. 
+**¹⁸** And the people, the princes of Gilead, said one to another, What man is he that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead. 
 
 

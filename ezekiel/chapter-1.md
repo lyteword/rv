@@ -4,60 +4,60 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar, that the heavens were opened, and I saw visions of God. 
+**¹** Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar, that the heavens were opened, and I saw visions of God. 
 
-<sup>2</sup> In the fifth day of the month, which was the fifth year of king Jehoiachin’s captivity, 
+**²** In the fifth day of the month, which was the fifth year of king Jehoiachin’s captivity, 
 
-<sup>3</sup> the word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him. 
+**³** the word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him. 
 
-<sup>4</sup> And I looked, and, behold, a stormy wind came out of the north, a great cloud, with a fire infolding itself, and a brightness round about it, and out of the midst thereof as the colour of amber, out of the midst of the fire. 
+**⁴** And I looked, and, behold, a stormy wind came out of the north, a great cloud, with a fire infolding itself, and a brightness round about it, and out of the midst thereof as the colour of amber, out of the midst of the fire. 
 
-<sup>5</sup> And out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man. 
+**⁵** And out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man. 
 
-<sup>6</sup> And every one had four faces, and every one of them had four wings. 
+**⁶** And every one had four faces, and every one of them had four wings. 
 
-<sup>7</sup> And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot: and they sparkled like the colour of burnished brass. 
+**⁷** And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot: and they sparkled like the colour of burnished brass. 
 
-<sup>8</sup> And they had the hands of a man under their wings on their four sides: and they four had their faces and their wings thus; 
+**⁸** And they had the hands of a man under their wings on their four sides: and they four had their faces and their wings thus; 
 
-<sup>9</sup> their wings were joined one to another; they turned not when they went; they went every one straight forward. 
+**⁹** their wings were joined one to another; they turned not when they went; they went every one straight forward. 
 
-<sup>10</sup> As for the likeness of their faces, they had the face of a man; and they four had the face of a lion on the right side; and they four had the face of an ox on the left side; they four had also the face of an eagle. 
+**¹⁰** As for the likeness of their faces, they had the face of a man; and they four had the face of a lion on the right side; and they four had the face of an ox on the left side; they four had also the face of an eagle. 
 
-<sup>11</sup> And their faces and their wings were separate above; two wings of every one were joined one to another, and two covered their bodies. 
+**¹¹** And their faces and their wings were separate above; two wings of every one were joined one to another, and two covered their bodies. 
 
-<sup>12</sup> And they went every one straight forward: whither the spirit was to go, they went; they turned not when they went. 
+**¹²** And they went every one straight forward: whither the spirit was to go, they went; they turned not when they went. 
 
-<sup>13</sup> As for the likeness of the living creatures, their appearance was like burning coals of fire, like the appearance of torches; it went up and down among the living creatures: and the fire was bright, and out of the fire went forth lightning. 
+**¹³** As for the likeness of the living creatures, their appearance was like burning coals of fire, like the appearance of torches; it went up and down among the living creatures: and the fire was bright, and out of the fire went forth lightning. 
 
-<sup>14</sup> And the living creatures ran and returned as the appearance of a flash of lightning. 
+**¹⁴** And the living creatures ran and returned as the appearance of a flash of lightning. 
 
-<sup>15</sup> Now as I beheld the living creatures, behold one wheel upon the earth beside the living creatures, for each of the four faces thereof. 
+**¹⁵** Now as I beheld the living creatures, behold one wheel upon the earth beside the living creatures, for each of the four faces thereof. 
 
-<sup>16</sup> The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel within a wheel. 
+**¹⁶** The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel within a wheel. 
 
-<sup>17</sup> When they went, they went upon their four sides: they turned not when they went. 
+**¹⁷** When they went, they went upon their four sides: they turned not when they went. 
 
-<sup>18</sup> As for their rings, they were high and dreadful; and they four had their rings full of eyes round about. 
+**¹⁸** As for their rings, they were high and dreadful; and they four had their rings full of eyes round about. 
 
-<sup>19</sup> And when the living creatures went, the wheels went beside them: and when the living creatures were lifted up from the earth, the wheels were lifted up. 
+**¹⁹** And when the living creatures went, the wheels went beside them: and when the living creatures were lifted up from the earth, the wheels were lifted up. 
 
-<sup>20</sup> Whithersoever the spirit was to go, they went; thither was the spirit to go: and the wheels were lifted up beside them; for the spirit of the living creature was in the wheels. 
+**²⁰** Whithersoever the spirit was to go, they went; thither was the spirit to go: and the wheels were lifted up beside them; for the spirit of the living creature was in the wheels. 
 
-<sup>21</sup> When those went, these went; and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up beside them: for the spirit of the living creature was in the wheels. 
+**²¹** When those went, these went; and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up beside them: for the spirit of the living creature was in the wheels. 
 
-<sup>22</sup> And over the head of the living creature there was the likeness of a firmament, like the colour of the terrible crystal, stretched forth over their heads above. 
+**²²** And over the head of the living creature there was the likeness of a firmament, like the colour of the terrible crystal, stretched forth over their heads above. 
 
-<sup>23</sup> And under the firmament were their wings straight, the one toward the other: every one had two which covered on this side, and every one had two which covered on that side, their bodies. 
+**²³** And under the firmament were their wings straight, the one toward the other: every one had two which covered on this side, and every one had two which covered on that side, their bodies. 
 
-<sup>24</sup> And when they went, I heard the noise of their wings, like the noise of great waters, like the voice of the Almighty, a noise of tumult like the noise of an host: when they stood, they let down their wings. 
+**²⁴** And when they went, I heard the noise of their wings, like the noise of great waters, like the voice of the Almighty, a noise of tumult like the noise of an host: when they stood, they let down their wings. 
 
-<sup>25</sup> And there was a voice above the firmament that was over their heads: when they stood, they let down their wings. 
+**²⁵** And there was a voice above the firmament that was over their heads: when they stood, they let down their wings. 
 
-<sup>26</sup> And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was a likeness as the appearance of a man upon it above. 
+**²⁶** And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was a likeness as the appearance of a man upon it above. 
 
-<sup>27</sup> And I saw as the colour of amber, as the appearance of fire within it round about, from the appearance of his loins and upward; and from the appearance of his loins and downward I saw as it were the appearance of fire, and there was brightness round about him. 
+**²⁷** And I saw as the colour of amber, as the appearance of fire within it round about, from the appearance of his loins and upward; and from the appearance of his loins and downward I saw as it were the appearance of fire, and there was brightness round about him. 
 
-<sup>28</sup> As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spake. 
+**²⁸** As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spake. 
 
 

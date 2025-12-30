@@ -4,50 +4,50 @@ weight: 26
 
 # Chapter 26
 
-<sup>1</sup> And all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah. 
+**¹** And all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah. 
 
-<sup>2</sup> He built Eloth, and restored it to Judah, after that the king slept with his fathers. 
+**²** He built Eloth, and restored it to Judah, after that the king slept with his fathers. 
 
-<sup>3</sup> Sixteen years old was Uzziah when he began to reign; and he reigned fifty and two years in Jerusalem: and his mother’s name was Jechiliah of Jerusalem. 
+**³** Sixteen years old was Uzziah when he began to reign; and he reigned fifty and two years in Jerusalem: and his mother’s name was Jechiliah of Jerusalem. 
 
-<sup>4</sup> And he did that which was right in the eyes of the LORD, according to all that his father Amaziah had done. 
+**⁴** And he did that which was right in the eyes of the LORD, according to all that his father Amaziah had done. 
 
-<sup>5</sup> And he set himself to seek God in the days of Zechariah, who had understanding in the vision of God: and as long as he sought the LORD, God made him to prosper. 
+**⁵** And he set himself to seek God in the days of Zechariah, who had understanding in the vision of God: and as long as he sought the LORD, God made him to prosper. 
 
-<sup>6</sup> And he went forth and warred against the Philistines, and brake down the wall of Gath, and the wall of Jabneh, and the wall of Ashdod; and he built cities in the country of Ashdod, and among the Philistines. 
+**⁶** And he went forth and warred against the Philistines, and brake down the wall of Gath, and the wall of Jabneh, and the wall of Ashdod; and he built cities in the country of Ashdod, and among the Philistines. 
 
-<sup>7</sup> And God helped him against the Philistines, and against the Arabians that dwelt in Gur-baal, and the Meunim. 
+**⁷** And God helped him against the Philistines, and against the Arabians that dwelt in Gur-baal, and the Meunim. 
 
-<sup>8</sup> And the Ammonites gave gifts to Uzziah: and his name spread abroad even to the entering in of Egypt; for he waxed exceeding strong. 
+**⁸** And the Ammonites gave gifts to Uzziah: and his name spread abroad even to the entering in of Egypt; for he waxed exceeding strong. 
 
-<sup>9</sup> Moreover Uzziah built towers in Jerusalem at the corner gate, and at the valley gate, and at the turning of the wall, and fortified them. 
+**⁹** Moreover Uzziah built towers in Jerusalem at the corner gate, and at the valley gate, and at the turning of the wall, and fortified them. 
 
-<sup>10</sup> And he built towers in the wilderness, and hewed out many cisterns, for he had much cattle; in the lowland also, and in the plain: and he had husbandmen and vinedressers in the mountains and in the fruitful fields; for he loved husbandry. 
+**¹⁰** And he built towers in the wilderness, and hewed out many cisterns, for he had much cattle; in the lowland also, and in the plain: and he had husbandmen and vinedressers in the mountains and in the fruitful fields; for he loved husbandry. 
 
-<sup>11</sup> Moreover Uzziah had an army of fighting men, that went out to war by bands, according to the number of their reckoning, made by Jeiel the scribe and Maaseiah the officer, under the hand of Hananiah, one of the king’s captains. 
+**¹¹** Moreover Uzziah had an army of fighting men, that went out to war by bands, according to the number of their reckoning, made by Jeiel the scribe and Maaseiah the officer, under the hand of Hananiah, one of the king’s captains. 
 
-<sup>12</sup> The whole number of the heads of fathers’ houses, even the mighty men of valour, was two thousand and six hundred. 
+**¹²** The whole number of the heads of fathers’ houses, even the mighty men of valour, was two thousand and six hundred. 
 
-<sup>13</sup> And under their hand was a trained army, three hundred thousand and seven thousand and five hundred, that made war with mighty power, to help the king against the enemy. 
+**¹³** And under their hand was a trained army, three hundred thousand and seven thousand and five hundred, that made war with mighty power, to help the king against the enemy. 
 
-<sup>14</sup> And Uzziah prepared for them, even for all the host, shields, and spears, and helmets, and coats of mail, and bows, and stones for slinging. 
+**¹⁴** And Uzziah prepared for them, even for all the host, shields, and spears, and helmets, and coats of mail, and bows, and stones for slinging. 
 
-<sup>15</sup> And he made in Jerusalem engines, invented by cunning men, to be on the towers and upon the battlements, to shoot arrows and great stones withal. And his name spread far abroad; for he was marvelously helped, till he was strong. 
+**¹⁵** And he made in Jerusalem engines, invented by cunning men, to be on the towers and upon the battlements, to shoot arrows and great stones withal. And his name spread far abroad; for he was marvelously helped, till he was strong. 
 
-<sup>16</sup> But when he was strong, his heart was lifted up so that he did corruptly, and he trespassed against the LORD his God; for he went into the temple of the LORD to burn incense upon the altar of incense. 
+**¹⁶** But when he was strong, his heart was lifted up so that he did corruptly, and he trespassed against the LORD his God; for he went into the temple of the LORD to burn incense upon the altar of incense. 
 
-<sup>17</sup> And Azariah the priest went in after him, and with him fourscore priests of the LORD, that were valiant men: 
+**¹⁷** And Azariah the priest went in after him, and with him fourscore priests of the LORD, that were valiant men: 
 
-<sup>18</sup> and they withstood Uzziah the king, and said unto him, It pertaineth not unto thee, Uzziah, to burn incense unto the LORD, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the LORD God. 
+**¹⁸** and they withstood Uzziah the king, and said unto him, It pertaineth not unto thee, Uzziah, to burn incense unto the LORD, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the LORD God. 
 
-<sup>19</sup> Then Uzziah was wroth; and he had a censer in his hand to burn incense; and while he was wroth with the priests, the leprosy brake forth in his forehead before the priests in the house of the LORD, beside the altar of incense. 
+**¹⁹** Then Uzziah was wroth; and he had a censer in his hand to burn incense; and while he was wroth with the priests, the leprosy brake forth in his forehead before the priests in the house of the LORD, beside the altar of incense. 
 
-<sup>20</sup> And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out quickly from thence; yea, himself hasted also to go out, because the LORD had smitten him. 
+**²⁰** And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out quickly from thence; yea, himself hasted also to go out, because the LORD had smitten him. 
 
-<sup>21</sup> And Uzziah the king was a leper unto the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of the LORD: and Jotham his son was over the king’s house, judging the people of the land. 
+**²¹** And Uzziah the king was a leper unto the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of the LORD: and Jotham his son was over the king’s house, judging the people of the land. 
 
-<sup>22</sup> Now the rest of the acts of Uzziah, first and last, did Isaiah the prophet, the son of Amoz, write. 
+**²²** Now the rest of the acts of Uzziah, first and last, did Isaiah the prophet, the son of Amoz, write. 
 
-<sup>23</sup> So Uzziah slept with his fathers; and they buried him with his fathers in the field of burial which belonged to the kings; for they said, He is a leper: and Jotham his son reigned in his stead. 
+**²³** So Uzziah slept with his fathers; and they buried him with his fathers in the field of burial which belonged to the kings; for they said, He is a leper: and Jotham his son reigned in his stead. 
 
 

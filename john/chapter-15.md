@@ -4,58 +4,58 @@ weight: 15
 
 # Chapter 15
 
-<sup>1</sup> I am the true vine, and my Father is the husbandman. 
+**¹** I am the true vine, and my Father is the husbandman. 
 
-<sup>2</sup> Every branch in me that beareth not fruit, he taketh it away: and every branch that beareth fruit, he cleanseth it, that it may bear more fruit. 
+**²** Every branch in me that beareth not fruit, he taketh it away: and every branch that beareth fruit, he cleanseth it, that it may bear more fruit. 
 
-<sup>3</sup> Already ye are clean because of the word which I have spoken unto you. 
+**³** Already ye are clean because of the word which I have spoken unto you. 
 
-<sup>4</sup> Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; so neither can ye, except ye abide in me. 
+**⁴** Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; so neither can ye, except ye abide in me. 
 
-<sup>5</sup> I am the vine, ye are the branches: He that abideth in me, and I in him, the same beareth much fruit: for apart from me ye can do nothing. 
+**⁵** I am the vine, ye are the branches: He that abideth in me, and I in him, the same beareth much fruit: for apart from me ye can do nothing. 
 
-<sup>6</sup> If a man abide not in me, he is cast forth as a branch, and is withered; and they gather them, and cast them into the fire, and they are burned. 
+**⁶** If a man abide not in me, he is cast forth as a branch, and is withered; and they gather them, and cast them into the fire, and they are burned. 
 
-<sup>7</sup> If ye abide in me, and my words abide in you, ask whatsoever ye will, and it shall be done unto you. 
+**⁷** If ye abide in me, and my words abide in you, ask whatsoever ye will, and it shall be done unto you. 
 
-<sup>8</sup> Herein is my Father glorified, that ye bear much fruit; and so shall ye be my disciples. 
+**⁸** Herein is my Father glorified, that ye bear much fruit; and so shall ye be my disciples. 
 
-<sup>9</sup> Even as the Father hath loved me, I also have loved you: abide ye in my love. 
+**⁹** Even as the Father hath loved me, I also have loved you: abide ye in my love. 
 
-<sup>10</sup> If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love. 
+**¹⁰** If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love. 
 
-<sup>11</sup> These things have I spoken unto you, that my joy may be in you, and that your joy may be fulfilled. 
+**¹¹** These things have I spoken unto you, that my joy may be in you, and that your joy may be fulfilled. 
 
-<sup>12</sup> This is my commandment, that ye love one another, even as I have loved you. 
+**¹²** This is my commandment, that ye love one another, even as I have loved you. 
 
-<sup>13</sup> Greater love hath no man than this, that a man lay down his life for his friends. 
+**¹³** Greater love hath no man than this, that a man lay down his life for his friends. 
 
-<sup>14</sup> Ye are my friends, if ye do the things which I command you. 
+**¹⁴** Ye are my friends, if ye do the things which I command you. 
 
-<sup>15</sup> No longer do I call you servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I heard from my Father I have made known unto you. 
+**¹⁵** No longer do I call you servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I heard from my Father I have made known unto you. 
 
-<sup>16</sup> Ye did not choose me, but I chose you, and appointed you, that ye should go and bear fruit, and that your fruit should abide: that whatsoever ye shall ask of the Father in my name, he may give it you. 
+**¹⁶** Ye did not choose me, but I chose you, and appointed you, that ye should go and bear fruit, and that your fruit should abide: that whatsoever ye shall ask of the Father in my name, he may give it you. 
 
-<sup>17</sup> These things I command you, that ye may love one another. 
+**¹⁷** These things I command you, that ye may love one another. 
 
-<sup>18</sup> If the world hateth you, ye know that it hath hated me before it hated you. 
+**¹⁸** If the world hateth you, ye know that it hath hated me before it hated you. 
 
-<sup>19</sup> If ye were of the world, the world would love its own: but because ye are not of the world, but I chose you out of the world, therefore the world hateth you. 
+**¹⁹** If ye were of the world, the world would love its own: but because ye are not of the world, but I chose you out of the world, therefore the world hateth you. 
 
-<sup>20</sup> Remember the word that I said unto you, A servant is not greater than his lord. If they persecuted me, they will also persecute you; if they kept my word, they will keep yours also. 
+**²⁰** Remember the word that I said unto you, A servant is not greater than his lord. If they persecuted me, they will also persecute you; if they kept my word, they will keep yours also. 
 
-<sup>21</sup> But all these things will they do unto you for my name’s sake, because they know not him that sent me. 
+**²¹** But all these things will they do unto you for my name’s sake, because they know not him that sent me. 
 
-<sup>22</sup> If I had not come and spoken unto them, they had not had sin: but now they have no excuse for their sin. 
+**²²** If I had not come and spoken unto them, they had not had sin: but now they have no excuse for their sin. 
 
-<sup>23</sup> He that hateth me hateth my Father also. 
+**²³** He that hateth me hateth my Father also. 
 
-<sup>24</sup> If I had not done among them the works which none other did, they had not had sin: but now have they both seen and hated both me and my Father. 
+**²⁴** If I had not done among them the works which none other did, they had not had sin: but now have they both seen and hated both me and my Father. 
 
-<sup>25</sup> But this cometh to pass, that the word may be fulfilled that is written in their law, They hated me without a cause. 
+**²⁵** But this cometh to pass, that the word may be fulfilled that is written in their law, They hated me without a cause. 
 
-<sup>26</sup> But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall bear witness of me: 
+**²⁶** But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall bear witness of me: 
 
-<sup>27</sup> and ye also bear witness, because ye have been with me from the beginning. 
+**²⁷** and ye also bear witness, because ye have been with me from the beginning. 
 
 

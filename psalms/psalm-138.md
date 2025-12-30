@@ -4,20 +4,20 @@ weight: 138
 
 # Psalm 138
 
-<sup>1</sup> A Psalm of David. I will give thee thanks with my whole heart: before the gods will I sing praises unto thee. 
+**¹** A Psalm of David. I will give thee thanks with my whole heart: before the gods will I sing praises unto thee. 
 
-<sup>2</sup> I will worship toward thy holy temple, and give thanks unto thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. 
+**²** I will worship toward thy holy temple, and give thanks unto thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. 
 
-<sup>3</sup> In the day that I called thou answeredst me, thou didst encourage me with strength in my soul. 
+**³** In the day that I called thou answeredst me, thou didst encourage me with strength in my soul. 
 
-<sup>4</sup> All the kings of the earth shall give thee thanks, O LORD, for they have heard the words of thy mouth. 
+**⁴** All the kings of the earth shall give thee thanks, O LORD, for they have heard the words of thy mouth. 
 
-<sup>5</sup> Yea, they shall sing of the ways of the LORD; for great is the glory of the LORD. 
+**⁵** Yea, they shall sing of the ways of the LORD; for great is the glory of the LORD. 
 
-<sup>6</sup> For though the LORD be high, yet hath he respect unto the lowly: but the haughty he knoweth from afar. 
+**⁶** For though the LORD be high, yet hath he respect unto the lowly: but the haughty he knoweth from afar. 
 
-<sup>7</sup> Though I walk in the midst of trouble, thou wilt revive me; thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me. 
+**⁷** Though I walk in the midst of trouble, thou wilt revive me; thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me. 
 
-<sup>8</sup> The LORD will perfect that which concerneth me: thy mercy, O LORD, endureth for ever; forsake not the works of thine own hands. 
+**⁸** The LORD will perfect that which concerneth me: thy mercy, O LORD, endureth for ever; forsake not the works of thine own hands. 
 
 

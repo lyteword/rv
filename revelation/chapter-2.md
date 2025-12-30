@@ -4,62 +4,62 @@ weight: 2
 
 # Chapter 2
 
-<sup>1</sup> To the angel of the church in Ephesus write; These things saith he that holdeth the seven stars in his right hand, he that walketh in the midst of the seven golden candlesticks: 
+**¹** To the angel of the church in Ephesus write; These things saith he that holdeth the seven stars in his right hand, he that walketh in the midst of the seven golden candlesticks: 
 
-<sup>2</sup> I know thy works, and thy toil and patience, and that thou canst not bear evil men, and didst try them which call themselves apostles, and they are not, and didst find them false; 
+**²** I know thy works, and thy toil and patience, and that thou canst not bear evil men, and didst try them which call themselves apostles, and they are not, and didst find them false; 
 
-<sup>3</sup> and thou hast patience and didst bear for my name’s sake, and hast not grown weary. 
+**³** and thou hast patience and didst bear for my name’s sake, and hast not grown weary. 
 
-<sup>4</sup> But I have this against thee, that thou didst leave thy first love. 
+**⁴** But I have this against thee, that thou didst leave thy first love. 
 
-<sup>5</sup> Remember therefore from whence thou art fallen, and repent, and do the first works; or else I come to thee, and will move thy candlestick out of its place, except thou repent. 
+**⁵** Remember therefore from whence thou art fallen, and repent, and do the first works; or else I come to thee, and will move thy candlestick out of its place, except thou repent. 
 
-<sup>6</sup> But this thou hast, that thou hatest the works of the Nicolaitans, which I also hate. 
+**⁶** But this thou hast, that thou hatest the works of the Nicolaitans, which I also hate. 
 
-<sup>7</sup> He that hath an ear, let him hear what the Spirit saith to the churches. To him that overcometh, to him will I give to eat of the tree of life, which is in the Paradise of God. 
+**⁷** He that hath an ear, let him hear what the Spirit saith to the churches. To him that overcometh, to him will I give to eat of the tree of life, which is in the Paradise of God. 
 
-<sup>8</sup> And to the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and lived again: 
+**⁸** And to the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and lived again: 
 
-<sup>9</sup> I know thy tribulation, and thy poverty (but thou art rich), and the blasphemy of them which say they are Jews, and they are not, but are a synagogue of Satan. 
+**⁹** I know thy tribulation, and thy poverty (but thou art rich), and the blasphemy of them which say they are Jews, and they are not, but are a synagogue of Satan. 
 
-<sup>10</sup> Fear not the things which thou art about to suffer: behold, the devil is about to cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days. Be thou faithful unto death, and I will give thee the crown of life. 
+**¹⁰** Fear not the things which thou art about to suffer: behold, the devil is about to cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days. Be thou faithful unto death, and I will give thee the crown of life. 
 
-<sup>11</sup> He that hath an ear, let him hear what the Spirit saith to the churches. He that overcometh shall not be hurt of the second death. 
+**¹¹** He that hath an ear, let him hear what the Spirit saith to the churches. He that overcometh shall not be hurt of the second death. 
 
-<sup>12</sup> And to the angel of the church in Pergamum write; These things saith he that hath the sharp two-edged sword: 
+**¹²** And to the angel of the church in Pergamum write; These things saith he that hath the sharp two-edged sword: 
 
-<sup>13</sup> I know where thou dwellest, even where Satan’s throne is: and thou holdest fast my name, and didst not deny my faith, even in the days of Antipas my witness, my faithful one, who was killed among you, where Satan dwelleth. 
+**¹³** I know where thou dwellest, even where Satan’s throne is: and thou holdest fast my name, and didst not deny my faith, even in the days of Antipas my witness, my faithful one, who was killed among you, where Satan dwelleth. 
 
-<sup>14</sup> But I have a few things against thee, because thou hast there some that hold the teaching of Balaam, who taught Balak to cast a stumblingblock before the children of Israel, to eat things sacrificed to idols, and to commit fornication. 
+**¹⁴** But I have a few things against thee, because thou hast there some that hold the teaching of Balaam, who taught Balak to cast a stumblingblock before the children of Israel, to eat things sacrificed to idols, and to commit fornication. 
 
-<sup>15</sup> So hast thou also some that hold the teaching of the Nicolaitans in like manner. 
+**¹⁵** So hast thou also some that hold the teaching of the Nicolaitans in like manner. 
 
-<sup>16</sup> Repent therefore; or else I come to thee quickly, and I will make war against them with the sword of my mouth. 
+**¹⁶** Repent therefore; or else I come to thee quickly, and I will make war against them with the sword of my mouth. 
 
-<sup>17</sup> He that hath an ear, let him hear what the Spirit saith to the churches. To him that overcometh, to him will I give of the hidden manna, and I will give him a white stone, and upon the stone a new name written, which no one knoweth but he that receiveth it. 
+**¹⁷** He that hath an ear, let him hear what the Spirit saith to the churches. To him that overcometh, to him will I give of the hidden manna, and I will give him a white stone, and upon the stone a new name written, which no one knoweth but he that receiveth it. 
 
-<sup>18</sup> And to the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like a flame of fire, and his feet are like unto burnished brass: 
+**¹⁸** And to the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like a flame of fire, and his feet are like unto burnished brass: 
 
-<sup>19</sup> I know thy works, and thy love and faith and ministry and patience, and that thy last works are more than the first. 
+**¹⁹** I know thy works, and thy love and faith and ministry and patience, and that thy last works are more than the first. 
 
-<sup>20</sup> But I have this against thee, that thou sufferest the woman Jezebel, which calleth herself a prophetess; and she teacheth and seduceth my servants to commit fornication, and to eat things sacrificed to idols. 
+**²⁰** But I have this against thee, that thou sufferest the woman Jezebel, which calleth herself a prophetess; and she teacheth and seduceth my servants to commit fornication, and to eat things sacrificed to idols. 
 
-<sup>21</sup> And I gave her time that she should repent; and she willeth not to repent of her fornication. 
+**²¹** And I gave her time that she should repent; and she willeth not to repent of her fornication. 
 
-<sup>22</sup> Behold, I do cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of her works. 
+**²²** Behold, I do cast her into a bed, and them that commit adultery with her into great tribulation, except they repent of her works. 
 
-<sup>23</sup> And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto each one of you according to your works. 
+**²³** And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto each one of you according to your works. 
 
-<sup>24</sup> But to you I say, to the rest that are in Thyatira, as many as have not this teaching, which know not the deep things of Satan, as they say; I cast upon you none other burden. 
+**²⁴** But to you I say, to the rest that are in Thyatira, as many as have not this teaching, which know not the deep things of Satan, as they say; I cast upon you none other burden. 
 
-<sup>25</sup> Howbeit that which ye have, hold fast till I come. 
+**²⁵** Howbeit that which ye have, hold fast till I come. 
 
-<sup>26</sup> And he that overcometh, and he that keepeth my works unto the end, to him will I give authority over the nations: 
+**²⁶** And he that overcometh, and he that keepeth my works unto the end, to him will I give authority over the nations: 
 
-<sup>27</sup> and he shall rule them with a rod of iron, as the vessels of the potter are broken to shivers; as I also have received of my Father: 
+**²⁷** and he shall rule them with a rod of iron, as the vessels of the potter are broken to shivers; as I also have received of my Father: 
 
-<sup>28</sup> and I will give him the morning star. 
+**²⁸** and I will give him the morning star. 
 
-<sup>29</sup> He that hath an ear, let him hear what the Spirit saith to the churches. 
+**²⁹** He that hath an ear, let him hear what the Spirit saith to the churches. 
 
 

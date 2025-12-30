@@ -4,84 +4,84 @@ weight: 31
 
 # Chapter 31
 
-<sup>1</sup> At that time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people. 
+**¹** At that time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people. 
 
-<sup>2</sup> Thus saith the LORD, The people which were left of the sword found grace in the wilderness; even Israel, when I went to cause him to rest. 
+**²** Thus saith the LORD, The people which were left of the sword found grace in the wilderness; even Israel, when I went to cause him to rest. 
 
-<sup>3</sup> The LORD appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee. 
+**³** The LORD appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee. 
 
-<sup>4</sup> Again will I build thee, and thou shalt be built, O virgin of Israel: again shalt thou be adorned with thy tabrets, and shalt go forth in the dances of them that make merry. 
+**⁴** Again will I build thee, and thou shalt be built, O virgin of Israel: again shalt thou be adorned with thy tabrets, and shalt go forth in the dances of them that make merry. 
 
-<sup>5</sup> Again shalt thou plant vineyards upon the mountains of Samaria: the planters shall plant, and shall enjoy the fruit thereof. 
+**⁵** Again shalt thou plant vineyards upon the mountains of Samaria: the planters shall plant, and shall enjoy the fruit thereof. 
 
-<sup>6</sup> For there shall be a day, that the watchmen upon the hills of Ephraim shall cry, Arise ye, and let us go up to Zion unto the LORD our God. 
+**⁶** For there shall be a day, that the watchmen upon the hills of Ephraim shall cry, Arise ye, and let us go up to Zion unto the LORD our God. 
 
-<sup>7</sup> For thus saith the LORD, Sing with gladness for Jacob, and shout for the chief of the nations: publish ye, praise ye, and say, O LORD, save thy people, the remnant of Israel. 
+**⁷** For thus saith the LORD, Sing with gladness for Jacob, and shout for the chief of the nations: publish ye, praise ye, and say, O LORD, save thy people, the remnant of Israel. 
 
-<sup>8</sup> Behold, I will bring them from the north country, and gather them from the uttermost parts of the earth, and with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall they return hither. 
+**⁸** Behold, I will bring them from the north country, and gather them from the uttermost parts of the earth, and with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall they return hither. 
 
-<sup>9</sup> They shall come with weeping, and with supplications will I lead them: I will cause them to walk by rivers of waters, in a straight way wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn. 
+**⁹** They shall come with weeping, and with supplications will I lead them: I will cause them to walk by rivers of waters, in a straight way wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn. 
 
-<sup>10</sup> Hear the word of the LORD, O ye nations, and declare it in the isles afar off; and say, He that scattered Israel will gather him, and keep him, as a shepherd doth his flock. 
+**¹⁰** Hear the word of the LORD, O ye nations, and declare it in the isles afar off; and say, He that scattered Israel will gather him, and keep him, as a shepherd doth his flock. 
 
-<sup>11</sup> For the LORD hath ransomed Jacob, and redeemed him from the hand of him that was stronger than he. 
+**¹¹** For the LORD hath ransomed Jacob, and redeemed him from the hand of him that was stronger than he. 
 
-<sup>12</sup> And they shall come and sing in the height of Zion, and shall flow together unto the goodness of the LORD, to the corn, and to the wine, and to the oil, and to the young of the flock and of the herd: and their soul shall be as a watered garden; and they shall not sorrow any more at all. 
+**¹²** And they shall come and sing in the height of Zion, and shall flow together unto the goodness of the LORD, to the corn, and to the wine, and to the oil, and to the young of the flock and of the herd: and their soul shall be as a watered garden; and they shall not sorrow any more at all. 
 
-<sup>13</sup> Then shall the virgin rejoice in the dance, and the young men and the old together: for I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow. 
+**¹³** Then shall the virgin rejoice in the dance, and the young men and the old together: for I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow. 
 
-<sup>14</sup> And I will satiate the soul of the priests with fatness, and my people shall be satisfied with my goodness, saith the LORD. 
+**¹⁴** And I will satiate the soul of the priests with fatness, and my people shall be satisfied with my goodness, saith the LORD. 
 
-<sup>15</sup> Thus saith the LORD: A voice is heard in Ramah, lamentation, and bitter weeping, Rachel weeping for her children; she refuseth to be comforted for her children, because they are not. 
+**¹⁵** Thus saith the LORD: A voice is heard in Ramah, lamentation, and bitter weeping, Rachel weeping for her children; she refuseth to be comforted for her children, because they are not. 
 
-<sup>16</sup> Thus saith the LORD: Refrain thy voice from weeping, and thine eyes from tears: for thy work shall be rewarded, saith the LORD; and they shall come again from the land of the enemy. 
+**¹⁶** Thus saith the LORD: Refrain thy voice from weeping, and thine eyes from tears: for thy work shall be rewarded, saith the LORD; and they shall come again from the land of the enemy. 
 
-<sup>17</sup> And there is hope for thy latter end, saith the LORD; and thy children shall come again to their own border. 
+**¹⁷** And there is hope for thy latter end, saith the LORD; and thy children shall come again to their own border. 
 
-<sup>18</sup> I have surely heard Ephraim bemoaning himself thus, Thou hast chastised me, and I was chastised, as a calf unaccustomed to the yoke: turn thou me, and I shall be turned; for thou art the LORD my God. 
+**¹⁸** I have surely heard Ephraim bemoaning himself thus, Thou hast chastised me, and I was chastised, as a calf unaccustomed to the yoke: turn thou me, and I shall be turned; for thou art the LORD my God. 
 
-<sup>19</sup> Surely after that I was turned, I repented; and after that I was instructed, I smote upon my thigh: I was ashamed, yea, even confounded, because I did bear the reproach of my youth. 
+**¹⁹** Surely after that I was turned, I repented; and after that I was instructed, I smote upon my thigh: I was ashamed, yea, even confounded, because I did bear the reproach of my youth. 
 
-<sup>20</sup> Is Ephraim my dear son? is he a pleasant child? for as often as I speak against him, I do earnestly remember him still: therefore my bowels are troubled for him; I will surely have mercy upon him, saith the LORD. 
+**²⁰** Is Ephraim my dear son? is he a pleasant child? for as often as I speak against him, I do earnestly remember him still: therefore my bowels are troubled for him; I will surely have mercy upon him, saith the LORD. 
 
-<sup>21</sup> Set thee up waymarks, make thee guide-posts: set thine heart toward the highway, even the way by which thou wentest: turn again, O virgin of Israel, turn again to these thy cities. 
+**²¹** Set thee up waymarks, make thee guide-posts: set thine heart toward the highway, even the way by which thou wentest: turn again, O virgin of Israel, turn again to these thy cities. 
 
-<sup>22</sup> How long wilt thou go hither and thither, O thou backsliding daughter? for the LORD hath created a new thing in the earth, A woman shall encompass a man. 
+**²²** How long wilt thou go hither and thither, O thou backsliding daughter? for the LORD hath created a new thing in the earth, A woman shall encompass a man. 
 
-<sup>23</sup> Thus saith the LORD of hosts, the God of Israel: Yet again shall they use this speech in the land of Judah and in the cities thereof, when I shall bring again their captivity: The LORD bless thee, O habitation of justice, O mountain of holiness. 
+**²³** Thus saith the LORD of hosts, the God of Israel: Yet again shall they use this speech in the land of Judah and in the cities thereof, when I shall bring again their captivity: The LORD bless thee, O habitation of justice, O mountain of holiness. 
 
-<sup>24</sup> And Judah and all the cities thereof shall dwell therein together; the husbandmen, and they that go about with flocks. 
+**²⁴** And Judah and all the cities thereof shall dwell therein together; the husbandmen, and they that go about with flocks. 
 
-<sup>25</sup> For I have satiated the weary soul, and every sorrowful soul have I replenished. 
+**²⁵** For I have satiated the weary soul, and every sorrowful soul have I replenished. 
 
-<sup>26</sup> Upon this I awaked, and beheld; and my sleep was sweet unto me. 
+**²⁶** Upon this I awaked, and beheld; and my sleep was sweet unto me. 
 
-<sup>27</sup> Behold, the days come, saith the LORD, that I will sow the house of Israel and the house of Judah with the seed of man, and with the seed of beast. 
+**²⁷** Behold, the days come, saith the LORD, that I will sow the house of Israel and the house of Judah with the seed of man, and with the seed of beast. 
 
-<sup>28</sup> And it shall come to pass, that like as I have watched over them to pluck up and to break down, and to overthrow and to destroy, and to afflict; so will I watch over them to build and to plant, saith the LORD. 
+**²⁸** And it shall come to pass, that like as I have watched over them to pluck up and to break down, and to overthrow and to destroy, and to afflict; so will I watch over them to build and to plant, saith the LORD. 
 
-<sup>29</sup> In those days they shall say no more, The fathers have eaten sour grapes, and the children’s teeth are set on edge. 
+**²⁹** In those days they shall say no more, The fathers have eaten sour grapes, and the children’s teeth are set on edge. 
 
-<sup>30</sup> But every one shall die for his own iniquity: every man that eateth the sour grapes, his teeth shall be set on edge. 
+**³⁰** But every one shall die for his own iniquity: every man that eateth the sour grapes, his teeth shall be set on edge. 
 
-<sup>31</sup> Behold, the days come, saith the LORD, that I will make a new covenant with the house of Israel, and with the house of Judah: 
+**³¹** Behold, the days come, saith the LORD, that I will make a new covenant with the house of Israel, and with the house of Judah: 
 
-<sup>32</sup> not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the LORD. 
+**³²** not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the LORD. 
 
-<sup>33</sup> But this is the covenant that I will make with the house of Israel after those days, saith the LORD; I will put my law in their inward parts, and in their heart will I write it; and I will be their God, and they shall be my people: 
+**³³** But this is the covenant that I will make with the house of Israel after those days, saith the LORD; I will put my law in their inward parts, and in their heart will I write it; and I will be their God, and they shall be my people: 
 
-<sup>34</sup> and they shall teach no more every man his neighbour, and every man his brother, saying, Know the LORD: for they shall all know me, from the least of them unto the greatest of them, saith the LORD: for I will forgive their iniquity, and their sin will I remember no more. 
+**³⁴** and they shall teach no more every man his neighbour, and every man his brother, saying, Know the LORD: for they shall all know me, from the least of them unto the greatest of them, saith the LORD: for I will forgive their iniquity, and their sin will I remember no more. 
 
-<sup>35</sup> Thus saith the LORD, which giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, which stirreth up the sea, that the waves thereof roar; the LORD of hosts is his name: 
+**³⁵** Thus saith the LORD, which giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, which stirreth up the sea, that the waves thereof roar; the LORD of hosts is his name: 
 
-<sup>36</sup> If these ordinances depart from before me, saith the LORD, then the seed of Israel also shall cease from being a nation before me for ever. 
+**³⁶** If these ordinances depart from before me, saith the LORD, then the seed of Israel also shall cease from being a nation before me for ever. 
 
-<sup>37</sup> Thus saith the LORD: If heaven above can be measured, and the foundations of the earth searched out beneath, then will I also cast off all the seed of Israel for all that they have done, saith the LORD. 
+**³⁷** Thus saith the LORD: If heaven above can be measured, and the foundations of the earth searched out beneath, then will I also cast off all the seed of Israel for all that they have done, saith the LORD. 
 
-<sup>38</sup> Behold, the days come, saith the LORD, that the city shall be built to the LORD from the tower of Hananel unto the gate of the corner. 
+**³⁸** Behold, the days come, saith the LORD, that the city shall be built to the LORD from the tower of Hananel unto the gate of the corner. 
 
-<sup>39</sup> And the measuring line shall yet go out straight onward unto the hill Gareb, and shall turn about unto Goah. 
+**³⁹** And the measuring line shall yet go out straight onward unto the hill Gareb, and shall turn about unto Goah. 
 
-<sup>40</sup> And the whole valley of the dead bodies, and of the ashes, and all the fields unto the brook Kidron, unto the corner of the horse gate toward the east, shall be holy unto the LORD; it shall not be plucked up, nor thrown down any more for ever. 
+**⁴⁰** And the whole valley of the dead bodies, and of the ashes, and all the fields unto the brook Kidron, unto the corner of the horse gate toward the east, shall be holy unto the LORD; it shall not be plucked up, nor thrown down any more for ever. 
 
 

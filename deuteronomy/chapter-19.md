@@ -4,46 +4,46 @@ weight: 19
 
 # Chapter 19
 
-<sup>1</sup> When the LORD thy God shall cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses; 
+**¹** When the LORD thy God shall cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses; 
 
-<sup>2</sup> thou shalt separate three cities for thee in the midst of thy land, which the LORD thy God giveth thee to possess it. 
+**²** thou shalt separate three cities for thee in the midst of thy land, which the LORD thy God giveth thee to possess it. 
 
-<sup>3</sup> Thou shalt prepare thee the way, and divide the borders of thy land, which the LORD thy God causeth thee to inherit, into three parts, that every manslayer may flee thither. 
+**³** Thou shalt prepare thee the way, and divide the borders of thy land, which the LORD thy God causeth thee to inherit, into three parts, that every manslayer may flee thither. 
 
-<sup>4</sup> And this is the case of the manslayer, which shall flee thither and live: whoso killeth his neighbour unawares, and hated him not in time past; 
+**⁴** And this is the case of the manslayer, which shall flee thither and live: whoso killeth his neighbour unawares, and hated him not in time past; 
 
-<sup>5</sup> as when a man goeth into the forest with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of these cities and live: 
+**⁵** as when a man goeth into the forest with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of these cities and live: 
 
-<sup>6</sup> lest the avenger of blood pursue the manslayer, while his heart is hot, and overtake him, because the way is long, and smite him mortally; whereas he was not worthy of death, inasmuch as he hated him not in time past. 
+**⁶** lest the avenger of blood pursue the manslayer, while his heart is hot, and overtake him, because the way is long, and smite him mortally; whereas he was not worthy of death, inasmuch as he hated him not in time past. 
 
-<sup>7</sup> Wherefore I command thee, saying, Thou shalt separate three cities for thee. 
+**⁷** Wherefore I command thee, saying, Thou shalt separate three cities for thee. 
 
-<sup>8</sup> And if the LORD thy God enlarge thy border, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers; 
+**⁸** And if the LORD thy God enlarge thy border, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers; 
 
-<sup>9</sup> if thou shalt keep all this commandment to do it, which I command thee this day, to love the LORD thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three: 
+**⁹** if thou shalt keep all this commandment to do it, which I command thee this day, to love the LORD thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three: 
 
-<sup>10</sup> that innocent blood be not shed in the midst of thy land, which the LORD thy God giveth thee for an inheritance, and so blood be upon thee. 
+**¹⁰** that innocent blood be not shed in the midst of thy land, which the LORD thy God giveth thee for an inheritance, and so blood be upon thee. 
 
-<sup>11</sup> But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die; and he flee into one of these cities: 
+**¹¹** But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die; and he flee into one of these cities: 
 
-<sup>12</sup> then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die. 
+**¹²** then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die. 
 
-<sup>13</sup> Thine eye shall not pity him, but thou shalt put away the innocent blood from Israel, that it may go well with thee. 
+**¹³** Thine eye shall not pity him, but thou shalt put away the innocent blood from Israel, that it may go well with thee. 
 
-<sup>14</sup> Thou shalt not remove thy neighbour’s landmark, which they of old time have set, in thine inheritance which thou shalt inherit, in the land that the LORD thy God giveth thee to possess it. 
+**¹⁴** Thou shalt not remove thy neighbour’s landmark, which they of old time have set, in thine inheritance which thou shalt inherit, in the land that the LORD thy God giveth thee to possess it. 
 
-<sup>15</sup> One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established. 
+**¹⁵** One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established. 
 
-<sup>16</sup> If an unrighteous witness rise up against any man to testify against him of wrong-doing; 
+**¹⁶** If an unrighteous witness rise up against any man to testify against him of wrong-doing; 
 
-<sup>17</sup> then both the men, between whom the controversy is, shall stand before the LORD, before the priests and the judges which shall be in those days; 
+**¹⁷** then both the men, between whom the controversy is, shall stand before the LORD, before the priests and the judges which shall be in those days; 
 
-<sup>18</sup> and the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother; 
+**¹⁸** and the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother; 
 
-<sup>19</sup> then shall ye do unto him, as he had thought to do unto his brother: so shalt thou put away the evil from the midst of thee. 
+**¹⁹** then shall ye do unto him, as he had thought to do unto his brother: so shalt thou put away the evil from the midst of thee. 
 
-<sup>20</sup> And those which remain shall hear, and fear, and shall henceforth commit no more any such evil in the midst of thee. 
+**²⁰** And those which remain shall hear, and fear, and shall henceforth commit no more any such evil in the midst of thee. 
 
-<sup>21</sup> And thine eye shall not pity; life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot. 
+**²¹** And thine eye shall not pity; life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot. 
 
 

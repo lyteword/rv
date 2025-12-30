@@ -4,30 +4,30 @@ weight: 17
 
 # Chapter 17
 
-<sup>1</sup> And there was a man of the hill country of Ephraim, whose name was Micah. 
+**¹** And there was a man of the hill country of Ephraim, whose name was Micah. 
 
-<sup>2</sup> And he said unto his mother, The eleven hundred pieces of silver that were taken from thee, about which thou didst utter a curse, and didst also speak it in mine ears, behold, the silver is with me; I took it. And his mother said, Blessed be my son of the LORD. 
+**²** And he said unto his mother, The eleven hundred pieces of silver that were taken from thee, about which thou didst utter a curse, and didst also speak it in mine ears, behold, the silver is with me; I took it. And his mother said, Blessed be my son of the LORD. 
 
-<sup>3</sup> And he restored the eleven hundred pieces of silver to his mother, and his mother said, I verily dedicate the silver unto the LORD from my hand for my son, to make a graven image and a molten image: now therefore I will restore it unto thee. 
+**³** And he restored the eleven hundred pieces of silver to his mother, and his mother said, I verily dedicate the silver unto the LORD from my hand for my son, to make a graven image and a molten image: now therefore I will restore it unto thee. 
 
-<sup>4</sup> And when he restored the money unto his mother, his mother took two hundred pieces of silver, and gave them to the founder, who made thereof a graven image and a molten image: and it was in the house of Micah. 
+**⁴** And when he restored the money unto his mother, his mother took two hundred pieces of silver, and gave them to the founder, who made thereof a graven image and a molten image: and it was in the house of Micah. 
 
-<sup>5</sup> And the man Micah had an house of gods, and he made an ephod, and teraphim, and consecrated one of his sons, who became his priest. 
+**⁵** And the man Micah had an house of gods, and he made an ephod, and teraphim, and consecrated one of his sons, who became his priest. 
 
-<sup>6</sup> In those days there was no king in Israel: every man did that which was right in his own eyes. 
+**⁶** In those days there was no king in Israel: every man did that which was right in his own eyes. 
 
-<sup>7</sup> And there was a young man out of Beth-lehem-judah, of the family of Judah, who was a Levite, and he sojourned there. 
+**⁷** And there was a young man out of Beth-lehem-judah, of the family of Judah, who was a Levite, and he sojourned there. 
 
-<sup>8</sup> And the man departed out of the city, out of Beth-lehem-judah, to sojourn where he could find a place: and he came to the hill country of Ephraim to the house of Micah, as he journeyed. 
+**⁸** And the man departed out of the city, out of Beth-lehem-judah, to sojourn where he could find a place: and he came to the hill country of Ephraim to the house of Micah, as he journeyed. 
 
-<sup>9</sup> And Micah said unto him, Whence comest thou? And he said unto him, I am a Levite of Beth-lehem-judah, and I go to sojourn where I may find a place. 
+**⁹** And Micah said unto him, Whence comest thou? And he said unto him, I am a Levite of Beth-lehem-judah, and I go to sojourn where I may find a place. 
 
-<sup>10</sup> And Micah said unto him, Dwell with me, and be unto me a father and a priest, and I will give thee ten pieces of silver by the year, and a suit of apparel, and thy victuals. So the Levite went in. 
+**¹⁰** And Micah said unto him, Dwell with me, and be unto me a father and a priest, and I will give thee ten pieces of silver by the year, and a suit of apparel, and thy victuals. So the Levite went in. 
 
-<sup>11</sup> And the Levite was content to dwell with the man; and the young man was unto him as one of his sons. 
+**¹¹** And the Levite was content to dwell with the man; and the young man was unto him as one of his sons. 
 
-<sup>12</sup> And Micah consecrated the Levite, and the young man became his priest, and was in the house of Micah. 
+**¹²** And Micah consecrated the Levite, and the young man became his priest, and was in the house of Micah. 
 
-<sup>13</sup> Then said Micah, Now know I that the LORD will do me good, seeing I have a Levite to my priest. 
+**¹³** Then said Micah, Now know I that the LORD will do me good, seeing I have a Levite to my priest. 
 
 

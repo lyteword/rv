@@ -4,66 +4,66 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> And the LORD spake unto Moses, saying, 
+**¹** And the LORD spake unto Moses, saying, 
 
-<sup>2</sup> Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is unclean by the dead: 
+**²** Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is unclean by the dead: 
 
-<sup>3</sup> both male and female shall ye put out, without the camp shall ye put them; that they defile not their camp, in the midst whereof I dwell. 
+**³** both male and female shall ye put out, without the camp shall ye put them; that they defile not their camp, in the midst whereof I dwell. 
 
-<sup>4</sup> And the children of Israel did so, and put them out without the camp: as the LORD spake unto Moses, so did the children of Israel. 
+**⁴** And the children of Israel did so, and put them out without the camp: as the LORD spake unto Moses, so did the children of Israel. 
 
-<sup>5</sup> And the LORD spake unto Moses, saying, 
+**⁵** And the LORD spake unto Moses, saying, 
 
-<sup>6</sup> Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the LORD, and that soul be guilty; 
+**⁶** Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the LORD, and that soul be guilty; 
 
-<sup>7</sup> then they shall confess their sin which they have done: and he shall make restitution for his guilt in full, and add unto it the fifth part thereof, and give it unto him in respect of whom he hath been guilty. 
+**⁷** then they shall confess their sin which they have done: and he shall make restitution for his guilt in full, and add unto it the fifth part thereof, and give it unto him in respect of whom he hath been guilty. 
 
-<sup>8</sup> But if the man have no kinsman to whom restitution may be made for the guilt, the restitution for guilt which is made unto the LORD shall be the priest’s; besides the ram of the atonement, whereby atonement shall be made for him. 
+**⁸** But if the man have no kinsman to whom restitution may be made for the guilt, the restitution for guilt which is made unto the LORD shall be the priest’s; besides the ram of the atonement, whereby atonement shall be made for him. 
 
-<sup>9</sup> And every heave offering of all the holy things of the children of Israel, which they present unto the priest, shall be his. 
+**⁹** And every heave offering of all the holy things of the children of Israel, which they present unto the priest, shall be his. 
 
-<sup>10</sup> And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his. 
+**¹⁰** And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his. 
 
-<sup>11</sup> And the LORD spake unto Moses, saying, 
+**¹¹** And the LORD spake unto Moses, saying, 
 
-<sup>12</sup> Speak unto the children of Israel, and say unto them, If any man’s wife go aside, and commit a trespass against him, 
+**¹²** Speak unto the children of Israel, and say unto them, If any man’s wife go aside, and commit a trespass against him, 
 
-<sup>13</sup> and a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and there be no witness against her, neither she be taken in the act; 
+**¹³** and a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and there be no witness against her, neither she be taken in the act; 
 
-<sup>14</sup> and the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled: 
+**¹⁴** and the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled: 
 
-<sup>15</sup> then shall the man bring his wife unto the priest, and shall bring her oblation for her, the tenth part of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it is a meal offering of jealousy, a meal offering of memorial, bringing iniquity to remembrance. 
+**¹⁵** then shall the man bring his wife unto the priest, and shall bring her oblation for her, the tenth part of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it is a meal offering of jealousy, a meal offering of memorial, bringing iniquity to remembrance. 
 
-<sup>16</sup> And the priest shall bring her near, and set her before the LORD: 
+**¹⁶** And the priest shall bring her near, and set her before the LORD: 
 
-<sup>17</sup> and the priest shall take holy water in an earthen vessel; and of the dust that is on the floor of the tabernacle the priest shall take, and put it into the water: 
+**¹⁷** and the priest shall take holy water in an earthen vessel; and of the dust that is on the floor of the tabernacle the priest shall take, and put it into the water: 
 
-<sup>18</sup> and the priest shall set the woman before the LORD, and let the hair of the woman’s head go loose, and put the meal offering of memorial in her hands, which is the meal offering of jealousy: and the priest shall have in his hand the water of bitterness that causeth the curse: 
+**¹⁸** and the priest shall set the woman before the LORD, and let the hair of the woman’s head go loose, and put the meal offering of memorial in her hands, which is the meal offering of jealousy: and the priest shall have in his hand the water of bitterness that causeth the curse: 
 
-<sup>19</sup> and the priest shall cause her to swear, and shall say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness, being under thy husband, be thou free from this water of bitterness that causeth the curse: 
+**¹⁹** and the priest shall cause her to swear, and shall say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness, being under thy husband, be thou free from this water of bitterness that causeth the curse: 
 
-<sup>20</sup> but if thou hast gone aside, being under thy husband, and if thou be defiled, and some man have lain with thee besides thine husband: 
+**²⁰** but if thou hast gone aside, being under thy husband, and if thou be defiled, and some man have lain with thee besides thine husband: 
 
-<sup>21</sup> then the priest shall cause the woman to swear with the oath of cursing, and the priest shall say unto the woman, The LORD make thee a curse and an oath among thy people, when the LORD doth make thy thigh to fall away, and thy belly to swell; 
+**²¹** then the priest shall cause the woman to swear with the oath of cursing, and the priest shall say unto the woman, The LORD make thee a curse and an oath among thy people, when the LORD doth make thy thigh to fall away, and thy belly to swell; 
 
-<sup>22</sup> and this water that causeth the curse shall go into thy bowels, and make thy belly to swell, and thy thigh to fall away: and the woman shall say, Amen, Amen. 
+**²²** and this water that causeth the curse shall go into thy bowels, and make thy belly to swell, and thy thigh to fall away: and the woman shall say, Amen, Amen. 
 
-<sup>23</sup> And the priest shall write these curses in a book, and he shall blot them out into the water of bitterness: 
+**²³** And the priest shall write these curses in a book, and he shall blot them out into the water of bitterness: 
 
-<sup>24</sup> and he shall make the woman drink the water of bitterness that causeth the curse: and the water that causeth the curse shall enter into her and become bitter. 
+**²⁴** and he shall make the woman drink the water of bitterness that causeth the curse: and the water that causeth the curse shall enter into her and become bitter. 
 
-<sup>25</sup> And the priest shall take the meal offering of jealousy out of the woman’s hand, and shall wave the meal offering before the LORD, and bring it unto the altar: 
+**²⁵** And the priest shall take the meal offering of jealousy out of the woman’s hand, and shall wave the meal offering before the LORD, and bring it unto the altar: 
 
-<sup>26</sup> and the priest shall take an handful of the meal offering, as the memorial thereof, and burn it upon the altar, and afterward shall make the woman drink the water. 
+**²⁶** and the priest shall take an handful of the meal offering, as the memorial thereof, and burn it upon the altar, and afterward shall make the woman drink the water. 
 
-<sup>27</sup> And when he hath made her drink the water, then it shall come to pass, if she be defiled, and have committed a trespass against her husband, that the water that causeth the curse shall enter into her and become bitter, and her belly shall swell, and her thigh shall fall away: and the woman shall be a curse among her people. 
+**²⁷** And when he hath made her drink the water, then it shall come to pass, if she be defiled, and have committed a trespass against her husband, that the water that causeth the curse shall enter into her and become bitter, and her belly shall swell, and her thigh shall fall away: and the woman shall be a curse among her people. 
 
-<sup>28</sup> And if the woman be not defiled, but be clean; then she shall be free, and shall conceive seed. 
+**²⁸** And if the woman be not defiled, but be clean; then she shall be free, and shall conceive seed. 
 
-<sup>29</sup> This is the law of jealousy, when a wife, being under her husband, goeth aside, and is defiled; 
+**²⁹** This is the law of jealousy, when a wife, being under her husband, goeth aside, and is defiled; 
 
-<sup>30</sup> or when the spirit of jealousy cometh upon a man, and he be jealous over his wife; then shall he set the woman before the LORD, and the priest shall execute upon her all this law. 
+**³⁰** or when the spirit of jealousy cometh upon a man, and he be jealous over his wife; then shall he set the woman before the LORD, and the priest shall execute upon her all this law. 
 
-<sup>31</sup> And the man shall be free from iniquity, and that woman shall bear her iniquity. 
+**³¹** And the man shall be free from iniquity, and that woman shall bear her iniquity. 
 
 

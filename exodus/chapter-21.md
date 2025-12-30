@@ -4,76 +4,76 @@ weight: 21
 
 # Chapter 21
 
-<sup>1</sup> Now these are the judgments which thou shalt set before them. 
+**¹** Now these are the judgments which thou shalt set before them. 
 
-<sup>2</sup> If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing. 
+**²** If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing. 
 
-<sup>3</sup> If he come in by himself, he shall go out by himself: if he be married, then his wife shall go out with him. 
+**³** If he come in by himself, he shall go out by himself: if he be married, then his wife shall go out with him. 
 
-<sup>4</sup> If his master give him a wife, and she bear him sons or daughters; the wife and her children shall be her master’s, and he shall go out by himself. 
+**⁴** If his master give him a wife, and she bear him sons or daughters; the wife and her children shall be her master’s, and he shall go out by himself. 
 
-<sup>5</sup> But if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free: 
+**⁵** But if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free: 
 
-<sup>6</sup> then his master shall bring him unto God, and shall bring him to the door, or unto the door post; and his master shall bore his ear through with an awl; and he shall serve him for ever. 
+**⁶** then his master shall bring him unto God, and shall bring him to the door, or unto the door post; and his master shall bore his ear through with an awl; and he shall serve him for ever. 
 
-<sup>7</sup> And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do. 
+**⁷** And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do. 
 
-<sup>8</sup> If she please not her master, who hath espoused her to himself, then shall he let her be redeemed: to sell her unto a strange people he shall have no power, seeing he hath dealt deceitfully with her. 
+**⁸** If she please not her master, who hath espoused her to himself, then shall he let her be redeemed: to sell her unto a strange people he shall have no power, seeing he hath dealt deceitfully with her. 
 
-<sup>9</sup> And if he espouse her unto his son, he shall deal with her after the manner of daughters. 
+**⁹** And if he espouse her unto his son, he shall deal with her after the manner of daughters. 
 
-<sup>10</sup> If he take him another wife; her food, her raiment, and her duty of marriage, shall he not diminish. 
+**¹⁰** If he take him another wife; her food, her raiment, and her duty of marriage, shall he not diminish. 
 
-<sup>11</sup> And if he do not these three unto her, then shall she go out for nothing, without money. 
+**¹¹** And if he do not these three unto her, then shall she go out for nothing, without money. 
 
-<sup>12</sup> He that smiteth a man, so that he die, shall surely be put to death. 
+**¹²** He that smiteth a man, so that he die, shall surely be put to death. 
 
-<sup>13</sup> And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place whither he shall flee. 
+**¹³** And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place whither he shall flee. 
 
-<sup>14</sup> And if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die. 
+**¹⁴** And if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die. 
 
-<sup>15</sup> And he that smiteth his father, or his mother, shall be surely put to death. 
+**¹⁵** And he that smiteth his father, or his mother, shall be surely put to death. 
 
-<sup>16</sup> And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death. 
+**¹⁶** And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death. 
 
-<sup>17</sup> And he that curseth his father, or his mother, shall surely be put to death. 
+**¹⁷** And he that curseth his father, or his mother, shall surely be put to death. 
 
-<sup>18</sup> And if men contend, and one smiteth the other with a stone, or with his fist, and he die not, but keep his bed: 
+**¹⁸** And if men contend, and one smiteth the other with a stone, or with his fist, and he die not, but keep his bed: 
 
-<sup>19</sup> if he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed. 
+**¹⁹** if he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed. 
 
-<sup>20</sup> And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall surely be punished. 
+**²⁰** And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall surely be punished. 
 
-<sup>21</sup> Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money. 
+**²¹** Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money. 
 
-<sup>22</sup> And if men strive together, and hurt a woman with child, so that her fruit depart, and yet no mischief follow: he shall be surely fined, according as the woman’s husband shall lay upon him; and he shall pay as the judges determine. 
+**²²** And if men strive together, and hurt a woman with child, so that her fruit depart, and yet no mischief follow: he shall be surely fined, according as the woman’s husband shall lay upon him; and he shall pay as the judges determine. 
 
-<sup>23</sup> But if any mischief follow, then thou shalt give life for life, 
+**²³** But if any mischief follow, then thou shalt give life for life, 
 
-<sup>24</sup> eye for eye, tooth for tooth, hand for hand, foot for foot, 
+**²⁴** eye for eye, tooth for tooth, hand for hand, foot for foot, 
 
-<sup>25</sup> burning for burning, wound for wound, stripe for stripe. 
+**²⁵** burning for burning, wound for wound, stripe for stripe. 
 
-<sup>26</sup> And if a man smite the eye of his servant, or the eye of his maid, and destroy it; he shall let him go free for his eye’s sake. 
+**²⁶** And if a man smite the eye of his servant, or the eye of his maid, and destroy it; he shall let him go free for his eye’s sake. 
 
-<sup>27</sup> And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake. 
+**²⁷** And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake. 
 
-<sup>28</sup> And if an ox gore a man or a woman, that they die, the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit. 
+**²⁸** And if an ox gore a man or a woman, that they die, the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit. 
 
-<sup>29</sup> But if the ox were wont to gore in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death. 
+**²⁹** But if the ox were wont to gore in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death. 
 
-<sup>30</sup> If there be laid on him a ransom, then he shall give for the redemption of his life whatsoever is laid upon him. 
+**³⁰** If there be laid on him a ransom, then he shall give for the redemption of his life whatsoever is laid upon him. 
 
-<sup>31</sup> Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him. 
+**³¹** Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him. 
 
-<sup>32</sup> If the ox gore a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned. 
+**³²** If the ox gore a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned. 
 
-<sup>33</sup> And if a man shall open a pit, or if a man shall dig a pit and not cover it, and an ox or an ass fall therein, 
+**³³** And if a man shall open a pit, or if a man shall dig a pit and not cover it, and an ox or an ass fall therein, 
 
-<sup>34</sup> the owner of the pit shall make it good; he shall give money unto the owner of them, and the dead beast shall be his. 
+**³⁴** the owner of the pit shall make it good; he shall give money unto the owner of them, and the dead beast shall be his. 
 
-<sup>35</sup> And if one man’s ox hurt another’s, that he die; then they shall sell the live ox, and divide the price of it; and the dead also they shall divide. 
+**³⁵** And if one man’s ox hurt another’s, that he die; then they shall sell the live ox, and divide the price of it; and the dead also they shall divide. 
 
-<sup>36</sup> Or if it be known that the ox was wont to gore in time past, and his owner hath not kept him in; he shall surely pay ox for ox, and the dead beast shall be his own. 
+**³⁶** Or if it be known that the ox was wont to gore in time past, and his owner hath not kept him in; he shall surely pay ox for ox, and the dead beast shall be his own. 
 
 

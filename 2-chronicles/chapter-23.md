@@ -4,46 +4,46 @@ weight: 23
 
 # Chapter 23
 
-<sup>1</sup> And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him. 
+**¹** And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him. 
 
-<sup>2</sup> And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the heads of fathers’ houses of Israel, and they came to Jerusalem. 
+**²** And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the heads of fathers’ houses of Israel, and they came to Jerusalem. 
 
-<sup>3</sup> And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king’s son shall reign, as the LORD hath spoken concerning the sons of David. 
+**³** And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king’s son shall reign, as the LORD hath spoken concerning the sons of David. 
 
-<sup>4</sup> This is the thing that ye shall do: a third part of you, that come in on the sabbath, of the priests and of the Levites, shall be porters of the doors; 
+**⁴** This is the thing that ye shall do: a third part of you, that come in on the sabbath, of the priests and of the Levites, shall be porters of the doors; 
 
-<sup>5</sup> and a third part shall be at the king’s house; and a third part at the gate of the foundation: and all the people shall be in the courts of the house of the LORD. 
+**⁵** and a third part shall be at the king’s house; and a third part at the gate of the foundation: and all the people shall be in the courts of the house of the LORD. 
 
-<sup>6</sup> But let none come into the house of the LORD, save the priests, and they that minister of the Levites; they shall come in, for they are holy: but all the people shall keep the watch of the LORD. 
+**⁶** But let none come into the house of the LORD, save the priests, and they that minister of the Levites; they shall come in, for they are holy: but all the people shall keep the watch of the LORD. 
 
-<sup>7</sup> And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever cometh into the house, let him be slain: and be ye with the king when he cometh in, and when he goeth out. 
+**⁷** And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever cometh into the house, let him be slain: and be ye with the king when he cometh in, and when he goeth out. 
 
-<sup>8</sup> So the Levites and all Judah did according to all that Jehoiada the priest commanded: and they took every man his men, those that were to come in on the sabbath, with those that were to go out on the sabbath; for Jehoiada the priest dismissed not the courses. 
+**⁸** So the Levites and all Judah did according to all that Jehoiada the priest commanded: and they took every man his men, those that were to come in on the sabbath, with those that were to go out on the sabbath; for Jehoiada the priest dismissed not the courses. 
 
-<sup>9</sup> And Jehoiada the priest delivered to the captains of hundreds the spears, and bucklers, and shields, that had been king David’s, which were in the house of God. 
+**⁹** And Jehoiada the priest delivered to the captains of hundreds the spears, and bucklers, and shields, that had been king David’s, which were in the house of God. 
 
-<sup>10</sup> And he set all the people, every man with his weapon in his hand, from the right side of the house to the left side of the house, along by the altar and the house, by the king round about. 
+**¹⁰** And he set all the people, every man with his weapon in his hand, from the right side of the house to the left side of the house, along by the altar and the house, by the king round about. 
 
-<sup>11</sup> Then they brought out the king’s son, and put the crown upon him, and gave him the testimony, and made him king: and Jehoiada and his sons anointed him; and they said, God save the king. 
+**¹¹** Then they brought out the king’s son, and put the crown upon him, and gave him the testimony, and made him king: and Jehoiada and his sons anointed him; and they said, God save the king. 
 
-<sup>12</sup> And when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the LORD: 
+**¹²** And when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the LORD: 
 
-<sup>13</sup> and she looked, and, behold, the king stood by his pillar at the entrance, and the captains and the trumpets by the king; and all the people of the land rejoiced, and blew with trumpets; the singers also played on instruments of music, and led the singing of praise. Then Athaliah rent her clothes, and said, Treason, treason. 
+**¹³** and she looked, and, behold, the king stood by his pillar at the entrance, and the captains and the trumpets by the king; and all the people of the land rejoiced, and blew with trumpets; the singers also played on instruments of music, and led the singing of praise. Then Athaliah rent her clothes, and said, Treason, treason. 
 
-<sup>14</sup> And Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her forth between the ranks; and whoso followeth her, let him be slain with the sword: for the priest said, Slay her not in the house of the LORD. 
+**¹⁴** And Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her forth between the ranks; and whoso followeth her, let him be slain with the sword: for the priest said, Slay her not in the house of the LORD. 
 
-<sup>15</sup> So they made way for her; and she went to the entry of the horse gate to the king’s house: and they slew her there. 
+**¹⁵** So they made way for her; and she went to the entry of the horse gate to the king’s house: and they slew her there. 
 
-<sup>16</sup> And Jehoiada made a covenant between himself, and all the people, and the king, that they should be the LORD’S people. 
+**¹⁶** And Jehoiada made a covenant between himself, and all the people, and the king, that they should be the LORD’S people. 
 
-<sup>17</sup> And all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars. 
+**¹⁷** And all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars. 
 
-<sup>18</sup> And Jehoiada appointed the offices of the house of the LORD under the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as it is written in the law of Moses, with rejoicing and with singing, according to the order of David. 
+**¹⁸** And Jehoiada appointed the offices of the house of the LORD under the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as it is written in the law of Moses, with rejoicing and with singing, according to the order of David. 
 
-<sup>19</sup> And he set the porters at the gates of the house of the LORD, that none which was unclean in any thing should enter in. 
+**¹⁹** And he set the porters at the gates of the house of the LORD, that none which was unclean in any thing should enter in. 
 
-<sup>20</sup> And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the LORD: and they came through the upper gate unto the king’s house, and set the king upon the throne of the kingdom. 
+**²⁰** And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the LORD: and they came through the upper gate unto the king’s house, and set the king upon the throne of the kingdom. 
 
-<sup>21</sup> So all the people of the land rejoiced, and the city was quiet: and they slew Athaliah with the sword. 
+**²¹** So all the people of the land rejoiced, and the city was quiet: and they slew Athaliah with the sword. 
 
 

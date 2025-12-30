@@ -4,70 +4,70 @@ weight: 16
 
 # Chapter 16
 
-<sup>1</sup> These things have I spoken unto you, that ye should not be made to stumble. 
+**¹** These things have I spoken unto you, that ye should not be made to stumble. 
 
-<sup>2</sup> They shall put you out of the synagogues: yea, the hour cometh, that whosoever killeth you shall think that he offereth service unto God. 
+**²** They shall put you out of the synagogues: yea, the hour cometh, that whosoever killeth you shall think that he offereth service unto God. 
 
-<sup>3</sup> And these things will they do, because they have not known the Father, nor me. 
+**³** And these things will they do, because they have not known the Father, nor me. 
 
-<sup>4</sup> But these things have I spoken unto you, that when their hour is come, ye may remember them, how that I told you. And these things I said not unto you from the beginning, because I was with you. 
+**⁴** But these things have I spoken unto you, that when their hour is come, ye may remember them, how that I told you. And these things I said not unto you from the beginning, because I was with you. 
 
-<sup>5</sup> But now I go unto him that sent me; and none of you asketh me, Whither goest thou? 
+**⁵** But now I go unto him that sent me; and none of you asketh me, Whither goest thou? 
 
-<sup>6</sup> But because I have spoken these things unto you, sorrow hath filled your heart. 
+**⁶** But because I have spoken these things unto you, sorrow hath filled your heart. 
 
-<sup>7</sup> Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I go, I will send him unto you. 
+**⁷** Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I go, I will send him unto you. 
 
-<sup>8</sup> And he, when he is come, will convict the world in respect of sin, and of righteousness, and of judgment: 
+**⁸** And he, when he is come, will convict the world in respect of sin, and of righteousness, and of judgment: 
 
-<sup>9</sup> of sin, because they believe not on me; 
+**⁹** of sin, because they believe not on me; 
 
-<sup>10</sup> of righteousness, because I go to the Father, and ye behold me no more; 
+**¹⁰** of righteousness, because I go to the Father, and ye behold me no more; 
 
-<sup>11</sup> of judgment, because the prince of this world hath been judged. 
+**¹¹** of judgment, because the prince of this world hath been judged. 
 
-<sup>12</sup> I have yet many things to say unto you, but ye cannot bear them now. 
+**¹²** I have yet many things to say unto you, but ye cannot bear them now. 
 
-<sup>13</sup> Howbeit when he, the Spirit of truth, is come, he shall guide you into all the truth: for he shall not speak from himself; but what things soever he shall hear, these shall he speak: and he shall declare unto you the things that are to come. 
+**¹³** Howbeit when he, the Spirit of truth, is come, he shall guide you into all the truth: for he shall not speak from himself; but what things soever he shall hear, these shall he speak: and he shall declare unto you the things that are to come. 
 
-<sup>14</sup> He shall glorify me: for he shall take of mine, and shall declare it unto you. 
+**¹⁴** He shall glorify me: for he shall take of mine, and shall declare it unto you. 
 
-<sup>15</sup> All things whatsoever the Father hath are mine: therefore said I, that he taketh of mine, and shall declare it unto you. 
+**¹⁵** All things whatsoever the Father hath are mine: therefore said I, that he taketh of mine, and shall declare it unto you. 
 
-<sup>16</sup> A little while, and ye behold me no more; and again a little while, and ye shall see me. 
+**¹⁶** A little while, and ye behold me no more; and again a little while, and ye shall see me. 
 
-<sup>17</sup> Some of his disciples therefore said one to another, What is this that he saith unto us, A little while, and ye behold me not; and again a little while, and ye shall see me: and, Because I go to the Father? 
+**¹⁷** Some of his disciples therefore said one to another, What is this that he saith unto us, A little while, and ye behold me not; and again a little while, and ye shall see me: and, Because I go to the Father? 
 
-<sup>18</sup> They said therefore, What is this that he saith, A little while? We know not what he saith. 
+**¹⁸** They said therefore, What is this that he saith, A little while? We know not what he saith. 
 
-<sup>19</sup> Jesus perceived that they were desirous to ask him, and he said unto them, Do ye inquire among yourselves concerning this, that I said, A little while, and ye behold me not, and again a little while, and ye shall see me? 
+**¹⁹** Jesus perceived that they were desirous to ask him, and he said unto them, Do ye inquire among yourselves concerning this, that I said, A little while, and ye behold me not, and again a little while, and ye shall see me? 
 
-<sup>20</sup> Verily, verily, I say unto you, that ye shall weep and lament, but the world shall rejoice: ye shall be sorrowful, but your sorrow shall be turned into joy. 
+**²⁰** Verily, verily, I say unto you, that ye shall weep and lament, but the world shall rejoice: ye shall be sorrowful, but your sorrow shall be turned into joy. 
 
-<sup>21</sup> A woman when she is in travail hath sorrow, because her hour is come: but when she is delivered of the child, she remembereth no more the anguish, for the joy that a man is born into the world. 
+**²¹** A woman when she is in travail hath sorrow, because her hour is come: but when she is delivered of the child, she remembereth no more the anguish, for the joy that a man is born into the world. 
 
-<sup>22</sup> And ye therefore now have sorrow: but I will see you again, and your heart shall rejoice, and your joy no one taketh away from you. 
+**²²** And ye therefore now have sorrow: but I will see you again, and your heart shall rejoice, and your joy no one taketh away from you. 
 
-<sup>23</sup> And in that day ye shall ask me nothing. Verily, verily, I say unto you, If ye shall ask anything of the Father, he will give it you in my name. 
+**²³** And in that day ye shall ask me nothing. Verily, verily, I say unto you, If ye shall ask anything of the Father, he will give it you in my name. 
 
-<sup>24</sup> Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be fulfilled. 
+**²⁴** Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be fulfilled. 
 
-<sup>25</sup> These things have I spoken unto you in proverbs: the hour cometh, when I shall no more speak unto you in proverbs, but shall tell you plainly of the Father. 
+**²⁵** These things have I spoken unto you in proverbs: the hour cometh, when I shall no more speak unto you in proverbs, but shall tell you plainly of the Father. 
 
-<sup>26</sup> In that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you; 
+**²⁶** In that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you; 
 
-<sup>27</sup> for the Father himself loveth you, because ye have loved me, and have believed that I came forth from the Father. 
+**²⁷** for the Father himself loveth you, because ye have loved me, and have believed that I came forth from the Father. 
 
-<sup>28</sup> I came out from the Father, and am come into the world: again, I leave the world, and go unto the Father. 
+**²⁸** I came out from the Father, and am come into the world: again, I leave the world, and go unto the Father. 
 
-<sup>29</sup> His disciples say, Lo, now speakest thou plainly, and speakest no proverb. 
+**²⁹** His disciples say, Lo, now speakest thou plainly, and speakest no proverb. 
 
-<sup>30</sup> Now know we that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God. 
+**³⁰** Now know we that thou knowest all things, and needest not that any man should ask thee: by this we believe that thou camest forth from God. 
 
-<sup>31</sup> Jesus answered them, Do ye now believe? 
+**³¹** Jesus answered them, Do ye now believe? 
 
-<sup>32</sup> Behold, the hour cometh, yea, is come, that ye shall be scattered, every man to his own, and shall leave me alone: and yet I am not alone, because the Father is with me. 
+**³²** Behold, the hour cometh, yea, is come, that ye shall be scattered, every man to his own, and shall leave me alone: and yet I am not alone, because the Father is with me. 
 
-<sup>33</sup> These things have I spoken unto you, that in me ye may have peace. In the world ye have tribulation: but be of good cheer; I have overcome the world. 
+**³³** These things have I spoken unto you, that in me ye may have peace. In the world ye have tribulation: but be of good cheer; I have overcome the world. 
 
 

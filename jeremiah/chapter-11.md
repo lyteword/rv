@@ -4,50 +4,50 @@ weight: 11
 
 # Chapter 11
 
-<sup>1</sup> The word that came to Jeremiah from the LORD, saying, 
+**¹** The word that came to Jeremiah from the LORD, saying, 
 
-<sup>2</sup> Hear ye the words of this covenant, and speak unto the men of Judah, and to the inhabitants of Jerusalem; 
+**²** Hear ye the words of this covenant, and speak unto the men of Judah, and to the inhabitants of Jerusalem; 
 
-<sup>3</sup> and say thou unto them, Thus saith the LORD, the God of Israel: Cursed be the man that heareth not the words of this covenant, 
+**³** and say thou unto them, Thus saith the LORD, the God of Israel: Cursed be the man that heareth not the words of this covenant, 
 
-<sup>4</sup> which I commanded your fathers in the day that I brought them forth out of the land of Egypt, out of the iron furnace, saying, Obey my voice, and do them, according to all which I command you: so shall ye be my people, and I will be your God: 
+**⁴** which I commanded your fathers in the day that I brought them forth out of the land of Egypt, out of the iron furnace, saying, Obey my voice, and do them, according to all which I command you: so shall ye be my people, and I will be your God: 
 
-<sup>5</sup> that I may establish the oath which I sware unto your fathers, to give them a land flowing with milk and honey, as at this day. Then answered I, and said, Amen, O LORD. 
+**⁵** that I may establish the oath which I sware unto your fathers, to give them a land flowing with milk and honey, as at this day. Then answered I, and said, Amen, O LORD. 
 
-<sup>6</sup> And the LORD said unto me, Proclaim all these words in the cities of Judah, and in the streets of Jerusalem, saying, Hear ye the words of this covenant, and do them. 
+**⁶** And the LORD said unto me, Proclaim all these words in the cities of Judah, and in the streets of Jerusalem, saying, Hear ye the words of this covenant, and do them. 
 
-<sup>7</sup> For I earnestly protested unto your fathers in the day that I brought them up out of the land of Egypt, even unto this day, rising early and protesting, saying, Obey my voice. 
+**⁷** For I earnestly protested unto your fathers in the day that I brought them up out of the land of Egypt, even unto this day, rising early and protesting, saying, Obey my voice. 
 
-<sup>8</sup> Yet they obeyed not, nor inclined their ear, but walked every one in the stubbornness of their evil heart: therefore I brought upon them all the words of this covenant, which I commanded them to do, but they did them not. 
+**⁸** Yet they obeyed not, nor inclined their ear, but walked every one in the stubbornness of their evil heart: therefore I brought upon them all the words of this covenant, which I commanded them to do, but they did them not. 
 
-<sup>9</sup> And the LORD said unto me, A conspiracy is found among the men of Judah, and among the inhabitants of Jerusalem. 
+**⁹** And the LORD said unto me, A conspiracy is found among the men of Judah, and among the inhabitants of Jerusalem. 
 
-<sup>10</sup> They are turned back to the iniquities of their forefathers, which refused to hear my words; and they are gone after other gods to serve them: the house of Israel and the house of Judah have broken my covenant which I made with their fathers. 
+**¹⁰** They are turned back to the iniquities of their forefathers, which refused to hear my words; and they are gone after other gods to serve them: the house of Israel and the house of Judah have broken my covenant which I made with their fathers. 
 
-<sup>11</sup> Therefore thus saith the LORD, Behold, I will bring evil upon them, which they shall not be able to escape; and they shall cry unto me, but I will not hearken unto them. 
+**¹¹** Therefore thus saith the LORD, Behold, I will bring evil upon them, which they shall not be able to escape; and they shall cry unto me, but I will not hearken unto them. 
 
-<sup>12</sup> Then shall the cities of Judah and the inhabitants of Jerusalem go and cry unto the gods unto whom they offer incense: but they shall not save them at all in the time of their trouble. 
+**¹²** Then shall the cities of Judah and the inhabitants of Jerusalem go and cry unto the gods unto whom they offer incense: but they shall not save them at all in the time of their trouble. 
 
-<sup>13</sup> For according to the number of thy cities are thy gods, O Judah; and according to the number of the streets of Jerusalem have ye set up altars to the shameful thing, even altars to burn incense unto Baal. 
+**¹³** For according to the number of thy cities are thy gods, O Judah; and according to the number of the streets of Jerusalem have ye set up altars to the shameful thing, even altars to burn incense unto Baal. 
 
-<sup>14</sup> Therefore pray not thou for this people, neither lift up cry nor prayer for them: for I will not hear them in the time that they cry unto me for their trouble. 
+**¹⁴** Therefore pray not thou for this people, neither lift up cry nor prayer for them: for I will not hear them in the time that they cry unto me for their trouble. 
 
-<sup>15</sup> What hath my beloved to do in mine house, seeing she hath wrought lewdness with many, and the holy flesh is passed from thee? when thou doest evil, then thou rejoicest. 
+**¹⁵** What hath my beloved to do in mine house, seeing she hath wrought lewdness with many, and the holy flesh is passed from thee? when thou doest evil, then thou rejoicest. 
 
-<sup>16</sup> The LORD called thy name, A green olive tree, fair with goodly fruit: with the noise of a great tumult he hath kindled fire upon it, and the branches of it are broken. 
+**¹⁶** The LORD called thy name, A green olive tree, fair with goodly fruit: with the noise of a great tumult he hath kindled fire upon it, and the branches of it are broken. 
 
-<sup>17</sup> For the LORD of hosts, that planted thee, hath pronounced evil against thee, because of the evil of the house of Israel and of the house of Judah, which they have wrought for themselves in provoking me to anger by offering incense unto Baal. 
+**¹⁷** For the LORD of hosts, that planted thee, hath pronounced evil against thee, because of the evil of the house of Israel and of the house of Judah, which they have wrought for themselves in provoking me to anger by offering incense unto Baal. 
 
-<sup>18</sup> And the LORD gave me knowledge of it, and I knew it: then thou shewedst me their doings. 
+**¹⁸** And the LORD gave me knowledge of it, and I knew it: then thou shewedst me their doings. 
 
-<sup>19</sup> But I was like a gentle lamb that is led to the slaughter; and I knew not that they had devised devices against me, saying, Let us destroy the tree with the fruit thereof, and let us cut him off from the land of the living, that his name may be no more remembered. 
+**¹⁹** But I was like a gentle lamb that is led to the slaughter; and I knew not that they had devised devices against me, saying, Let us destroy the tree with the fruit thereof, and let us cut him off from the land of the living, that his name may be no more remembered. 
 
-<sup>20</sup> But, O LORD of hosts, that judgest righteously, that triest the reins and the heart, let me see thy vengeance on them: for unto thee have I revealed my cause. 
+**²⁰** But, O LORD of hosts, that judgest righteously, that triest the reins and the heart, let me see thy vengeance on them: for unto thee have I revealed my cause. 
 
-<sup>21</sup> Therefore thus saith the LORD concerning the men of Anathoth, that seek thy life, saying, Thou shalt not prophesy in the name of the LORD, that thou die not by our hand: 
+**²¹** Therefore thus saith the LORD concerning the men of Anathoth, that seek thy life, saying, Thou shalt not prophesy in the name of the LORD, that thou die not by our hand: 
 
-<sup>22</sup> therefore thus saith the LORD of hosts, Behold, I will punish them: the young men shall die by the sword; their sons and their daughters shall die by famine; 
+**²²** therefore thus saith the LORD of hosts, Behold, I will punish them: the young men shall die by the sword; their sons and their daughters shall die by famine; 
 
-<sup>23</sup> and there shall be no remnant unto them: for I will bring evil upon the men of Anathoth, even the year of their visitation. 
+**²³** and there shall be no remnant unto them: for I will bring evil upon the men of Anathoth, even the year of their visitation. 
 
 

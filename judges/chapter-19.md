@@ -4,64 +4,64 @@ weight: 19
 
 # Chapter 19
 
-<sup>1</sup> And it came to pass in these days, when there was no king in Israel, that there was a certain Levite sojourning on the farther side of the hill country of Ephraim, who took to him a concubine out of Beth-lehem-judah. 
+**¹** And it came to pass in these days, when there was no king in Israel, that there was a certain Levite sojourning on the farther side of the hill country of Ephraim, who took to him a concubine out of Beth-lehem-judah. 
 
-<sup>2</sup> And his concubine played the harlot against him, and went away from him unto her father’s house to Beth-lehem-judah, and was there the space of four months. 
+**²** And his concubine played the harlot against him, and went away from him unto her father’s house to Beth-lehem-judah, and was there the space of four months. 
 
-<sup>3</sup> And her husband arose, and went after her, to speak kindly unto her, to bring her again, having his servant with him, and a couple of asses: and she brought him into her father’s house: and when the father of the damsel saw him, he rejoiced to meet him. 
+**³** And her husband arose, and went after her, to speak kindly unto her, to bring her again, having his servant with him, and a couple of asses: and she brought him into her father’s house: and when the father of the damsel saw him, he rejoiced to meet him. 
 
-<sup>4</sup> And his father in law, the damsel’s father, retained him; and he abode with him three days: so they did eat and drink, and lodged there. 
+**⁴** And his father in law, the damsel’s father, retained him; and he abode with him three days: so they did eat and drink, and lodged there. 
 
-<sup>5</sup> And it came to pass on the fourth day, that they arose early in the morning, and he rose up to depart: and the damsel’s father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward ye shall go your way. 
+**⁵** And it came to pass on the fourth day, that they arose early in the morning, and he rose up to depart: and the damsel’s father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward ye shall go your way. 
 
-<sup>6</sup> So they sat down, and did eat and drink, both of them together: and the damsel’s father said unto the man, Be content, I pray thee, and tarry all night, and let thine heart be merry. 
+**⁶** So they sat down, and did eat and drink, both of them together: and the damsel’s father said unto the man, Be content, I pray thee, and tarry all night, and let thine heart be merry. 
 
-<sup>7</sup> And the man rose up to depart; but his father in law urged him, and he lodged there again. 
+**⁷** And the man rose up to depart; but his father in law urged him, and he lodged there again. 
 
-<sup>8</sup> And he arose early in the morning on the fifth day to depart; and the damsel’s father said, Comfort thine heart, I pray thee, and tarry ye until the day declineth; and they did eat, both of them. 
+**⁸** And he arose early in the morning on the fifth day to depart; and the damsel’s father said, Comfort thine heart, I pray thee, and tarry ye until the day declineth; and they did eat, both of them. 
 
-<sup>9</sup> And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel’s father, said unto him, Behold, now the day draweth toward evening, I pray you tarry all night: behold, the day groweth to an end, lodge here, that thine heart may be merry; and tomorrow get you early on your way, that thou mayest go home. 
+**⁹** And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel’s father, said unto him, Behold, now the day draweth toward evening, I pray you tarry all night: behold, the day groweth to an end, lodge here, that thine heart may be merry; and tomorrow get you early on your way, that thou mayest go home. 
 
-<sup>10</sup> But the man would not tarry that night, but he rose up and departed, and came over against Jebus (the same is Jerusalem): and there were with him a couple of asses saddled; his concubine also was with him. 
+**¹⁰** But the man would not tarry that night, but he rose up and departed, and came over against Jebus (the same is Jerusalem): and there were with him a couple of asses saddled; his concubine also was with him. 
 
-<sup>11</sup> When they were by Jebus, the day was far spent; and the servant said unto his master, Come, I pray thee, and let us turn aside into this city of the Jebusites, and lodge in it. 
+**¹¹** When they were by Jebus, the day was far spent; and the servant said unto his master, Come, I pray thee, and let us turn aside into this city of the Jebusites, and lodge in it. 
 
-<sup>12</sup> And his master said unto him, We will not turn aside into the city of a stranger, that is not of the children of Israel; but we will pass over to Gibeah. 
+**¹²** And his master said unto him, We will not turn aside into the city of a stranger, that is not of the children of Israel; but we will pass over to Gibeah. 
 
-<sup>13</sup> And he said unto his servant, Come and let us draw near to one of these places; and we will lodge in Gibeah, or in Ramah. 
+**¹³** And he said unto his servant, Come and let us draw near to one of these places; and we will lodge in Gibeah, or in Ramah. 
 
-<sup>14</sup> So they passed on and went their way; and the sun went down upon them near to Gibeah, which belongeth to Benjamin. 
+**¹⁴** So they passed on and went their way; and the sun went down upon them near to Gibeah, which belongeth to Benjamin. 
 
-<sup>15</sup> And they turned aside thither, to go in to lodge in Gibeah: and he went in, and sat him down in the street of the city: for there was no man that took them into his house to lodge. 
+**¹⁵** And they turned aside thither, to go in to lodge in Gibeah: and he went in, and sat him down in the street of the city: for there was no man that took them into his house to lodge. 
 
-<sup>16</sup> And, behold, there came an old man from his work out of the field at even; now the man was of the hill country of Ephraim, and he sojourned in Gibeah: but the men of the place were Benjamites. 
+**¹⁶** And, behold, there came an old man from his work out of the field at even; now the man was of the hill country of Ephraim, and he sojourned in Gibeah: but the men of the place were Benjamites. 
 
-<sup>17</sup> And he lifted up his eyes, and saw the wayfaring man in the street of the city; and the old man said, Whither goest thou? and whence comest thou? 
+**¹⁷** And he lifted up his eyes, and saw the wayfaring man in the street of the city; and the old man said, Whither goest thou? and whence comest thou? 
 
-<sup>18</sup> And he said unto him, We are passing from Beth-lehem-judah unto the farther side of the hill country of Ephraim; from thence am I, and I went to Beth-lehem-judah: and I am now going to the house of the LORD; and there is no man that taketh me into his house. 
+**¹⁸** And he said unto him, We are passing from Beth-lehem-judah unto the farther side of the hill country of Ephraim; from thence am I, and I went to Beth-lehem-judah: and I am now going to the house of the LORD; and there is no man that taketh me into his house. 
 
-<sup>19</sup> Yet there is both straw and provender for our asses; and there is bread and wine also for me, and for thy handmaid, and for the young man which is with thy servants: there is no want of any thing. 
+**¹⁹** Yet there is both straw and provender for our asses; and there is bread and wine also for me, and for thy handmaid, and for the young man which is with thy servants: there is no want of any thing. 
 
-<sup>20</sup> And the old man said, Peace be unto thee; howsoever let all thy wants lie upon me; only lodge not in the street. 
+**²⁰** And the old man said, Peace be unto thee; howsoever let all thy wants lie upon me; only lodge not in the street. 
 
-<sup>21</sup> So he brought him into his house, and gave the asses fodder: and they washed their feet, and did eat and drink. 
+**²¹** So he brought him into his house, and gave the asses fodder: and they washed their feet, and did eat and drink. 
 
-<sup>22</sup> As they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, beating at the door; and they spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him. 
+**²²** As they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, beating at the door; and they spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him. 
 
-<sup>23</sup> And the man, the master of the house, went out unto them, and said unto them, Nay, my brethren, I pray you, do not so wickedly; seeing that this man is come into mine house, do not this folly. 
+**²³** And the man, the master of the house, went out unto them, and said unto them, Nay, my brethren, I pray you, do not so wickedly; seeing that this man is come into mine house, do not this folly. 
 
-<sup>24</sup> Behold, here is my daughter a maiden, and his concubine; them I will bring out now, and humble ye them, and do with them what seemeth good unto you: but unto this man do not any such folly. 
+**²⁴** Behold, here is my daughter a maiden, and his concubine; them I will bring out now, and humble ye them, and do with them what seemeth good unto you: but unto this man do not any such folly. 
 
-<sup>25</sup> But the men would not hearken to him: so the man laid hold on his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go. 
+**²⁵** But the men would not hearken to him: so the man laid hold on his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go. 
 
-<sup>26</sup> Then came the woman in the dawning of the day and fell down at the door of the man’s house where her lord was, till it was light. 
+**²⁶** Then came the woman in the dawning of the day and fell down at the door of the man’s house where her lord was, till it was light. 
 
-<sup>27</sup> And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, behold, the woman his concubine was fallen down at the door of the house, with her hands upon the threshold. 
+**²⁷** And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, behold, the woman his concubine was fallen down at the door of the house, with her hands upon the threshold. 
 
-<sup>28</sup> And he said unto her, Up, and let us be going; but none answered: then he took her up upon the ass; and the man rose up, and gat him unto his place. 
+**²⁸** And he said unto her, Up, and let us be going; but none answered: then he took her up upon the ass; and the man rose up, and gat him unto his place. 
 
-<sup>29</sup> And when he was come into his house, he took a knife, and laid hold on his concubine, and divided her, limb by limb, into twelve pieces, and sent her throughout all the borders of Israel. 
+**²⁹** And when he was come into his house, he took a knife, and laid hold on his concubine, and divided her, limb by limb, into twelve pieces, and sent her throughout all the borders of Israel. 
 
-<sup>30</sup> And it was so, that all that saw it said, There was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt unto this day: consider of it, take counsel, and speak. 
+**³⁰** And it was so, that all that saw it said, There was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt unto this day: consider of it, take counsel, and speak. 
 
 

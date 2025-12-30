@@ -4,56 +4,56 @@ weight: 20
 
 # Chapter 20
 
-<sup>1</sup> And there happened to be there a man of Belial, whose name was Sheba, the son of Bichri, a Benjamite: and he blew the trumpet, and said, We have no portion in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel. 
+**¹** And there happened to be there a man of Belial, whose name was Sheba, the son of Bichri, a Benjamite: and he blew the trumpet, and said, We have no portion in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel. 
 
-<sup>2</sup> So all the men of Israel went up from following David, and followed Sheba the son of Bichri: but the men of Judah clave unto their king, from Jordan even to Jerusalem. 
+**²** So all the men of Israel went up from following David, and followed Sheba the son of Bichri: but the men of Judah clave unto their king, from Jordan even to Jerusalem. 
 
-<sup>3</sup> And David came to his house at Jerusalem; and the king took the ten women his concubines, whom he had left to keep the house, and put them in ward, and provided them with sustenance, but went not in unto them. So they were shut up unto the day of their death, living in widowhood. 
+**³** And David came to his house at Jerusalem; and the king took the ten women his concubines, whom he had left to keep the house, and put them in ward, and provided them with sustenance, but went not in unto them. So they were shut up unto the day of their death, living in widowhood. 
 
-<sup>4</sup> Then said the king to Amasa, Call me the men of Judah together within three days, and be thou here present. 
+**⁴** Then said the king to Amasa, Call me the men of Judah together within three days, and be thou here present. 
 
-<sup>5</sup> So Amasa went to call the men of Judah together: but he tarried longer than the set time which he had appointed him. 
+**⁵** So Amasa went to call the men of Judah together: but he tarried longer than the set time which he had appointed him. 
 
-<sup>6</sup> And David said to Abishai, Now shall Sheba the son of Bichri do us more harm than did Absalom: take thou thy lord’s servants, and pursue after him, lest he get him fenced cities, and escape out of our sight. 
+**⁶** And David said to Abishai, Now shall Sheba the son of Bichri do us more harm than did Absalom: take thou thy lord’s servants, and pursue after him, lest he get him fenced cities, and escape out of our sight. 
 
-<sup>7</sup> And there went out after him Joab’s men, and the Cherethites and the Pelethites, and all the mighty men: and they went out of Jerusalem, to pursue after Sheba the son of Bichri. 
+**⁷** And there went out after him Joab’s men, and the Cherethites and the Pelethites, and all the mighty men: and they went out of Jerusalem, to pursue after Sheba the son of Bichri. 
 
-<sup>8</sup> When they were at the great stone which is in Gibeon, Amasa came to meet them. And Joab was girded with his apparel of war that he had put on, and thereon was a girdle with a sword fastened upon his loins in the sheath thereof; and as he went forth it fell out. 
+**⁸** When they were at the great stone which is in Gibeon, Amasa came to meet them. And Joab was girded with his apparel of war that he had put on, and thereon was a girdle with a sword fastened upon his loins in the sheath thereof; and as he went forth it fell out. 
 
-<sup>9</sup> And Joab said to Amasa, Is it well with thee, my brother? And Joab took Amasa by the beard with his right hand to kiss him. 
+**⁹** And Joab said to Amasa, Is it well with thee, my brother? And Joab took Amasa by the beard with his right hand to kiss him. 
 
-<sup>10</sup> But Amasa took no heed to the sword that was in Joab’s hand: so he smote him therewith in the belly, and shed out his bowels to the ground, and struck him not again; and he died. And Joab and Abishai his brother pursued after Sheba the son of Bichri. 
+**¹⁰** But Amasa took no heed to the sword that was in Joab’s hand: so he smote him therewith in the belly, and shed out his bowels to the ground, and struck him not again; and he died. And Joab and Abishai his brother pursued after Sheba the son of Bichri. 
 
-<sup>11</sup> And there stood by him one of Joab’s young men, and said, He that favoureth Joab, and he that is for David, let him follow Joab. 
+**¹¹** And there stood by him one of Joab’s young men, and said, He that favoureth Joab, and he that is for David, let him follow Joab. 
 
-<sup>12</sup> And Amasa lay wallowing in his blood in the midst of the highway. And when the man saw that all the people stood still, he carried Amasa out of the highway into the field, and cast a garment over him, when he saw that every one that came by him stood still. 
+**¹²** And Amasa lay wallowing in his blood in the midst of the highway. And when the man saw that all the people stood still, he carried Amasa out of the highway into the field, and cast a garment over him, when he saw that every one that came by him stood still. 
 
-<sup>13</sup> When he was removed out of the highway, all the people went on after Joab, to pursue after Sheba the son of Bichri. 
+**¹³** When he was removed out of the highway, all the people went on after Joab, to pursue after Sheba the son of Bichri. 
 
-<sup>14</sup> And he went through all the tribes of Israel unto Abel, and to Beth-maacah, and all the Berites: and they were gathered together, and went also after him. 
+**¹⁴** And he went through all the tribes of Israel unto Abel, and to Beth-maacah, and all the Berites: and they were gathered together, and went also after him. 
 
-<sup>15</sup> And they came and besieged him in Abel of Beth-maacah, and they cast up a mount against the city, and it stood against the rampart: and all the people that were with Joab battered the wall, to throw it down. 
+**¹⁵** And they came and besieged him in Abel of Beth-maacah, and they cast up a mount against the city, and it stood against the rampart: and all the people that were with Joab battered the wall, to throw it down. 
 
-<sup>16</sup> Then cried a wise woman out of the city, Hear, hear; say, I pray you, unto Joab, Come near hither, that I may speak with thee. 
+**¹⁶** Then cried a wise woman out of the city, Hear, hear; say, I pray you, unto Joab, Come near hither, that I may speak with thee. 
 
-<sup>17</sup> And he came near unto her, and the woman said, Art thou Joab? And he answered, I am. Then she said unto him, Hear the words of thine handmaid. And he answered, I do hear. 
+**¹⁷** And he came near unto her, and the woman said, Art thou Joab? And he answered, I am. Then she said unto him, Hear the words of thine handmaid. And he answered, I do hear. 
 
-<sup>18</sup> Then she spake, saying, they were wont to speak in old time, saying, They shall surely ask counsel at Abel: and so they ended the matter. 
+**¹⁸** Then she spake, saying, they were wont to speak in old time, saying, They shall surely ask counsel at Abel: and so they ended the matter. 
 
-<sup>19</sup> I am of them that are peaceable and faithful in Israel: thou seekest to destroy a city and a mother in Israel: why wilt thou swallow up the inheritance of the LORD? 
+**¹⁹** I am of them that are peaceable and faithful in Israel: thou seekest to destroy a city and a mother in Israel: why wilt thou swallow up the inheritance of the LORD? 
 
-<sup>20</sup> And Joab answered and said, Far be it, far be it from me, that I should swallow up or destroy. 
+**²⁰** And Joab answered and said, Far be it, far be it from me, that I should swallow up or destroy. 
 
-<sup>21</sup> The matter is not so: but a man of the hill country of Ephraim, Sheba the son of Bichri by name, hath lifted up his hand against the king, even against David: deliver him only, and I will depart from the city. And the woman said unto Joab, Behold, his head shall be thrown to thee over the wall. 
+**²¹** The matter is not so: but a man of the hill country of Ephraim, Sheba the son of Bichri by name, hath lifted up his hand against the king, even against David: deliver him only, and I will depart from the city. And the woman said unto Joab, Behold, his head shall be thrown to thee over the wall. 
 
-<sup>22</sup> Then the woman went unto all the people in her wisdom. And they cut off the head of Sheba the son of Bichri, and threw it out to Joab. And he blew the trumpet, and they were dispersed from the city, every man to his tent. And Joab returned to Jerusalem unto the king. 
+**²²** Then the woman went unto all the people in her wisdom. And they cut off the head of Sheba the son of Bichri, and threw it out to Joab. And he blew the trumpet, and they were dispersed from the city, every man to his tent. And Joab returned to Jerusalem unto the king. 
 
-<sup>23</sup> Now Joab was over all the host of Israel: and Benaiah the son of Jehoiada was over the Cherethites and over the Pelethites: 
+**²³** Now Joab was over all the host of Israel: and Benaiah the son of Jehoiada was over the Cherethites and over the Pelethites: 
 
-<sup>24</sup> and Adoram was over the tribute: and Jehoshaphat the son of Ahilud was the recorder: 
+**²⁴** and Adoram was over the tribute: and Jehoshaphat the son of Ahilud was the recorder: 
 
-<sup>25</sup> and Sheva was scribe: and Zadok and Abiathar were priests: 
+**²⁵** and Sheva was scribe: and Zadok and Abiathar were priests: 
 
-<sup>26</sup> and Ira also the Jairite was priest unto David. 
+**²⁶** and Ira also the Jairite was priest unto David. 
 
 

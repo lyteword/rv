@@ -4,86 +4,86 @@ weight: 4
 
 # Chapter 4
 
-<sup>1</sup> And again he began to teach by the sea side. And there is gathered unto him a very great multitude, so that he entered into a boat, and sat in the sea; and all the multitude were by the sea on the land. 
+**¹** And again he began to teach by the sea side. And there is gathered unto him a very great multitude, so that he entered into a boat, and sat in the sea; and all the multitude were by the sea on the land. 
 
-<sup>2</sup> And he taught them many things in parables, and said unto them in his teaching, 
+**²** And he taught them many things in parables, and said unto them in his teaching, 
 
-<sup>3</sup> Hearken: Behold, the sower went forth to sow: 
+**³** Hearken: Behold, the sower went forth to sow: 
 
-<sup>4</sup> and it came to pass, as he sowed, some seed fell by the way side, and the birds came and devoured it. 
+**⁴** and it came to pass, as he sowed, some seed fell by the way side, and the birds came and devoured it. 
 
-<sup>5</sup> And other fell on the rocky ground, where it had not much earth; and straightway it sprang up, because it had no deepness of earth: 
+**⁵** And other fell on the rocky ground, where it had not much earth; and straightway it sprang up, because it had no deepness of earth: 
 
-<sup>6</sup> and when the sun was risen, it was scorched; and because it had no root, it withered away. 
+**⁶** and when the sun was risen, it was scorched; and because it had no root, it withered away. 
 
-<sup>7</sup> And other fell among the thorns, and the thorns grew up, and choked it, and it yielded no fruit. 
+**⁷** And other fell among the thorns, and the thorns grew up, and choked it, and it yielded no fruit. 
 
-<sup>8</sup> And others fell into the good ground, and yielded fruit, growing up and increasing; and brought forth, thirtyfold, and sixtyfold, and a hundredfold. 
+**⁸** And others fell into the good ground, and yielded fruit, growing up and increasing; and brought forth, thirtyfold, and sixtyfold, and a hundredfold. 
 
-<sup>9</sup> And he said, Who hath ears to hear, let him hear. 
+**⁹** And he said, Who hath ears to hear, let him hear. 
 
-<sup>10</sup> And when he was alone, they that were about him with the twelve asked of him the parables. 
+**¹⁰** And when he was alone, they that were about him with the twelve asked of him the parables. 
 
-<sup>11</sup> And he said unto them, Unto you is given the mystery of the kingdom of God: but unto them that are without, all things are done in parables: 
+**¹¹** And he said unto them, Unto you is given the mystery of the kingdom of God: but unto them that are without, all things are done in parables: 
 
-<sup>12</sup> that seeing they may see, and not perceive; and hearing they may hear, and not understand; lest haply they should turn again, and it should be forgiven them. 
+**¹²** that seeing they may see, and not perceive; and hearing they may hear, and not understand; lest haply they should turn again, and it should be forgiven them. 
 
-<sup>13</sup> And he saith unto them, Know ye not this parable? and how shall ye know all the parables? 
+**¹³** And he saith unto them, Know ye not this parable? and how shall ye know all the parables? 
 
-<sup>14</sup> The sower soweth the word. 
+**¹⁴** The sower soweth the word. 
 
-<sup>15</sup> And these are they by the way side, where the word is sown; and when they have heard, straightway cometh Satan, and taketh away the word which hath been sown in them. 
+**¹⁵** And these are they by the way side, where the word is sown; and when they have heard, straightway cometh Satan, and taketh away the word which hath been sown in them. 
 
-<sup>16</sup> And these in like manner are they that are sown upon the rocky places, who, when they have heard the word, straightway receive it with joy; 
+**¹⁶** And these in like manner are they that are sown upon the rocky places, who, when they have heard the word, straightway receive it with joy; 
 
-<sup>17</sup> and they have no root in themselves, but endure for a while; then, when tribulation or persecution ariseth because of the word, straightway they stumble. 
+**¹⁷** and they have no root in themselves, but endure for a while; then, when tribulation or persecution ariseth because of the word, straightway they stumble. 
 
-<sup>18</sup> And others are they that are sown among the thorns; these are they that have heard the word, 
+**¹⁸** And others are they that are sown among the thorns; these are they that have heard the word, 
 
-<sup>19</sup> and the cares of the world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful. 
+**¹⁹** and the cares of the world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful. 
 
-<sup>20</sup> And those are they that were sown upon the good ground; such as hear the word, and accept it, and bear fruit, thirtyfold, and sixtyfold, and a hundredfold. 
+**²⁰** And those are they that were sown upon the good ground; such as hear the word, and accept it, and bear fruit, thirtyfold, and sixtyfold, and a hundredfold. 
 
-<sup>21</sup> And he said unto them, Is the lamp brought to be put under the bushel, or under the bed, and not to be put on the stand? 
+**²¹** And he said unto them, Is the lamp brought to be put under the bushel, or under the bed, and not to be put on the stand? 
 
-<sup>22</sup> For there is nothing hid, save that it should be manifested; neither was anything made secret, but that it should come to light. 
+**²²** For there is nothing hid, save that it should be manifested; neither was anything made secret, but that it should come to light. 
 
-<sup>23</sup> If any man hath ears to hear, let him hear. 
+**²³** If any man hath ears to hear, let him hear. 
 
-<sup>24</sup> And he said unto them, Take heed what ye hear: with what measure ye mete it shall be measured unto you: and more shall be given unto you. 
+**²⁴** And he said unto them, Take heed what ye hear: with what measure ye mete it shall be measured unto you: and more shall be given unto you. 
 
-<sup>25</sup> For he that hath, to him shall be given: and he that hath not, from him shall be taken away even that which he hath. 
+**²⁵** For he that hath, to him shall be given: and he that hath not, from him shall be taken away even that which he hath. 
 
-<sup>26</sup> And he said, So is the kingdom of God, as if a man should cast seed upon the earth; 
+**²⁶** And he said, So is the kingdom of God, as if a man should cast seed upon the earth; 
 
-<sup>27</sup> and should sleep and rise night and day, and the seed should spring up and grow, he knoweth not how. 
+**²⁷** and should sleep and rise night and day, and the seed should spring up and grow, he knoweth not how. 
 
-<sup>28</sup> The earth beareth fruit of herself; first the blade, then the ear, then the full corn in the ear. 
+**²⁸** The earth beareth fruit of herself; first the blade, then the ear, then the full corn in the ear. 
 
-<sup>29</sup> But when the fruit is ripe, straightway he putteth forth the sickle, because the harvest is come. 
+**²⁹** But when the fruit is ripe, straightway he putteth forth the sickle, because the harvest is come. 
 
-<sup>30</sup> And he said, How shall we liken the kingdom of God? or in what parable shall we set it forth? 
+**³⁰** And he said, How shall we liken the kingdom of God? or in what parable shall we set it forth? 
 
-<sup>31</sup> It is like a grain of mustard seed, which, when it is sown upon the earth, though it be less than all the seeds that are upon the earth, 
+**³¹** It is like a grain of mustard seed, which, when it is sown upon the earth, though it be less than all the seeds that are upon the earth, 
 
-<sup>32</sup> yet when it is sown, groweth up, and becometh greater than all the herbs, and putteth out great branches; so that the birds of the heaven can lodge under the shadow thereof. 
+**³²** yet when it is sown, groweth up, and becometh greater than all the herbs, and putteth out great branches; so that the birds of the heaven can lodge under the shadow thereof. 
 
-<sup>33</sup> And with many such parables spake he the word unto them, as they were able to hear it: 
+**³³** And with many such parables spake he the word unto them, as they were able to hear it: 
 
-<sup>34</sup> and without a parable spake he not unto them: but privately to his own disciples he expounded all things. 
+**³⁴** and without a parable spake he not unto them: but privately to his own disciples he expounded all things. 
 
-<sup>35</sup> And on that day, when even was come, he saith unto them, Let us go over unto the other side. 
+**³⁵** And on that day, when even was come, he saith unto them, Let us go over unto the other side. 
 
-<sup>36</sup> And leaving the multitude, they take him with them, even as he was, in the boat. And other boats were with him. 
+**³⁶** And leaving the multitude, they take him with them, even as he was, in the boat. And other boats were with him. 
 
-<sup>37</sup> And there ariseth a great storm of wind, and the waves beat into the boat, insomuch that the boat was now filling. 
+**³⁷** And there ariseth a great storm of wind, and the waves beat into the boat, insomuch that the boat was now filling. 
 
-<sup>38</sup> And he himself was in the stern, asleep on the cushion: and they awake him, and say unto him, Master, carest thou not that we perish? 
+**³⁸** And he himself was in the stern, asleep on the cushion: and they awake him, and say unto him, Master, carest thou not that we perish? 
 
-<sup>39</sup> And he awoke, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm. 
+**³⁹** And he awoke, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm. 
 
-<sup>40</sup> And he said unto them, Why are ye fearful? have ye not yet faith? 
+**⁴⁰** And he said unto them, Why are ye fearful? have ye not yet faith? 
 
-<sup>41</sup> And they feared exceedingly, and said one to another, Who then is this, that even the wind and the sea obey him? 
+**⁴¹** And they feared exceedingly, and said one to another, Who then is this, that even the wind and the sea obey him? 
 
 

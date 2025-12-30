@@ -4,38 +4,38 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> And the LORD called unto Moses, and spake unto him out of the tent of meeting, saying, 
+**¹** And the LORD called unto Moses, and spake unto him out of the tent of meeting, saying, 
 
-<sup>2</sup> Speak unto the children of Israel, and say unto them, When any man of you offereth an oblation unto the LORD, ye shall offer your oblation of the cattle, even of the herd and of the flock. 
+**²** Speak unto the children of Israel, and say unto them, When any man of you offereth an oblation unto the LORD, ye shall offer your oblation of the cattle, even of the herd and of the flock. 
 
-<sup>3</sup> If his oblation be a burnt offering of the herd, he shall offer it a male without blemish: he shall offer it at the door of the tent of meeting, that he may be accepted before the LORD. 
+**³** If his oblation be a burnt offering of the herd, he shall offer it a male without blemish: he shall offer it at the door of the tent of meeting, that he may be accepted before the LORD. 
 
-<sup>4</sup> And he shall lay his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him. 
+**⁴** And he shall lay his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him. 
 
-<sup>5</sup> And he shall kill the bullock before the LORD: and Aaron’s sons, the priests, shall present the blood, and sprinkle the blood round about upon the altar that is at the door of the tent of meeting. 
+**⁵** And he shall kill the bullock before the LORD: and Aaron’s sons, the priests, shall present the blood, and sprinkle the blood round about upon the altar that is at the door of the tent of meeting. 
 
-<sup>6</sup> And he shall flay the burnt offering, and cut it into its pieces. 
+**⁶** And he shall flay the burnt offering, and cut it into its pieces. 
 
-<sup>7</sup> And the sons of Aaron the priest shall put fire upon the altar, and lay wood in order upon the fire: 
+**⁷** And the sons of Aaron the priest shall put fire upon the altar, and lay wood in order upon the fire: 
 
-<sup>8</sup> and Aaron’s sons, the priests, shall lay the pieces, the head, and the fat, in order upon the wood that is on the fire which is upon the altar: 
+**⁸** and Aaron’s sons, the priests, shall lay the pieces, the head, and the fat, in order upon the wood that is on the fire which is upon the altar: 
 
-<sup>9</sup> but its inwards and its legs shall he wash with water: and the priest shall burn the whole on the altar, for a burnt offering, an offering made by fire, of a sweet savour unto the LORD. 
+**⁹** but its inwards and its legs shall he wash with water: and the priest shall burn the whole on the altar, for a burnt offering, an offering made by fire, of a sweet savour unto the LORD. 
 
-<sup>10</sup> And if his oblation be of the flock, of the sheep, or of the goats, for a burnt offering; he shall offer it a male without blemish. 
+**¹⁰** And if his oblation be of the flock, of the sheep, or of the goats, for a burnt offering; he shall offer it a male without blemish. 
 
-<sup>11</sup> And he shall kill it on the side of the altar northward before the LORD: and Aaron’s sons, the priests, shall sprinkle its blood upon the altar round about. 
+**¹¹** And he shall kill it on the side of the altar northward before the LORD: and Aaron’s sons, the priests, shall sprinkle its blood upon the altar round about. 
 
-<sup>12</sup> And he shall cut it into its pieces, with its head and its fat: and the priest shall lay them in order on the wood that is on the fire which is upon the altar: 
+**¹²** And he shall cut it into its pieces, with its head and its fat: and the priest shall lay them in order on the wood that is on the fire which is upon the altar: 
 
-<sup>13</sup> but the inwards and the legs shall he wash with water: and the priest shall offer the whole, and burn it upon the altar: it is a burnt offering, an offering made by fire, of a sweet savour unto the LORD. 
+**¹³** but the inwards and the legs shall he wash with water: and the priest shall offer the whole, and burn it upon the altar: it is a burnt offering, an offering made by fire, of a sweet savour unto the LORD. 
 
-<sup>14</sup> And if his oblation to the LORD be a burnt offering of fowls, then he shall offer his oblation of turtledoves, or of young pigeons. 
+**¹⁴** And if his oblation to the LORD be a burnt offering of fowls, then he shall offer his oblation of turtledoves, or of young pigeons. 
 
-<sup>15</sup> And the priest shall bring it unto the altar, and wring off its head, and burn it on the altar; and the blood thereof shall be drained out on the side of the altar: 
+**¹⁵** And the priest shall bring it unto the altar, and wring off its head, and burn it on the altar; and the blood thereof shall be drained out on the side of the altar: 
 
-<sup>16</sup> and he shall take away its crop with the filth thereof, and cast it beside the altar on the east part, in the place of the ashes: 
+**¹⁶** and he shall take away its crop with the filth thereof, and cast it beside the altar on the east part, in the place of the ashes: 
 
-<sup>17</sup> and he shall rend it by the wings thereof, but shall not divide it asunder: and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt offering, an offering made by fire, of a sweet savour unto the LORD. 
+**¹⁷** and he shall rend it by the wings thereof, but shall not divide it asunder: and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt offering, an offering made by fire, of a sweet savour unto the LORD. 
 
 

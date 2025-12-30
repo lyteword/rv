@@ -4,74 +4,74 @@ weight: 17
 
 # Chapter 17
 
-<sup>1</sup> And he said unto his disciples, It is impossible but that occasions of stumbling should come: but woe unto him, through whom they come! 
+**¹** And he said unto his disciples, It is impossible but that occasions of stumbling should come: but woe unto him, through whom they come! 
 
-<sup>2</sup> It were well for him if a millstone were hanged about his neck, and he were thrown into the sea, rather than that he should cause one of these little ones to stumble. 
+**²** It were well for him if a millstone were hanged about his neck, and he were thrown into the sea, rather than that he should cause one of these little ones to stumble. 
 
-<sup>3</sup> Take heed to yourselves: if thy brother sin, rebuke him; and if he repent, forgive him. 
+**³** Take heed to yourselves: if thy brother sin, rebuke him; and if he repent, forgive him. 
 
-<sup>4</sup> And if he sin against thee seven times in the day, and seven times turn again to thee, saying, I repent; thou shalt forgive him. 
+**⁴** And if he sin against thee seven times in the day, and seven times turn again to thee, saying, I repent; thou shalt forgive him. 
 
-<sup>5</sup> And the apostles said unto the Lord, Increase our faith. 
+**⁵** And the apostles said unto the Lord, Increase our faith. 
 
-<sup>6</sup> And the Lord said, If ye have faith as a grain of mustard seed, ye would say unto this sycamine tree, Be thou rooted up, and be thou planted in the sea; and it would have obeyed you. 
+**⁶** And the Lord said, If ye have faith as a grain of mustard seed, ye would say unto this sycamine tree, Be thou rooted up, and be thou planted in the sea; and it would have obeyed you. 
 
-<sup>7</sup> But who is there of you, having a servant plowing or keeping sheep, that will say unto him, when he is come in from the field, Come straightway and sit down to meat; 
+**⁷** But who is there of you, having a servant plowing or keeping sheep, that will say unto him, when he is come in from the field, Come straightway and sit down to meat; 
 
-<sup>8</sup> and will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink? 
+**⁸** and will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink? 
 
-<sup>9</sup> Doth he thank the servant because he did the things that were commanded? 
+**⁹** Doth he thank the servant because he did the things that were commanded? 
 
-<sup>10</sup> Even so ye also, when ye shall have done all the things that are commanded you, say, We are unprofitable servants; we have done that which it was our duty to do. 
+**¹⁰** Even so ye also, when ye shall have done all the things that are commanded you, say, We are unprofitable servants; we have done that which it was our duty to do. 
 
-<sup>11</sup> And it came to pass, as they were on the way to Jerusalem, that he was passing through the midst of Samaria and Galilee. 
+**¹¹** And it came to pass, as they were on the way to Jerusalem, that he was passing through the midst of Samaria and Galilee. 
 
-<sup>12</sup> And as he entered into a certain village, there met him ten men that were lepers, which stood afar off: 
+**¹²** And as he entered into a certain village, there met him ten men that were lepers, which stood afar off: 
 
-<sup>13</sup> and they lifted up their voices, saying, Jesus, Master, have mercy on us. 
+**¹³** and they lifted up their voices, saying, Jesus, Master, have mercy on us. 
 
-<sup>14</sup> And when he saw them, he said unto them, Go and shew yourselves unto the priests. And it came to pass, as they went, they were cleansed. 
+**¹⁴** And when he saw them, he said unto them, Go and shew yourselves unto the priests. And it came to pass, as they went, they were cleansed. 
 
-<sup>15</sup> And one of them, when he saw that he was healed, turned back, with a loud voice glorifying God; 
+**¹⁵** And one of them, when he saw that he was healed, turned back, with a loud voice glorifying God; 
 
-<sup>16</sup> and he fell upon his face at his feet, giving him thanks: and he was a Samaritan. 
+**¹⁶** and he fell upon his face at his feet, giving him thanks: and he was a Samaritan. 
 
-<sup>17</sup> And Jesus answering said, Were not the ten cleansed? but where are the nine? 
+**¹⁷** And Jesus answering said, Were not the ten cleansed? but where are the nine? 
 
-<sup>18</sup> Were there none found that returned to give glory to God, save this stranger? 
+**¹⁸** Were there none found that returned to give glory to God, save this stranger? 
 
-<sup>19</sup> And he said unto him, Arise, and go thy way: thy faith hath made thee whole. 
+**¹⁹** And he said unto him, Arise, and go thy way: thy faith hath made thee whole. 
 
-<sup>20</sup> And being asked by the Pharisees, when the kingdom of God cometh, he answered them and said, The kingdom of God cometh not with observation: 
+**²⁰** And being asked by the Pharisees, when the kingdom of God cometh, he answered them and said, The kingdom of God cometh not with observation: 
 
-<sup>21</sup> neither shall they say, Lo, here! or, There! for lo, the kingdom of God is within you. 
+**²¹** neither shall they say, Lo, here! or, There! for lo, the kingdom of God is within you. 
 
-<sup>22</sup> And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it. 
+**²²** And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it. 
 
-<sup>23</sup> And they shall say to you, Lo, there! Lo, here! go not away, nor follow after them: 
+**²³** And they shall say to you, Lo, there! Lo, here! go not away, nor follow after them: 
 
-<sup>24</sup> for as the lightning, when it lighteneth out of the one part under the heaven, shineth unto the other part under heaven; so shall the Son of man be in his day. 
+**²⁴** for as the lightning, when it lighteneth out of the one part under the heaven, shineth unto the other part under heaven; so shall the Son of man be in his day. 
 
-<sup>25</sup> But first must he suffer many things and be rejected of this generation. 
+**²⁵** But first must he suffer many things and be rejected of this generation. 
 
-<sup>26</sup> And as it came to pass in the days of Noah, even so shall it be also in the days of the Son of man. 
+**²⁶** And as it came to pass in the days of Noah, even so shall it be also in the days of the Son of man. 
 
-<sup>27</sup> They ate, they drank, they married, they were given in marriage, until the day that Noah entered into the ark, and the flood came, and destroyed them all. 
+**²⁷** They ate, they drank, they married, they were given in marriage, until the day that Noah entered into the ark, and the flood came, and destroyed them all. 
 
-<sup>28</sup> Likewise even as it came to pass in the days of Lot; they ate, they drank, they bought, they sold, they planted, they builded; 
+**²⁸** Likewise even as it came to pass in the days of Lot; they ate, they drank, they bought, they sold, they planted, they builded; 
 
-<sup>29</sup> but in the day that Lot went out from Sodom it rained fire and brimstone from heaven, and destroyed them all: 
+**²⁹** but in the day that Lot went out from Sodom it rained fire and brimstone from heaven, and destroyed them all: 
 
-<sup>30</sup> after the same manner shall it be in the day that the Son of man is revealed. 
+**³⁰** after the same manner shall it be in the day that the Son of man is revealed. 
 
-<sup>31</sup> In that day, he which shall be on the housetop, and his goods in the house, let him not go down to take them away: and let him that is in the field likewise not return back. 
+**³¹** In that day, he which shall be on the housetop, and his goods in the house, let him not go down to take them away: and let him that is in the field likewise not return back. 
 
-<sup>32</sup> Remember Lot’s wife. 
+**³²** Remember Lot’s wife. 
 
-<sup>33</sup> Whosoever shall seek to gain his life shall lose it: but whosoever shall lose his life shall preserve it. 
+**³³** Whosoever shall seek to gain his life shall lose it: but whosoever shall lose his life shall preserve it. 
 
-<sup>34</sup> I say unto you, In that night there shall be two men on one bed; the one shall be taken, and the other shall be left. 
+**³⁴** I say unto you, In that night there shall be two men on one bed; the one shall be taken, and the other shall be left. 
 
-<sup>35</sup> There shall be two women grinding together; the one shall be taken, and the other shall be left. 
+**³⁵** There shall be two women grinding together; the one shall be taken, and the other shall be left. 
 
 

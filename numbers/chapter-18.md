@@ -4,68 +4,68 @@ weight: 18
 
 # Chapter 18
 
-<sup>1</sup> And the LORD said unto Aaron, Thou and thy sons and thy fathers’ house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood. 
+**¹** And the LORD said unto Aaron, Thou and thy sons and thy fathers’ house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood. 
 
-<sup>2</sup> And thy brethren also, the tribe of Levi, the tribe of thy father, bring thou near with thee, that they may be joined unto thee, and minister unto thee: but thou and thy sons with thee shall be before the tent of the testimony. 
+**²** And thy brethren also, the tribe of Levi, the tribe of thy father, bring thou near with thee, that they may be joined unto thee, and minister unto thee: but thou and thy sons with thee shall be before the tent of the testimony. 
 
-<sup>3</sup> And they shall keep thy charge, and the charge of all the Tent: only they shall not come nigh unto the vessels of the sanctuary and unto the altar, that they die not, neither they, nor ye. 
+**³** And they shall keep thy charge, and the charge of all the Tent: only they shall not come nigh unto the vessels of the sanctuary and unto the altar, that they die not, neither they, nor ye. 
 
-<sup>4</sup> And they shall be joined unto thee, and keep the charge of the tent of meeting, for all the service of the Tent: and a stranger shall not come nigh unto you. 
+**⁴** And they shall be joined unto thee, and keep the charge of the tent of meeting, for all the service of the Tent: and a stranger shall not come nigh unto you. 
 
-<sup>5</sup> And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be wrath no more upon the children of Israel. 
+**⁵** And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be wrath no more upon the children of Israel. 
 
-<sup>6</sup> And I, behold, I have taken your brethren the Levites from among the children of Israel: to you they are a gift, given unto the LORD, to do the service of the tent of meeting. 
+**⁶** And I, behold, I have taken your brethren the Levites from among the children of Israel: to you they are a gift, given unto the LORD, to do the service of the tent of meeting. 
 
-<sup>7</sup> And thou and thy sons with thee shall keep your priesthood for every thing of the altar, and for that within the veil; and ye shall serve: I give you the priesthood as a service of gift: and the stranger that cometh nigh shall be put to death. 
+**⁷** And thou and thy sons with thee shall keep your priesthood for every thing of the altar, and for that within the veil; and ye shall serve: I give you the priesthood as a service of gift: and the stranger that cometh nigh shall be put to death. 
 
-<sup>8</sup> And the LORD spake unto Aaron, And I, behold, I have given thee the charge of mine heave offerings, even all the hallowed things of the children of Israel, unto thee have I given them by reason of the anointing, and to thy sons, as a due for ever. 
+**⁸** And the LORD spake unto Aaron, And I, behold, I have given thee the charge of mine heave offerings, even all the hallowed things of the children of Israel, unto thee have I given them by reason of the anointing, and to thy sons, as a due for ever. 
 
-<sup>9</sup> This shall be thine of the most holy things, reserved from the fire: every oblation of theirs, even every meal offering of theirs, and every sin offering of theirs, and every guilt offering of theirs, which they shall render unto me, shall be most holy for thee and for thy sons. 
+**⁹** This shall be thine of the most holy things, reserved from the fire: every oblation of theirs, even every meal offering of theirs, and every sin offering of theirs, and every guilt offering of theirs, which they shall render unto me, shall be most holy for thee and for thy sons. 
 
-<sup>10</sup> As the most holy things shalt thou eat thereof: every male shall eat thereof; it shall be holy unto thee. 
+**¹⁰** As the most holy things shalt thou eat thereof: every male shall eat thereof; it shall be holy unto thee. 
 
-<sup>11</sup> And this is thine; the heave offering of their gift, even all the wave offerings of the children of Israel: I have given them unto thee, and to thy sons and to thy daughters with thee, as a due for ever: every one that is clean in thy house shall eat thereof. 
+**¹¹** And this is thine; the heave offering of their gift, even all the wave offerings of the children of Israel: I have given them unto thee, and to thy sons and to thy daughters with thee, as a due for ever: every one that is clean in thy house shall eat thereof. 
 
-<sup>12</sup> All the best of the oil, and all the best of the vintage, and of the corn, the firstfruits of them which they give unto the LORD, to thee have I given them. 
+**¹²** All the best of the oil, and all the best of the vintage, and of the corn, the firstfruits of them which they give unto the LORD, to thee have I given them. 
 
-<sup>13</sup> The firstripe fruits of all that is in their land, which they bring unto the LORD, shall be thine; every one that is clean in thy house shall eat thereof. 
+**¹³** The firstripe fruits of all that is in their land, which they bring unto the LORD, shall be thine; every one that is clean in thy house shall eat thereof. 
 
-<sup>14</sup> Every thing devoted in Israel shall be thine. 
+**¹⁴** Every thing devoted in Israel shall be thine. 
 
-<sup>15</sup> Every thing that openeth the womb, of all flesh which they offer unto the LORD, both of man and beast, shall be thine: nevertheless the firstborn of man shalt thou surely redeem, and the firstling of unclean beasts shalt thou redeem. 
+**¹⁵** Every thing that openeth the womb, of all flesh which they offer unto the LORD, both of man and beast, shall be thine: nevertheless the firstborn of man shalt thou surely redeem, and the firstling of unclean beasts shalt thou redeem. 
 
-<sup>16</sup> And those that are to be redeemed of them from a month old shalt thou redeem, according to thine estimation, for the money of five shekels, after the shekel of the sanctuary (the same is twenty gerahs). 
+**¹⁶** And those that are to be redeemed of them from a month old shalt thou redeem, according to thine estimation, for the money of five shekels, after the shekel of the sanctuary (the same is twenty gerahs). 
 
-<sup>17</sup> But the firstling of an ox, or the firstling of a sheep, or the firstling of a goat, thou shalt not redeem; they are holy: thou shalt sprinkle their blood upon the altar, and shalt burn their fat for an offering made by fire, for a sweet savour unto the LORD. 
+**¹⁷** But the firstling of an ox, or the firstling of a sheep, or the firstling of a goat, thou shalt not redeem; they are holy: thou shalt sprinkle their blood upon the altar, and shalt burn their fat for an offering made by fire, for a sweet savour unto the LORD. 
 
-<sup>18</sup> And the flesh of them shall be thine, as the wave breast and as the right thigh, it shall be thine. 
+**¹⁸** And the flesh of them shall be thine, as the wave breast and as the right thigh, it shall be thine. 
 
-<sup>19</sup> All the heave offerings of the holy things, which the children of Israel offer unto the LORD, have I given thee, and thy sons and thy daughters with thee, as a due for ever: it is a covenant of salt for ever before the LORD unto thee and to thy seed with thee. 
+**¹⁹** All the heave offerings of the holy things, which the children of Israel offer unto the LORD, have I given thee, and thy sons and thy daughters with thee, as a due for ever: it is a covenant of salt for ever before the LORD unto thee and to thy seed with thee. 
 
-<sup>20</sup> And the LORD said unto Aaron, Thou shalt have no inheritance in their land, neither shalt thou have any portion among them: I am thy portion and thine inheritance among the children of Israel. 
+**²⁰** And the LORD said unto Aaron, Thou shalt have no inheritance in their land, neither shalt thou have any portion among them: I am thy portion and thine inheritance among the children of Israel. 
 
-<sup>21</sup> And unto the children of Levi, behold, I have given all the tithe in Israel for an inheritance, in return for their service which they serve, even the service of the tent of meeting. 
+**²¹** And unto the children of Levi, behold, I have given all the tithe in Israel for an inheritance, in return for their service which they serve, even the service of the tent of meeting. 
 
-<sup>22</sup> And henceforth the children of Israel shall not come nigh the tent of meeting, lest they bear sin, and die. 
+**²²** And henceforth the children of Israel shall not come nigh the tent of meeting, lest they bear sin, and die. 
 
-<sup>23</sup> But the Levites shall do the service of the tent of meeting, and they shall bear their iniquity: it shall be a statute for ever throughout your generations, and among the children of Israel they shall have no inheritance. 
+**²³** But the Levites shall do the service of the tent of meeting, and they shall bear their iniquity: it shall be a statute for ever throughout your generations, and among the children of Israel they shall have no inheritance. 
 
-<sup>24</sup> For the tithe of the children of Israel, which they offer as an heave offering unto the LORD, I have given to the Levites for an inheritance: therefore I have said unto them, Among the children of Israel they shall have no inheritance. 
+**²⁴** For the tithe of the children of Israel, which they offer as an heave offering unto the LORD, I have given to the Levites for an inheritance: therefore I have said unto them, Among the children of Israel they shall have no inheritance. 
 
-<sup>25</sup> And the LORD spake unto Moses, saying, 
+**²⁵** And the LORD spake unto Moses, saying, 
 
-<sup>26</sup> Moreover thou shalt speak unto the Levites, and say unto them, When ye take of the children of Israel the tithe which I have given you from them for your inheritance, then ye shall offer up an heave offering of it for the LORD, a tithe of the tithe. 
+**²⁶** Moreover thou shalt speak unto the Levites, and say unto them, When ye take of the children of Israel the tithe which I have given you from them for your inheritance, then ye shall offer up an heave offering of it for the LORD, a tithe of the tithe. 
 
-<sup>27</sup> And your heave offering shall be reckoned unto you, as though it were the corn of the threshing-floor, and as the fulness of the winepress. 
+**²⁷** And your heave offering shall be reckoned unto you, as though it were the corn of the threshing-floor, and as the fulness of the winepress. 
 
-<sup>28</sup> Thus ye also shall offer an heave offering unto the LORD of all your tithes, which ye receive of the children of Israel; and thereof ye shall give the LORD’S heave offering to Aaron the priest. 
+**²⁸** Thus ye also shall offer an heave offering unto the LORD of all your tithes, which ye receive of the children of Israel; and thereof ye shall give the LORD’S heave offering to Aaron the priest. 
 
-<sup>29</sup> Out of all your gifts ye shall offer every heave offering of the LORD, of all the best thereof, even the hallowed part thereof out of it. 
+**²⁹** Out of all your gifts ye shall offer every heave offering of the LORD, of all the best thereof, even the hallowed part thereof out of it. 
 
-<sup>30</sup> Therefore thou shalt say unto them, When ye heave the best thereof from it, then it shall be counted unto the Levites as the increase of the threshing-floor, and as the increase of the winepress. 
+**³⁰** Therefore thou shalt say unto them, When ye heave the best thereof from it, then it shall be counted unto the Levites as the increase of the threshing-floor, and as the increase of the winepress. 
 
-<sup>31</sup> And ye shall eat it in every place, ye and your households: for it is your reward in return for your service in the tent of meeting. 
+**³¹** And ye shall eat it in every place, ye and your households: for it is your reward in return for your service in the tent of meeting. 
 
-<sup>32</sup> And ye shall bear no sin by reason of it, when ye have heaved from it the best thereof: and ye shall not profane the holy things of the children of Israel, that ye die not. 
+**³²** And ye shall bear no sin by reason of it, when ye have heaved from it the best thereof: and ye shall not profane the holy things of the children of Israel, that ye die not. 
 
 

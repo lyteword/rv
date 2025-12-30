@@ -4,64 +4,64 @@ weight: 5
 
 # Chapter 5
 
-<sup>1</sup> Let me sing for my wellbeloved a song of my beloved touching his vineyard. My wellbeloved had a vineyard in a very fruitful hill: 
+**¹** Let me sing for my wellbeloved a song of my beloved touching his vineyard. My wellbeloved had a vineyard in a very fruitful hill: 
 
-<sup>2</sup> and he made a trench about it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also hewed out a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes. 
+**²** and he made a trench about it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also hewed out a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes. 
 
-<sup>3</sup> And now, O inhabitants of Jerusalem and men of Judah, judge, I pray you, betwixt me and my vineyard. 
+**³** And now, O inhabitants of Jerusalem and men of Judah, judge, I pray you, betwixt me and my vineyard. 
 
-<sup>4</sup> What could have been done more to my vineyard, that I have not done in it? wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes? 
+**⁴** What could have been done more to my vineyard, that I have not done in it? wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes? 
 
-<sup>5</sup> And now go to; I will tell you what I will do to my vineyard: I will take away the hedge thereof, and it shall be eaten up; I will break down the fence thereof, and it shall be trodden down: 
+**⁵** And now go to; I will tell you what I will do to my vineyard: I will take away the hedge thereof, and it shall be eaten up; I will break down the fence thereof, and it shall be trodden down: 
 
-<sup>6</sup> and I will lay it waste; it shall not be pruned nor hoed; but there shall come up briers and thorns: I will also command the clouds that they rain no rain upon it. 
+**⁶** and I will lay it waste; it shall not be pruned nor hoed; but there shall come up briers and thorns: I will also command the clouds that they rain no rain upon it. 
 
-<sup>7</sup> For the vineyard of the LORD of hosts is the house of Israel, and the men of Judah his pleasant plant: and he looked for judgment, but behold oppression; for righteousness, but behold a cry. 
+**⁷** For the vineyard of the LORD of hosts is the house of Israel, and the men of Judah his pleasant plant: and he looked for judgment, but behold oppression; for righteousness, but behold a cry. 
 
-<sup>8</sup> Woe unto them that join house to house, that lay field to field, till there be no room, and ye be made to dwell alone in the midst of the land! 
+**⁸** Woe unto them that join house to house, that lay field to field, till there be no room, and ye be made to dwell alone in the midst of the land! 
 
-<sup>9</sup> In mine ears saith the LORD of hosts, Of a truth many houses shall be desolate, even great and fair, without inhabitant. 
+**⁹** In mine ears saith the LORD of hosts, Of a truth many houses shall be desolate, even great and fair, without inhabitant. 
 
-<sup>10</sup> For ten acres of vineyard shall yield one bath, and a homer of seed shall yield but an ephah. 
+**¹⁰** For ten acres of vineyard shall yield one bath, and a homer of seed shall yield but an ephah. 
 
-<sup>11</sup> Woe unto them that rise up early in the morning, that they may follow strong drink; that tarry late into the night, till wine inflame them! 
+**¹¹** Woe unto them that rise up early in the morning, that they may follow strong drink; that tarry late into the night, till wine inflame them! 
 
-<sup>12</sup> And the harp and the lute, the tabret and the pipe, and wine, are in their feasts: but they regard not the work of the LORD, neither have they considered the operation of his hands. 
+**¹²** And the harp and the lute, the tabret and the pipe, and wine, are in their feasts: but they regard not the work of the LORD, neither have they considered the operation of his hands. 
 
-<sup>13</sup> Therefore my people are gone into captivity, for lack of knowledge: and their honourable men are famished, and their multitude are parched with thirst. 
+**¹³** Therefore my people are gone into captivity, for lack of knowledge: and their honourable men are famished, and their multitude are parched with thirst. 
 
-<sup>14</sup> Therefore hell hath enlarged her desire, and opened her mouth without measure: and their glory, and their multitude, and their pomp, and he that rejoiceth among them, descend into it. 
+**¹⁴** Therefore hell hath enlarged her desire, and opened her mouth without measure: and their glory, and their multitude, and their pomp, and he that rejoiceth among them, descend into it. 
 
-<sup>15</sup> And the mean man is bowed down, and the great man is humbled, and the eyes of the lofty are humbled: 
+**¹⁵** And the mean man is bowed down, and the great man is humbled, and the eyes of the lofty are humbled: 
 
-<sup>16</sup> but the LORD of hosts is exalted in judgment, and God the Holy One is sanctified in righteousness. 
+**¹⁶** but the LORD of hosts is exalted in judgment, and God the Holy One is sanctified in righteousness. 
 
-<sup>17</sup> Then shall the lambs feed as in their pasture, and the waste places of the fat ones shall wanderers eat. 
+**¹⁷** Then shall the lambs feed as in their pasture, and the waste places of the fat ones shall wanderers eat. 
 
-<sup>18</sup> Woe unto them that draw iniquity with cords of vanity, and sin as it were with a cart rope: 
+**¹⁸** Woe unto them that draw iniquity with cords of vanity, and sin as it were with a cart rope: 
 
-<sup>19</sup> that say, Let him make speed, let him hasten his work, that we may see it: and let the counsel of the Holy One of Israel draw nigh and come, that we may know it! 
+**¹⁹** that say, Let him make speed, let him hasten his work, that we may see it: and let the counsel of the Holy One of Israel draw nigh and come, that we may know it! 
 
-<sup>20</sup> Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter! 
+**²⁰** Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter! 
 
-<sup>21</sup> Woe unto them that are wise their own eyes, and prudent in their own sight! 
+**²¹** Woe unto them that are wise their own eyes, and prudent in their own sight! 
 
-<sup>22</sup> Woe unto them that are mighty to drink wine, and men of strength to mingle strong drink: 
+**²²** Woe unto them that are mighty to drink wine, and men of strength to mingle strong drink: 
 
-<sup>23</sup> which justify the wicked for a reward, and take away the righteousness of the righteous from him! 
+**²³** which justify the wicked for a reward, and take away the righteousness of the righteous from him! 
 
-<sup>24</sup> Therefore as the tongue of fire devoureth the stubble, and as the dry grass sinketh down in the flame, so their root shall be as rottenness, and their blossom shall go up as dust: because they have rejected the law of the LORD of hosts, and despised the word of the Holy One of Israel. 
+**²⁴** Therefore as the tongue of fire devoureth the stubble, and as the dry grass sinketh down in the flame, so their root shall be as rottenness, and their blossom shall go up as dust: because they have rejected the law of the LORD of hosts, and despised the word of the Holy One of Israel. 
 
-<sup>25</sup> Therefore is the anger of the LORD kindled against his people, and he hath stretched forth his hand against them, and hath smitten them, and the hills did tremble, and their carcases were as refuse in the midst of the streets. For all this his anger is not turned away, but his hand is stretched out still. 
+**²⁵** Therefore is the anger of the LORD kindled against his people, and he hath stretched forth his hand against them, and hath smitten them, and the hills did tremble, and their carcases were as refuse in the midst of the streets. For all this his anger is not turned away, but his hand is stretched out still. 
 
-<sup>26</sup> And he will lift up an ensign to the nations from far, and will hiss for them from the end of the earth: and, behold, they shall come with speed swiftly: 
+**²⁶** And he will lift up an ensign to the nations from far, and will hiss for them from the end of the earth: and, behold, they shall come with speed swiftly: 
 
-<sup>27</sup> None shall be weary nor stumble among them; none shall slumber nor sleep; neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken: 
+**²⁷** None shall be weary nor stumble among them; none shall slumber nor sleep; neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken: 
 
-<sup>28</sup> whose arrows are sharp, and all their bows bent; their horses’ hoofs shall be counted like flint, and their wheels like a whirlwind: 
+**²⁸** whose arrows are sharp, and all their bows bent; their horses’ hoofs shall be counted like flint, and their wheels like a whirlwind: 
 
-<sup>29</sup> their roaring shall be like a lion, they shall roar like young lions: yea, they shall roar, and lay hold of the prey, and carry it away safe, and there shall be none to deliver. 
+**²⁹** their roaring shall be like a lion, they shall roar like young lions: yea, they shall roar, and lay hold of the prey, and carry it away safe, and there shall be none to deliver. 
 
-<sup>30</sup> And they shall roar against them in that day like the roaring of the sea: and if one look unto the land, behold darkness and distress, and the light is darkened in the clouds thereof. 
+**³⁰** And they shall roar against them in that day like the roaring of the sea: and if one look unto the land, behold darkness and distress, and the light is darkened in the clouds thereof. 
 
 

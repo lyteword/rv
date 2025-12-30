@@ -4,45 +4,45 @@ weight: 14
 
 # Chapter 14
 
-<sup>1</sup> Behold, a day of the LORD cometh, when thy spoil shall be divided in the midst of thee. 
+**¹** Behold, a day of the LORD cometh, when thy spoil shall be divided in the midst of thee. 
 
-<sup>2</sup> For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished: and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city. 
+**²** For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished: and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city. 
 
-<sup>3</sup> Then shall the LORD go forth, and fight against those nations, as when he fought in the day of battle. 
+**³** Then shall the LORD go forth, and fight against those nations, as when he fought in the day of battle. 
 
-<sup>4</sup> And his feet shall stand in that day upon the mount of Olives, which is before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, and there shall be a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south. 
+**⁴** And his feet shall stand in that day upon the mount of Olives, which is before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, and there shall be a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south. 
 
-<sup>5</sup> And ye shall flee by the valley of my mountains; for the valley of the mountains shall reach unto Azel: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the LORD my God shall come, and all the holy ones with thee. 
+**⁵** And ye shall flee by the valley of my mountains; for the valley of the mountains shall reach unto Azel: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the LORD my God shall come, and all the holy ones with thee. 
 
-<sup>6</sup> And it shall come to pass in that day, that the light shall not be with brightness and with gloom: 
+**⁶** And it shall come to pass in that day, that the light shall not be with brightness and with gloom: 
 
-<sup>7</sup> but it shall be one day which is known unto the LORD; not day, and not night: but it shall come to pass, that at evening time there shall be light. 
+**⁷** but it shall be one day which is known unto the LORD; not day, and not night: but it shall come to pass, that at evening time there shall be light. 
 
-<sup>8</sup> And it shall come to pass in that day, that living waters shall go out from Jerusalem; half of them toward the eastern sea, and half of them toward the western sea: in summer and in winter shall it be. 
+**⁸** And it shall come to pass in that day, that living waters shall go out from Jerusalem; half of them toward the eastern sea, and half of them toward the western sea: in summer and in winter shall it be. 
 
-<sup>9</sup> And the LORD shall be king over all the earth: in that day shall the LORD be one, and his name one. 
+**⁹** And the LORD shall be king over all the earth: in that day shall the LORD be one, and his name one. 
 
-<sup>10</sup> All the land shall be turned as the Arabah, from Geba to Rimmon south of Jerusalem; and she shall be lifted up, and shall dwell in her place, from Benjamin’s gate unto the place of the first gate, unto the corner gate, and from the tower of Hananel unto the king’s winepresses. 
+**¹⁰** All the land shall be turned as the Arabah, from Geba to Rimmon south of Jerusalem; and she shall be lifted up, and shall dwell in her place, from Benjamin’s gate unto the place of the first gate, unto the corner gate, and from the tower of Hananel unto the king’s winepresses. 
 
-<sup>11</sup> And men shall dwell therein, and there shall be no more curse; but Jerusalem shall dwell safely. 
+**¹¹** And men shall dwell therein, and there shall be no more curse; but Jerusalem shall dwell safely. 
 
-<sup>12</sup> And this shall be the plague wherewith the LORD will smite all the peoples that have warred against Jerusalem: their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their sockets, and their tongue shall consume away in their mouth. 
+**¹²** And this shall be the plague wherewith the LORD will smite all the peoples that have warred against Jerusalem: their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their sockets, and their tongue shall consume away in their mouth. 
 
-<sup>13</sup> And it shall come to pass in that day, that a great tumult from the LORD shall be among them; and they shall lay hold every one on the hand of his neighbour, and his hand shall rise up against the hand of his neighbour. 
+**¹³** And it shall come to pass in that day, that a great tumult from the LORD shall be among them; and they shall lay hold every one on the hand of his neighbour, and his hand shall rise up against the hand of his neighbour. 
 
-<sup>14</sup> And Judah also shall fight against Jerusalem; and the wealth of all the nations round about shall be gathered together, gold, and silver, and apparel, in great abundance. 
+**¹⁴** And Judah also shall fight against Jerusalem; and the wealth of all the nations round about shall be gathered together, gold, and silver, and apparel, in great abundance. 
 
-<sup>15</sup> And so shall be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that shall be in those camps, as this plague. 
+**¹⁵** And so shall be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that shall be in those camps, as this plague. 
 
-<sup>16</sup> And it shall come to pass, that every one that is left of all the nations which came against Jerusalem shall go up from year to year to worship the King, the LORD of hosts, and to keep the feast of tabernacles. 
+**¹⁶** And it shall come to pass, that every one that is left of all the nations which came against Jerusalem shall go up from year to year to worship the King, the LORD of hosts, and to keep the feast of tabernacles. 
 
-<sup>17</sup> And it shall be, that whoso of all the families of the earth goeth not up unto Jerusalem to worship the King, the LORD of hosts, upon them there shall be no rain. 
+**¹⁷** And it shall be, that whoso of all the families of the earth goeth not up unto Jerusalem to worship the King, the LORD of hosts, upon them there shall be no rain. 
 
-<sup>18</sup> And if the family of Egypt go not up, and come not, neither shall it be upon them; there shall be the plague, wherewith the LORD will smite the nations that go not up to keep the feast of tabernacles. 
+**¹⁸** And if the family of Egypt go not up, and come not, neither shall it be upon them; there shall be the plague, wherewith the LORD will smite the nations that go not up to keep the feast of tabernacles. 
 
-<sup>19</sup> This shall be the punishment of Egypt, and the punishment of all the nations that go not up to keep the feast of tabernacles. 
+**¹⁹** This shall be the punishment of Egypt, and the punishment of all the nations that go not up to keep the feast of tabernacles. 
 
-<sup>20</sup> In that day shall there be upon the bells of the horses, HOLY UNTO THE LORD; and the pots in the LORD’S house shall be like the bowls before the altar. 
+**²⁰** In that day shall there be upon the bells of the horses, HOLY UNTO THE LORD; and the pots in the LORD’S house shall be like the bowls before the altar. 
 
-<sup>21</sup> Yea, every pot in Jerusalem and in Judah shall be holy unto the LORD of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more a Canaanite in the house of the LORD of hosts. 
+**²¹** Yea, every pot in Jerusalem and in Judah shall be holy unto the LORD of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more a Canaanite in the house of the LORD of hosts. 
 

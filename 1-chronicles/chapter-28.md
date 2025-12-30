@@ -4,46 +4,46 @@ weight: 28
 
 # Chapter 28
 
-<sup>1</sup> And David assembled all the prices of Israel, the princes of the tribes, and the captains of the companies that served the king by course, and the captains of thousands, and the captains of hundreds, and the rulers over all the substance and possessions of the king and of his sons, with the officers, and the mighty men, even all the mighty men of valour, unto Jerusalem. 
+**¹** And David assembled all the prices of Israel, the princes of the tribes, and the captains of the companies that served the king by course, and the captains of thousands, and the captains of hundreds, and the rulers over all the substance and possessions of the king and of his sons, with the officers, and the mighty men, even all the mighty men of valour, unto Jerusalem. 
 
-<sup>2</sup> Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: as for me, it was in mine heart to build an house of rest for the ark of the covenant of the LORD, and for the footstool of our God; and I had made ready for the building. 
+**²** Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: as for me, it was in mine heart to build an house of rest for the ark of the covenant of the LORD, and for the footstool of our God; and I had made ready for the building. 
 
-<sup>3</sup> But God said unto me, Thou shalt not build an house for my name, because thou art a man of war, and hast shed blood. 
+**³** But God said unto me, Thou shalt not build an house for my name, because thou art a man of war, and hast shed blood. 
 
-<sup>4</sup> Howbeit the LORD, the God of Israel, chose me out of all the house of my father to be king over Israel for ever: for he hath chosen Judah to be prince; and in the house of Judah, the house of my father; and among the sons of my father he took pleasure in me to make me king over all Israel: 
+**⁴** Howbeit the LORD, the God of Israel, chose me out of all the house of my father to be king over Israel for ever: for he hath chosen Judah to be prince; and in the house of Judah, the house of my father; and among the sons of my father he took pleasure in me to make me king over all Israel: 
 
-<sup>5</sup> And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the LORD over Israel. 
+**⁵** And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the LORD over Israel. 
 
-<sup>6</sup> And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him to be my son, and I will be his father. 
+**⁶** And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him to be my son, and I will be his father. 
 
-<sup>7</sup> And I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day. 
+**⁷** And I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day. 
 
-<sup>8</sup> Now therefore, in the sight of all Israel, the congregation of the LORD, and in the audience of our God, observe and seek out all the commandments of the LORD your God: that ye may possess this good land, and leave it for an inheritance to your children after you for ever. 
+**⁸** Now therefore, in the sight of all Israel, the congregation of the LORD, and in the audience of our God, observe and seek out all the commandments of the LORD your God: that ye may possess this good land, and leave it for an inheritance to your children after you for ever. 
 
-<sup>9</sup> And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever. 
+**⁹** And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever. 
 
-<sup>10</sup> Take heed now; for the LORD hath chosen thee to build an house for the sanctuary: be strong, and do it. 
+**¹⁰** Take heed now; for the LORD hath chosen thee to build an house for the sanctuary: be strong, and do it. 
 
-<sup>11</sup> Then David gave to Solomon his son the pattern of the porch of the temple, and of the houses thereof, and of the treasuries thereof, and of the upper rooms thereof, and of the inner chambers thereof, and of the place of the mercy-seat: 
+**¹¹** Then David gave to Solomon his son the pattern of the porch of the temple, and of the houses thereof, and of the treasuries thereof, and of the upper rooms thereof, and of the inner chambers thereof, and of the place of the mercy-seat: 
 
-<sup>12</sup> and the pattern of all that he had by the spirit, for the courts of the house of the LORD, and for all the chambers round about, for the treasuries of the house of God, and for the treasuries of the dedicated things: 
+**¹²** and the pattern of all that he had by the spirit, for the courts of the house of the LORD, and for all the chambers round about, for the treasuries of the house of God, and for the treasuries of the dedicated things: 
 
-<sup>13</sup> also for the courses of the priests and the Levites, and for all the work of the service of the house of the LORD, and for all the vessels of service in the house of the LORD: 
+**¹³** also for the courses of the priests and the Levites, and for all the work of the service of the house of the LORD, and for all the vessels of service in the house of the LORD: 
 
-<sup>14</sup> of gold by weight for the vessels of gold, for all vessels of every kind of service; of silver for all the vessels of silver by weight, for all vessels of every kind of service: 
+**¹⁴** of gold by weight for the vessels of gold, for all vessels of every kind of service; of silver for all the vessels of silver by weight, for all vessels of every kind of service: 
 
-<sup>15</sup> by weight also for the candlesticks of gold, and for the lamps thereof, of gold, by weight for every candlestick and for the lamps thereof, and for the candlesticks of silver, silver by weight for every candlestick and for the lamps thereof, according to the use of every candlestick: 
+**¹⁵** by weight also for the candlesticks of gold, and for the lamps thereof, of gold, by weight for every candlestick and for the lamps thereof, and for the candlesticks of silver, silver by weight for every candlestick and for the lamps thereof, according to the use of every candlestick: 
 
-<sup>16</sup> and the gold by weight for the tables of shewbread, for every table; and silver for the tables of silver: 
+**¹⁶** and the gold by weight for the tables of shewbread, for every table; and silver for the tables of silver: 
 
-<sup>17</sup> and the fleshhooks, and the basons, and the cups, of pure gold: and for the golden bowls by weight for every bowl; and for the silver bowls by weight for every bowl: 
+**¹⁷** and the fleshhooks, and the basons, and the cups, of pure gold: and for the golden bowls by weight for every bowl; and for the silver bowls by weight for every bowl: 
 
-<sup>18</sup> and for the altar of incense refined gold by weight: and gold for the pattern of the chariot, even the cherubim, that spread out their wings, and covered the ark of the covenant of the LORD. 
+**¹⁸** and for the altar of incense refined gold by weight: and gold for the pattern of the chariot, even the cherubim, that spread out their wings, and covered the ark of the covenant of the LORD. 
 
-<sup>19</sup> All this, said David, have I been made to understand in writing from the hand of the LORD, even all the works of this pattern. 
+**¹⁹** All this, said David, have I been made to understand in writing from the hand of the LORD, even all the works of this pattern. 
 
-<sup>20</sup> And David said to Solomon his son, Be strong and of good courage, and do it: fear not, nor be dismayed: for the LORD God, even my God, is with thee; he will not fail thee, nor forsake thee, until all the work for the service of the house of the LORD be finished. 
+**²⁰** And David said to Solomon his son, Be strong and of good courage, and do it: fear not, nor be dismayed: for the LORD God, even my God, is with thee; he will not fail thee, nor forsake thee, until all the work for the service of the house of the LORD be finished. 
 
-<sup>21</sup> And, behold, there are the courses of the priests and the Levites, for all the service of the house of God: and there shall be with thee in all manner of work every willing man that hath skill, for any manner of service: also the captains and all the people will be wholly at thy commandment. 
+**²¹** And, behold, there are the courses of the priests and the Levites, for all the service of the house of God: and there shall be with thee in all manner of work every willing man that hath skill, for any manner of service: also the captains and all the people will be wholly at thy commandment. 
 
 

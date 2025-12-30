@@ -4,30 +4,30 @@ weight: 8
 
 # Chapter 8
 
-<sup>1</sup> Now in the things which we are saying the chief point is this: We have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens, 
+**¹** Now in the things which we are saying the chief point is this: We have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens, 
 
-<sup>2</sup> a minister of the sanctuary, and of the true tabernacle, which the Lord pitched, not man. 
+**²** a minister of the sanctuary, and of the true tabernacle, which the Lord pitched, not man. 
 
-<sup>3</sup> For every high priest is appointed to offer both gifts and sacrifices: wherefore it is necessary that this high priest also have somewhat to offer. 
+**³** For every high priest is appointed to offer both gifts and sacrifices: wherefore it is necessary that this high priest also have somewhat to offer. 
 
-<sup>4</sup> Now if he were on earth, he would not be a priest at all, seeing there are those who offer the gifts according to the law; 
+**⁴** Now if he were on earth, he would not be a priest at all, seeing there are those who offer the gifts according to the law; 
 
-<sup>5</sup> who serve that which is a copy and shadow of the heavenly things, even as Moses is warned of God when he is about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern that was shewed thee in the mount. 
+**⁵** who serve that which is a copy and shadow of the heavenly things, even as Moses is warned of God when he is about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern that was shewed thee in the mount. 
 
-<sup>6</sup> But now hath he obtained a ministry the more excellent, by how much also he is the mediator of a better covenant, which hath been enacted upon better promises. 
+**⁶** But now hath he obtained a ministry the more excellent, by how much also he is the mediator of a better covenant, which hath been enacted upon better promises. 
 
-<sup>7</sup> For if that first covenant had been faultless, then would no place have been sought for a second. 
+**⁷** For if that first covenant had been faultless, then would no place have been sought for a second. 
 
-<sup>8</sup> For finding fault with them, he saith, Behold, the days come, saith the Lord, That I will make a new covenant with the house of Israel and with the house of Judah; 
+**⁸** For finding fault with them, he saith, Behold, the days come, saith the Lord, That I will make a new covenant with the house of Israel and with the house of Judah; 
 
-<sup>9</sup> Not according to the covenant that I made with their fathers In the day that I took them by the hand to lead them forth out of the land of Egypt; For they continued not in my covenant, And I regarded them not, saith the Lord. 
+**⁹** Not according to the covenant that I made with their fathers In the day that I took them by the hand to lead them forth out of the land of Egypt; For they continued not in my covenant, And I regarded them not, saith the Lord. 
 
-<sup>10</sup> For this is the covenant that I will make with the house of Israel After those days, saith the Lord; I will put my laws into their mind, And on their heart also will I write them: And I will be to them a God, And they shall be to me a people: 
+**¹⁰** For this is the covenant that I will make with the house of Israel After those days, saith the Lord; I will put my laws into their mind, And on their heart also will I write them: And I will be to them a God, And they shall be to me a people: 
 
-<sup>11</sup> And they shall not teach every man his fellow-citizen, And every man his brother, saying, Know the Lord: For all shall know me, From the least to the greatest of them. 
+**¹¹** And they shall not teach every man his fellow-citizen, And every man his brother, saying, Know the Lord: For all shall know me, From the least to the greatest of them. 
 
-<sup>12</sup> For I will be merciful to their iniquities, And their sins will I remember no more. 
+**¹²** For I will be merciful to their iniquities, And their sins will I remember no more. 
 
-<sup>13</sup> In that he saith, A new covenant, he hath made the first old. But that which is becoming old and waxeth aged is nigh unto vanishing away. 
+**¹³** In that he saith, A new covenant, he hath made the first old. But that which is becoming old and waxeth aged is nigh unto vanishing away. 
 
 

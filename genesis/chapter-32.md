@@ -4,68 +4,68 @@ weight: 32
 
 # Chapter 32
 
-<sup>1</sup> And Jacob went on his way, and the angels of God met him. 
+**¹** And Jacob went on his way, and the angels of God met him. 
 
-<sup>2</sup> And Jacob said when he saw them, This is God’s host: and he called the name of that place Mahanaim. 
+**²** And Jacob said when he saw them, This is God’s host: and he called the name of that place Mahanaim. 
 
-<sup>3</sup> And Jacob sent messengers before him to Esau his brother unto the land of Seir, the field of Edom. 
+**³** And Jacob sent messengers before him to Esau his brother unto the land of Seir, the field of Edom. 
 
-<sup>4</sup> And he commanded them, saying, Thus shall ye say unto my lord Esau; Thus saith thy servant Jacob, I have sojourned with Laban, and stayed until now: 
+**⁴** And he commanded them, saying, Thus shall ye say unto my lord Esau; Thus saith thy servant Jacob, I have sojourned with Laban, and stayed until now: 
 
-<sup>5</sup> and I have oxen, and asses and flocks, and menservants ard maidservants: and I have sent to tell my lord, that I may find grace in thy sight. 
+**⁵** and I have oxen, and asses and flocks, and menservants ard maidservants: and I have sent to tell my lord, that I may find grace in thy sight. 
 
-<sup>6</sup> And the messengers returned to Jacob, saying, We came to thy brother Esau, and moreover he cometh to meet thee, and four hundred men with him. 
+**⁶** And the messengers returned to Jacob, saying, We came to thy brother Esau, and moreover he cometh to meet thee, and four hundred men with him. 
 
-<sup>7</sup> Then Jacob was greatly afraid and was distressed: and he divided the people that was with him, and the flocks, and the herds, and the camels, into two companies; 
+**⁷** Then Jacob was greatly afraid and was distressed: and he divided the people that was with him, and the flocks, and the herds, and the camels, into two companies; 
 
-<sup>8</sup> and he said, If Esau come to the one company, and smite it, then the company which is left shall escape. 
+**⁸** and he said, If Esau come to the one company, and smite it, then the company which is left shall escape. 
 
-<sup>9</sup> And Jacob said, O God of my father Abraham, and God of my father Isaac, O LORD, which saidst unto me, Return unto thy country, and to thy kindred, and I will do thee good: 
+**⁹** And Jacob said, O God of my father Abraham, and God of my father Isaac, O LORD, which saidst unto me, Return unto thy country, and to thy kindred, and I will do thee good: 
 
-<sup>10</sup> I am not worthy of the least of all the mercies, and of all the truth, which thou hast shewed unto thy servant; for with my staff I passed over this Jordan; and now I am become two companies. 
+**¹⁰** I am not worthy of the least of all the mercies, and of all the truth, which thou hast shewed unto thy servant; for with my staff I passed over this Jordan; and now I am become two companies. 
 
-<sup>11</sup> Deliver me, I pray thee, from the hand of my brother, from the hand of Esau: for I fear him, lest he come and smite me, the mother with the children. 
+**¹¹** Deliver me, I pray thee, from the hand of my brother, from the hand of Esau: for I fear him, lest he come and smite me, the mother with the children. 
 
-<sup>12</sup> And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude. 
+**¹²** And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude. 
 
-<sup>13</sup> And he lodged there that night; and took of that which he had with him a present for Esau his brother; 
+**¹³** And he lodged there that night; and took of that which he had with him a present for Esau his brother; 
 
-<sup>14</sup> two hundred she-goats and twenty he-goats, two hundred ewes and twenty rams, 
+**¹⁴** two hundred she-goats and twenty he-goats, two hundred ewes and twenty rams, 
 
-<sup>15</sup> thirty milch camels and their colts, forty kine and ten bulls, twenty she-asses and ten foals. 
+**¹⁵** thirty milch camels and their colts, forty kine and ten bulls, twenty she-asses and ten foals. 
 
-<sup>16</sup> And he delivered them into the hand of his servants, every drove by itself; and said unto his servants, Pass over before me, and put a space betwixt drove and drove. 
+**¹⁶** And he delivered them into the hand of his servants, every drove by itself; and said unto his servants, Pass over before me, and put a space betwixt drove and drove. 
 
-<sup>17</sup> And he commanded the foremost, saying, When Esau my brother meeteth thee, and asketh thee, saying, Whose art thou? and whither goest thou? and whose are these before thee? 
+**¹⁷** And he commanded the foremost, saying, When Esau my brother meeteth thee, and asketh thee, saying, Whose art thou? and whither goest thou? and whose are these before thee? 
 
-<sup>18</sup> then thou shalt say, They be thy servant Jacob’s; it is a present sent unto my lord Esau: and, behold, he also is behind us. 
+**¹⁸** then thou shalt say, They be thy servant Jacob’s; it is a present sent unto my lord Esau: and, behold, he also is behind us. 
 
-<sup>19</sup> And he commanded also the second, and the third, and all that followed the droves, saying, On this manner shall ye speak unto Esau, when ye find him; 
+**¹⁹** And he commanded also the second, and the third, and all that followed the droves, saying, On this manner shall ye speak unto Esau, when ye find him; 
 
-<sup>20</sup> and ye shall say, Moreover, behold, thy servant Jacob is behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept me. 
+**²⁰** and ye shall say, Moreover, behold, thy servant Jacob is behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept me. 
 
-<sup>21</sup> So the present passed over before him: and he himself lodged that night in the company. 
+**²¹** So the present passed over before him: and he himself lodged that night in the company. 
 
-<sup>22</sup> And he rose up that night, and took his two wives, and his two handmaids, and his eleven children, and passed over the ford of Jabbok. 
+**²²** And he rose up that night, and took his two wives, and his two handmaids, and his eleven children, and passed over the ford of Jabbok. 
 
-<sup>23</sup> And he took them, and sent them over the stream, and sent over that he had. 
+**²³** And he took them, and sent them over the stream, and sent over that he had. 
 
-<sup>24</sup> And Jacob was left alone; and there wrestled a man with him until the breaking of the day. 
+**²⁴** And Jacob was left alone; and there wrestled a man with him until the breaking of the day. 
 
-<sup>25</sup> And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob’s thigh was strained, as he wrestled with him. 
+**²⁵** And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob’s thigh was strained, as he wrestled with him. 
 
-<sup>26</sup> And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me. 
+**²⁶** And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me. 
 
-<sup>27</sup> And he said unto him, What is thy name? And he said, Jacob. 
+**²⁷** And he said unto him, What is thy name? And he said, Jacob. 
 
-<sup>28</sup> And he said, Thy name shall be called no more Jacob, but Israel: for thou hast striven with God and with men, and hast prevailed. 
+**²⁸** And he said, Thy name shall be called no more Jacob, but Israel: for thou hast striven with God and with men, and hast prevailed. 
 
-<sup>29</sup> And Jacob asked him, and said, Tell me, I pray thee, thy name. And he said, Wherefore is it that thou dost ask after my name? And he blessed him there. 
+**²⁹** And Jacob asked him, and said, Tell me, I pray thee, thy name. And he said, Wherefore is it that thou dost ask after my name? And he blessed him there. 
 
-<sup>30</sup> And Jacob called the name of the place Peniel: for, said he, I have seen God face to face, and my life is preserved. 
+**³⁰** And Jacob called the name of the place Peniel: for, said he, I have seen God face to face, and my life is preserved. 
 
-<sup>31</sup> And the sun rose upon him as he passed over Penuel, and he halted upon his thigh. 
+**³¹** And the sun rose upon him as he passed over Penuel, and he halted upon his thigh. 
 
-<sup>32</sup> Therefore the children of Israel eat not the sinew of the hip which is upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob’s thigh in the sinew of the hip. 
+**³²** Therefore the children of Israel eat not the sinew of the hip which is upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob’s thigh in the sinew of the hip. 
 
 

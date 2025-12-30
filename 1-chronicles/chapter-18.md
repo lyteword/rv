@@ -4,38 +4,38 @@ weight: 18
 
 # Chapter 18
 
-<sup>1</sup> And after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines. 
+**¹** And after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines. 
 
-<sup>2</sup> And he smote Moab; and the Moabites became servants to David, and brought presents. 
+**²** And he smote Moab; and the Moabites became servants to David, and brought presents. 
 
-<sup>3</sup> And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates. 
+**³** And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates. 
 
-<sup>4</sup> And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: and David houghed all the chariot horses, but reserved of them for an hundred chariots. 
+**⁴** And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: and David houghed all the chariot horses, but reserved of them for an hundred chariots. 
 
-<sup>5</sup> And when the Syrians of Damascus came to succour Hadarezer king of Zobah, David smote of the Syrians two and twenty thousand men. 
+**⁵** And when the Syrians of Damascus came to succour Hadarezer king of Zobah, David smote of the Syrians two and twenty thousand men. 
 
-<sup>6</sup> Then David put garrisons in Syria of Damascus; and the Syrians became servants to David, and brought presents. And the LORD gave victory to David whithersoever he went. 
+**⁶** Then David put garrisons in Syria of Damascus; and the Syrians became servants to David, and brought presents. And the LORD gave victory to David whithersoever he went. 
 
-<sup>7</sup> And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem. 
+**⁷** And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem. 
 
-<sup>8</sup> And from Tibhath and from Cun, cities of Hadarezer, David took very much brass, wherewith Solomon made the brasen sea, and the pillars, and the vessels of brass. 
+**⁸** And from Tibhath and from Cun, cities of Hadarezer, David took very much brass, wherewith Solomon made the brasen sea, and the pillars, and the vessels of brass. 
 
-<sup>9</sup> And when Tou king of Hamath heard that David had smitten all the host of Hadarezer king of Zobah, 
+**⁹** And when Tou king of Hamath heard that David had smitten all the host of Hadarezer king of Zobah, 
 
-<sup>10</sup> he sent Hadoram his son to king David, to salute him, and to bless him, because he had fought against Hadarezer and smitten him; for Hadarezer had wars with Tou; and he had with him all manner of vessels of gold and silver and brass. 
+**¹⁰** he sent Hadoram his son to king David, to salute him, and to bless him, because he had fought against Hadarezer and smitten him; for Hadarezer had wars with Tou; and he had with him all manner of vessels of gold and silver and brass. 
 
-<sup>11</sup> These also did king David dedicate unto the LORD, with the silver and the gold that he carried away from all the nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek. 
+**¹¹** These also did king David dedicate unto the LORD, with the silver and the gold that he carried away from all the nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek. 
 
-<sup>12</sup> Moreover Abishai the son of Zeruiah smote of the Edomites in the Valley of Salt eighteen thousand. 
+**¹²** Moreover Abishai the son of Zeruiah smote of the Edomites in the Valley of Salt eighteen thousand. 
 
-<sup>13</sup> And he put garrisons in Edom; and all the Edomites became servants to David. And the LORD gave victory to David whithersoever he went. 
+**¹³** And he put garrisons in Edom; and all the Edomites became servants to David. And the LORD gave victory to David whithersoever he went. 
 
-<sup>14</sup> And David reigned over all Israel; and he executed judgment and justice unto all his people. 
+**¹⁴** And David reigned over all Israel; and he executed judgment and justice unto all his people. 
 
-<sup>15</sup> And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud was recorder. 
+**¹⁵** And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud was recorder. 
 
-<sup>16</sup> and Zadok the son of Ahitub, and Abimelech the son of Abiathar, were priests; and Shavsha was scribe; 
+**¹⁶** and Zadok the son of Ahitub, and Abimelech the son of Abiathar, were priests; and Shavsha was scribe; 
 
-<sup>17</sup> and Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief about the king. 
+**¹⁷** and Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief about the king. 
 
 

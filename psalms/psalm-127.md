@@ -4,14 +4,14 @@ weight: 127
 
 # Psalm 127
 
-<sup>1</sup> A Song of Ascents; of Solomon. Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain. 
+**¹** A Song of Ascents; of Solomon. Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain. 
 
-<sup>2</sup> It is vain for you that ye rise up early, and so late take rest, and eat the bread of toil: for so he giveth unto his beloved sleep. 
+**²** It is vain for you that ye rise up early, and so late take rest, and eat the bread of toil: for so he giveth unto his beloved sleep. 
 
-<sup>3</sup> Lo, children are an heritage of the LORD: and the fruit of the womb is his reward. 
+**³** Lo, children are an heritage of the LORD: and the fruit of the womb is his reward. 
 
-<sup>4</sup> As arrows in the hand of a mighty man, so are the children of youth. 
+**⁴** As arrows in the hand of a mighty man, so are the children of youth. 
 
-<sup>5</sup> Happy is the man that hath his quiver full of them: they shall not be ashamed, when they speak with their enemies in the gate. 
+**⁵** Happy is the man that hath his quiver full of them: they shall not be ashamed, when they speak with their enemies in the gate. 
 
 

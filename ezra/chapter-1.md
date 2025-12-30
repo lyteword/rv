@@ -4,26 +4,26 @@ weight: 1
 
 # Chapter 1
 
-<sup>1</sup> Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying, 
+**¹** Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying, 
 
-<sup>2</sup> Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD, the God of heaven, given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. 
+**²** Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD, the God of heaven, given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. 
 
-<sup>3</sup> Whosoever there is among you of all his people, his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD, the God of Israel, (he is God,) which is in Jerusalem. 
+**³** Whosoever there is among you of all his people, his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD, the God of Israel, (he is God,) which is in Jerusalem. 
 
-<sup>4</sup> And whosoever is left, in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God which is in Jerusalem. 
+**⁴** And whosoever is left, in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God which is in Jerusalem. 
 
-<sup>5</sup> Then rose up the heads of fathers’ houses of Judah and Benjamin, told the priests, and the Levites, even all whose spirit God had stirred to go up to build the house of the LORD which is in Jerusalem. 
+**⁵** Then rose up the heads of fathers’ houses of Judah and Benjamin, told the priests, and the Levites, even all whose spirit God had stirred to go up to build the house of the LORD which is in Jerusalem. 
 
-<sup>6</sup> And all they that were round about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all that was willingly offered. 
+**⁶** And all they that were round about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all that was willingly offered. 
 
-<sup>7</sup> Also Cyrus the king brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods; 
+**⁷** Also Cyrus the king brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods; 
 
-<sup>8</sup> even those did Cyrus king of Persia bring forth by the hand of Mithredath the treasurer, and numbered them unto Sheshbazzar, the prince of Judah. 
+**⁸** even those did Cyrus king of Persia bring forth by the hand of Mithredath the treasurer, and numbered them unto Sheshbazzar, the prince of Judah. 
 
-<sup>9</sup> And this is the number of them: thirty chargers of gold, a thousand chargers of silver, nine and twenty knives; 
+**⁹** And this is the number of them: thirty chargers of gold, a thousand chargers of silver, nine and twenty knives; 
 
-<sup>10</sup> thirty bowls of gold, silver bowls of a second sort four hundred and ten, and other vessels a thousand. 
+**¹⁰** thirty bowls of gold, silver bowls of a second sort four hundred and ten, and other vessels a thousand. 
 
-<sup>11</sup> All the vessels of gold and of silver were five thousand and four hundred. All these did Sheshbazzar bring up, when they of the captivity were brought up from Babylon unto Jerusalem. 
+**¹¹** All the vessels of gold and of silver were five thousand and four hundred. All these did Sheshbazzar bring up, when they of the captivity were brought up from Babylon unto Jerusalem. 
 
 

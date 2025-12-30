@@ -4,40 +4,40 @@ weight: 13
 
 # Chapter 13
 
-<sup>1</sup> and he stood upon the sand of the sea. And I saw a beast coming up out of the sea, having ten horns and seven heads, and on his horns ten diadems, and upon his heads names of blasphemy. 
+**¹** and he stood upon the sand of the sea. And I saw a beast coming up out of the sea, having ten horns and seven heads, and on his horns ten diadems, and upon his heads names of blasphemy. 
 
-<sup>2</sup> And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his throne, and great authority. 
+**²** And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his throne, and great authority. 
 
-<sup>3</sup> And I saw one of his heads as though it had been smitten unto death; and his death-stroke was healed: and the whole earth wondered after the beast; 
+**³** And I saw one of his heads as though it had been smitten unto death; and his death-stroke was healed: and the whole earth wondered after the beast; 
 
-<sup>4</sup> and they worshipped the dragon, because he gave his authority unto the beast; and they worshipped the beast, saying, Who is like unto the beast? and who is able to war with him? 
+**⁴** and they worshipped the dragon, because he gave his authority unto the beast; and they worshipped the beast, saying, Who is like unto the beast? and who is able to war with him? 
 
-<sup>5</sup> and there was given to him a mouth speaking great things and blasphemies; and there was given to him authority to continue forty and two months. 
+**⁵** and there was given to him a mouth speaking great things and blasphemies; and there was given to him authority to continue forty and two months. 
 
-<sup>6</sup> And he opened his mouth for blasphemies against God, to blaspheme his name, and his tabernacle, even them that dwell in the heaven. 
+**⁶** And he opened his mouth for blasphemies against God, to blaspheme his name, and his tabernacle, even them that dwell in the heaven. 
 
-<sup>7</sup> And it was given unto him to make war with the saints, and to overcome them: and there was given to him authority over every tribe and people and tongue and nation. 
+**⁷** And it was given unto him to make war with the saints, and to overcome them: and there was given to him authority over every tribe and people and tongue and nation. 
 
-<sup>8</sup> And all that dwell on the earth shall worship him, every one whose name hath not been written in the book of life of the Lamb that hath been slain from the foundation of the world. 
+**⁸** And all that dwell on the earth shall worship him, every one whose name hath not been written in the book of life of the Lamb that hath been slain from the foundation of the world. 
 
-<sup>9</sup> If any man hath an ear, let him hear. 
+**⁹** If any man hath an ear, let him hear. 
 
-<sup>10</sup> If any man is for captivity, into captivity he goeth: if any man shall kill with the sword, with the sword must he be killed. Here is the patience and the faith of the saints. 
+**¹⁰** If any man is for captivity, into captivity he goeth: if any man shall kill with the sword, with the sword must he be killed. Here is the patience and the faith of the saints. 
 
-<sup>11</sup> And I saw another beast coming up out of the earth; and he had two horns like unto a lamb, and he spake as a dragon. 
+**¹¹** And I saw another beast coming up out of the earth; and he had two horns like unto a lamb, and he spake as a dragon. 
 
-<sup>12</sup> And he exerciseth all the authority of the first beast in his sight. And he maketh the earth and them that dwell therein to worship the first beast, whose death-stroke was healed. 
+**¹²** And he exerciseth all the authority of the first beast in his sight. And he maketh the earth and them that dwell therein to worship the first beast, whose death-stroke was healed. 
 
-<sup>13</sup> And he doeth great signs, that he should even make fire to come down out of heaven upon the earth in the sight of men. 
+**¹³** And he doeth great signs, that he should even make fire to come down out of heaven upon the earth in the sight of men. 
 
-<sup>14</sup> And he deceiveth them that dwell on the earth by reason of the signs which it was given him to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, who hath the stroke of the sword, and lived. 
+**¹⁴** And he deceiveth them that dwell on the earth by reason of the signs which it was given him to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, who hath the stroke of the sword, and lived. 
 
-<sup>15</sup> And it was given unto him to give breath to it, even to the image of the beast, that the image of the beast should both speak, and cause that as many as should not worship the image of the beast should be killed. 
+**¹⁵** And it was given unto him to give breath to it, even to the image of the beast, that the image of the beast should both speak, and cause that as many as should not worship the image of the beast should be killed. 
 
-<sup>16</sup> And he causeth all, the small and the great, and the rich and the poor, and the free and the bond, that there be given them a mark on their right hand, or upon their forehead; 
+**¹⁶** And he causeth all, the small and the great, and the rich and the poor, and the free and the bond, that there be given them a mark on their right hand, or upon their forehead; 
 
-<sup>17</sup> and that no man should be able to buy or to sell, save he that hath the mark, even the name of the beast or the number of his name. 
+**¹⁷** and that no man should be able to buy or to sell, save he that hath the mark, even the name of the beast or the number of his name. 
 
-<sup>18</sup> Here is wisdom. He that hath understanding, let him count the number of the beast; for it is the number of a man: and his number is Six hundred and sixty and six. 
+**¹⁸** Here is wisdom. He that hath understanding, let him count the number of the beast; for it is the number of a man: and his number is Six hundred and sixty and six. 
 
 

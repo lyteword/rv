@@ -4,44 +4,44 @@ weight: 15
 
 # Chapter 15
 
-<sup>1</sup> But it came to pass after a while, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in. 
+**¹** But it came to pass after a while, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in. 
 
-<sup>2</sup> And her father said, I verily thought that thou hadst utterly hated her; therefore I gave her to thy companion: is not her younger sister fairer than she? take her, I pray thee, instead of her. 
+**²** And her father said, I verily thought that thou hadst utterly hated her; therefore I gave her to thy companion: is not her younger sister fairer than she? take her, I pray thee, instead of her. 
 
-<sup>3</sup> And Samson said unto them, This time shall I be blameless in regard of the Philistines, when I do them a mischief. 
+**³** And Samson said unto them, This time shall I be blameless in regard of the Philistines, when I do them a mischief. 
 
-<sup>4</sup> And Samson went and caught three hundred foxes, and took firebrands, and turned tail to tail, and put a firebrand in the midst between every two tails. 
+**⁴** And Samson went and caught three hundred foxes, and took firebrands, and turned tail to tail, and put a firebrand in the midst between every two tails. 
 
-<sup>5</sup> And when he had set the brands on fire, he let them go into the standing corn of the Philistines, and burnt up both the shocks and the standing corn, and also the oliveyards. 
+**⁵** And when he had set the brands on fire, he let them go into the standing corn of the Philistines, and burnt up both the shocks and the standing corn, and also the oliveyards. 
 
-<sup>6</sup> Then the Philistines said, Who hath done this? And they said, Samson, the son in law of the Timnite, because he hath taken his wife, and given her to his companion. And the Philistines came up, and burnt her and her father with fire. 
+**⁶** Then the Philistines said, Who hath done this? And they said, Samson, the son in law of the Timnite, because he hath taken his wife, and given her to his companion. And the Philistines came up, and burnt her and her father with fire. 
 
-<sup>7</sup> And Samson said unto them, If ye do after this manner, surely I will be avenged of you, and after that I will cease. 
+**⁷** And Samson said unto them, If ye do after this manner, surely I will be avenged of you, and after that I will cease. 
 
-<sup>8</sup> And he smote them hip and thigh with a great slaughter: and he went down and dwelt in the cleft of the rock of Etam. 
+**⁸** And he smote them hip and thigh with a great slaughter: and he went down and dwelt in the cleft of the rock of Etam. 
 
-<sup>9</sup> Then the Philistines went up, and pitched in Judah, and spread themselves in Lehi. 
+**⁹** Then the Philistines went up, and pitched in Judah, and spread themselves in Lehi. 
 
-<sup>10</sup> And the men of Judah said, Why are ye come up against us? And they said, To bind Samson are we come up, to do to him as he hath done to us. 
+**¹⁰** And the men of Judah said, Why are ye come up against us? And they said, To bind Samson are we come up, to do to him as he hath done to us. 
 
-<sup>11</sup> Then three thousand men of Judah went down to the cleft of the rock of Etam, and said to Samson, Knowest thou not that the Philistines are rulers over us? what then is this that thou hast done unto us? And he said unto them, As they did unto me, so have I done unto them. 
+**¹¹** Then three thousand men of Judah went down to the cleft of the rock of Etam, and said to Samson, Knowest thou not that the Philistines are rulers over us? what then is this that thou hast done unto us? And he said unto them, As they did unto me, so have I done unto them. 
 
-<sup>12</sup> And they said unto him, We are come down to bind thee, that we may deliver thee into the hand of the Philistines. And Samson said unto them, Swear unto me, that ye will not fall upon me yourselves. 
+**¹²** And they said unto him, We are come down to bind thee, that we may deliver thee into the hand of the Philistines. And Samson said unto them, Swear unto me, that ye will not fall upon me yourselves. 
 
-<sup>13</sup> And they spake unto him, saying, No; but we will bind thee fast, and deliver thee into their hand: but surely we will not kill thee. And they bound him with two new ropes, and brought him up from the rock. 
+**¹³** And they spake unto him, saying, No; but we will bind thee fast, and deliver thee into their hand: but surely we will not kill thee. And they bound him with two new ropes, and brought him up from the rock. 
 
-<sup>14</sup> When he came unto Lehi, the Philistines shouted as they met him: and the spirit of the LORD came mightily upon him, and the ropes that were upon his arms became as flax that was burnt with fire, and his bands dropped from off his hands. 
+**¹⁴** When he came unto Lehi, the Philistines shouted as they met him: and the spirit of the LORD came mightily upon him, and the ropes that were upon his arms became as flax that was burnt with fire, and his bands dropped from off his hands. 
 
-<sup>15</sup> And he found a new jawbone of an ass, and put forth his hand, and took it, and smote a thousand men therewith. 
+**¹⁵** And he found a new jawbone of an ass, and put forth his hand, and took it, and smote a thousand men therewith. 
 
-<sup>16</sup> And Samson said, With the jawbone of an ass, heaps upon heaps, with the jawbone of an ass have I smitten a thousand men. 
+**¹⁶** And Samson said, With the jawbone of an ass, heaps upon heaps, with the jawbone of an ass have I smitten a thousand men. 
 
-<sup>17</sup> And it came to pass, when he had made an end of speaking, that he cast away the jawbone out of his hand; and that place was called Ramath-lehi. 
+**¹⁷** And it came to pass, when he had made an end of speaking, that he cast away the jawbone out of his hand; and that place was called Ramath-lehi. 
 
-<sup>18</sup> And he was sore athirst, and called on the LORD, and said, Thou hast given this great deliverance by the hand of thy servant: and now shall I die for thirst, and fall into the hand of the uncircumcised. 
+**¹⁸** And he was sore athirst, and called on the LORD, and said, Thou hast given this great deliverance by the hand of thy servant: and now shall I die for thirst, and fall into the hand of the uncircumcised. 
 
-<sup>19</sup> But God clave the hollow place that is in Lehi, and there came water thereout; and when he had drunk, his spirit came again, and he revived: wherefore the name thereof was called En-hakkore, which is in Lehi, unto this day. 
+**¹⁹** But God clave the hollow place that is in Lehi, and there came water thereout; and when he had drunk, his spirit came again, and he revived: wherefore the name thereof was called En-hakkore, which is in Lehi, unto this day. 
 
-<sup>20</sup> And he judged Israel in the days of the Philistines twenty years. 
+**²⁰** And he judged Israel in the days of the Philistines twenty years. 
 
 
