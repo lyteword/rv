@@ -1,8 +1,11 @@
 ---
+title: "Genesis 17 RV | Read the Bible Online"
+linkTitle: "17"
+description: "Read Genesis 17 Online | And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am God Almighty; walk before me, and be thou perfect..."
 weight: 17
 ---
 
-# Chapter 17
+# Genesis 17 
 
 **¹** And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am God Almighty; walk before me, and be thou perfect. 
 

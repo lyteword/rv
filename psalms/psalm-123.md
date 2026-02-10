@@ -1,8 +1,11 @@
 ---
+title: "Psalm 123 RV | Read the Bible Online"
+linkTitle: "123"
+description: "Read Psalm 123 Online | A Song of Ascents. Unto thee do I lift up mine eyes, O thou that sittest in the heavens..."
 weight: 123
 ---
 
-# Psalm 123
+# Psalm 123 
 
 **¹** A Song of Ascents. Unto thee do I lift up mine eyes, O thou that sittest in the heavens. 
 

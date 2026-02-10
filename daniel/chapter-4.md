@@ -1,8 +1,11 @@
 ---
+title: "Daniel 4 RV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Daniel 4 Online | Nebuchadnezzar the king, unto all the peoples, nations, and languages, that dwell in all the earth; peace be multiplied unto you..."
 weight: 4
 ---
 
-# Chapter 4
+# Daniel 4 
 
 **¹** Nebuchadnezzar the king, unto all the peoples, nations, and languages, that dwell in all the earth; peace be multiplied unto you. 
 

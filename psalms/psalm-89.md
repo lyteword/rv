@@ -1,8 +1,11 @@
 ---
+title: "Psalm 89 RV | Read the Bible Online"
+linkTitle: "89"
+description: "Read Psalm 89 Online | Maschil of Ethan the Ezrahite. I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations..."
 weight: 89
 ---
 
-# Psalm 89
+# Psalm 89 
 
 **¹** Maschil of Ethan the Ezrahite. I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations. 
 

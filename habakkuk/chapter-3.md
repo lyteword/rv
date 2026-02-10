@@ -1,8 +1,11 @@
 ---
+title: "Habakkuk 3 RV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Habakkuk 3 Online | A PRAYER of Habakkuk the prophet, set to Shigionoth..."
 weight: 3
 ---
 
-# Chapter 3
+# Habakkuk 3 
 
 **¹** A PRAYER of Habakkuk the prophet, set to Shigionoth. 
 

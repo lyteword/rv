@@ -1,8 +1,11 @@
 ---
+title: "Amos 4 RV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Amos 4 Online | Hear this word, ye kine of Bashan, that are in the mountain of Samaria, which oppress the poor, which crush the needy, which say unto their lords, Bring, and let us drink..."
 weight: 4
 ---
 
-# Chapter 4
+# Amos 4 
 
 **¹** Hear this word, ye kine of Bashan, that are in the mountain of Samaria, which oppress the poor, which crush the needy, which say unto their lords, Bring, and let us drink. 
 

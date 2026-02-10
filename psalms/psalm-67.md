@@ -1,8 +1,11 @@
 ---
+title: "Psalm 67 RV | Read the Bible Online"
+linkTitle: "67"
+description: "Read Psalm 67 Online | For the Chief Musician; on stringed instruments. A Psalm, a Song. God be merciful unto us, and bless us, and cause his face to shine upon us; Selah..."
 weight: 67
 ---
 
-# Psalm 67
+# Psalm 67 
 
 **¹** For the Chief Musician; on stringed instruments. A Psalm, a Song. God be merciful unto us, and bless us, and cause his face to shine upon us; Selah 
 

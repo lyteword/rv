@@ -1,8 +1,11 @@
 ---
+title: "Joshua 12 RV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Joshua 12 Online | Now these are the kings of the land, whom the children of Israel smote, and possessed their land beyond Jordan toward the sunrising, from the valley of Arnon unto mount Hermon, and all the Arabah eastward..."
 weight: 12
 ---
 
-# Chapter 12
+# Joshua 12 
 
 **¹** Now these are the kings of the land, whom the children of Israel smote, and possessed their land beyond Jordan toward the sunrising, from the valley of Arnon unto mount Hermon, and all the Arabah eastward: 
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 21 RV | Read the Bible Online"
+linkTitle: "21"
+description: "Read 2 Samuel 21 Online | And there was a famine in the days of David three years, year after year; and David sought the face of the LORD. And the LORD said, It is for Saul, and for his bloody house, because he put to death the Gibeonites..."
 weight: 21
 ---
 
-# Chapter 21
+# 2 Samuel 21 
 
 **¹** And there was a famine in the days of David three years, year after year; and David sought the face of the LORD. And the LORD said, It is for Saul, and for his bloody house, because he put to death the Gibeonites. 
 

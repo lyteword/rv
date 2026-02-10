@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 10 RV | Read the Bible Online"
+linkTitle: "10"
+description: "Read 1 Corinthians 10 Online | For I would not, brethren, have you ignorant, how that our fathers were all under the cloud, and all passed through the sea..."
 weight: 10
 ---
 
-# Chapter 10
+# 1 Corinthians 10 
 
 **¹** For I would not, brethren, have you ignorant, how that our fathers were all under the cloud, and all passed through the sea; 
 

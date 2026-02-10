@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 3 RV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Isaiah 3 Online | For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah stay and staff, the whole stay of bread, and the whole stay of water..."
 weight: 3
 ---
 
-# Chapter 3
+# Isaiah 3 
 
 **¹** For, behold, the Lord, the LORD of hosts, doth take away from Jerusalem and from Judah stay and staff, the whole stay of bread, and the whole stay of water; 
 

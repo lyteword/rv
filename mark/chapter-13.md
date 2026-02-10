@@ -1,8 +1,11 @@
 ---
+title: "Mark 13 RV | Read the Bible Online"
+linkTitle: "13"
+description: "Read Mark 13 Online | And as he went forth out of the temple, one of his disciples saith unto him, Master, behold, what manner of stones and what manner of buildings..."
 weight: 13
 ---
 
-# Chapter 13
+# Mark 13 
 
 **¹** And as he went forth out of the temple, one of his disciples saith unto him, Master, behold, what manner of stones and what manner of buildings! 
 

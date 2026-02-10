@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 30 RV | Read the Bible Online"
+linkTitle: "30"
+description: "Read Proverbs 30 Online | The words of Agur the son of Jakeh; the oracle. The man saith unto Ithiel, unto Ithiel and Ucal..."
 weight: 30
 ---
 
-# Chapter 30
+# Proverbs 30 
 
 **¹** The words of Agur the son of Jakeh; the oracle. The man saith unto Ithiel, unto Ithiel and Ucal: 
 

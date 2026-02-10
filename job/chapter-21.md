@@ -1,8 +1,11 @@
 ---
+title: "Job 21 RV | Read the Bible Online"
+linkTitle: "21"
+description: "Read Job 21 Online | Then Job answered and said..."
 weight: 21
 ---
 
-# Chapter 21
+# Job 21 
 
 **¹** Then Job answered and said, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Hosea 5 RV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Hosea 5 Online | Hear this, O ye priests, and hearken, ye house of Israel, and give ear, O house of the king, for unto you pertain the judgment; for ye have been a snare at Mizpah, and a net spread upon Tabor..."
 weight: 5
 ---
 
-# Chapter 5
+# Hosea 5 
 
 **¹** Hear this, O ye priests, and hearken, ye house of Israel, and give ear, O house of the king, for unto you pertain the judgment; for ye have been a snare at Mizpah, and a net spread upon Tabor. 
 

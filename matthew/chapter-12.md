@@ -1,8 +1,11 @@
 ---
+title: "Matthew 12 RV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Matthew 12 Online | At that season Jesus went on the sabbath day through the cornfields; and his disciples were an hungred, and began to pluck ears of corn, and to eat..."
 weight: 12
 ---
 
-# Chapter 12
+# Matthew 12 
 
 **¹** At that season Jesus went on the sabbath day through the cornfields; and his disciples were an hungred, and began to pluck ears of corn, and to eat. 
 

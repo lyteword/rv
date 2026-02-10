@@ -1,8 +1,11 @@
 ---
+title: "Psalm 105 RV | Read the Bible Online"
+linkTitle: "105"
+description: "Read Psalm 105 Online | Give thanks unto the LORD, call upon his name; make known his doings among the peoples..."
 weight: 105
 ---
 
-# Psalm 105
+# Psalm 105 
 
 **¹** Give thanks unto the LORD, call upon his name; make known his doings among the peoples. 
 

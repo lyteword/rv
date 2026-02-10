@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 12 RV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Hebrews 12 Online | Therefore let us also, seeing we are compassed about with so great a cloud of witnesses, lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us..."
 weight: 12
 ---
 
-# Chapter 12
+# Hebrews 12 
 
 **¹** Therefore let us also, seeing we are compassed about with so great a cloud of witnesses, lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 40 RV | Read the Bible Online"
+linkTitle: "40"
+description: "Read Psalm 40 Online | For the Chief Musician. A Psalm of David. I waited patiently for the LORD; and he inclined unto me, and heard my cry..."
 weight: 40
 ---
 
-# Psalm 40
+# Psalm 40 
 
 **¹** For the Chief Musician. A Psalm of David. I waited patiently for the LORD; and he inclined unto me, and heard my cry. 
 

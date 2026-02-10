@@ -1,8 +1,11 @@
 ---
+title: "Revelation 7 RV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Revelation 7 Online | After this I saw four angels standing at the four corners of the earth, holding the four winds of the earth, that no wind should blow on the earth, or on the sea, or upon any tree..."
 weight: 7
 ---
 
-# Chapter 7
+# Revelation 7 
 
 **¹** After this I saw four angels standing at the four corners of the earth, holding the four winds of the earth, that no wind should blow on the earth, or on the sea, or upon any tree. 
 

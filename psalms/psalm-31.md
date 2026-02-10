@@ -1,8 +1,11 @@
 ---
+title: "Psalm 31 RV | Read the Bible Online"
+linkTitle: "31"
+description: "Read Psalm 31 Online | For the Chief Musician. A Psalm of David. In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness..."
 weight: 31
 ---
 
-# Psalm 31
+# Psalm 31 
 
 **¹** For the Chief Musician. A Psalm of David. In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness. 
 

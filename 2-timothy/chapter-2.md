@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 2 RV | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Timothy 2 Online | Thou therefore, my child, be strengthened in the grace that is in Christ Jesus..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Timothy 2 
 
 **¹** Thou therefore, my child, be strengthened in the grace that is in Christ Jesus. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 124 RV | Read the Bible Online"
+linkTitle: "124"
+description: "Read Psalm 124 Online | A Song of Ascents; of David. If it had not been the LORD who was on our side, let Israel now say..."
 weight: 124
 ---
 
-# Psalm 124
+# Psalm 124 
 
 **¹** A Song of Ascents; of David. If it had not been the LORD who was on our side, let Israel now say; 
 

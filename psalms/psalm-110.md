@@ -1,8 +1,11 @@
 ---
+title: "Psalm 110 RV | Read the Bible Online"
+linkTitle: "110"
+description: "Read Psalm 110 Online | A Psalm of David. The LORD saith unto my lord, Sit thou at my right hand, until I make thine enemies thy footstool..."
 weight: 110
 ---
 
-# Psalm 110
+# Psalm 110 
 
 **¹** A Psalm of David. The LORD saith unto my lord, Sit thou at my right hand, until I make thine enemies thy footstool. 
 

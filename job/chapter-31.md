@@ -1,8 +1,11 @@
 ---
+title: "Job 31 RV | Read the Bible Online"
+linkTitle: "31"
+description: "Read Job 31 Online | I MADE a covenant with mine eyes; how then should I look upon a maid..."
 weight: 31
 ---
 
-# Chapter 31
+# Job 31 
 
 **¹** I MADE a covenant with mine eyes; how then should I look upon a maid? 
 

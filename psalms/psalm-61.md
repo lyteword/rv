@@ -1,8 +1,11 @@
 ---
+title: "Psalm 61 RV | Read the Bible Online"
+linkTitle: "61"
+description: "Read Psalm 61 Online | For the Chief Musician; on a stringed instrument. A Psalm of David. Hear my cry, O God; attend unto my prayer..."
 weight: 61
 ---
 
-# Psalm 61
+# Psalm 61 
 
 **¹** For the Chief Musician; on a stringed instrument. A Psalm of David. Hear my cry, O God; attend unto my prayer. 
 

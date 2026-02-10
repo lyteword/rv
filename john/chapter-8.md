@@ -1,8 +1,11 @@
 ---
+title: "John 8 RV | Read the Bible Online"
+linkTitle: "8"
+description: "Read John 8 Online | but Jesus went unto the mount of Olives..."
 weight: 8
 ---
 
-# Chapter 8
+# John 8 
 
 **¹** but Jesus went unto the mount of Olives. 
 

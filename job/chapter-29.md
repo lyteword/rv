@@ -1,8 +1,11 @@
 ---
+title: "Job 29 RV | Read the Bible Online"
+linkTitle: "29"
+description: "Read Job 29 Online | And Job again took up his parable, and said..."
 weight: 29
 ---
 
-# Chapter 29
+# Job 29 
 
 **¹** And Job again took up his parable, and said, 
 

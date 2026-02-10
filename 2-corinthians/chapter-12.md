@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 12 RV | Read the Bible Online"
+linkTitle: "12"
+description: "Read 2 Corinthians 12 Online | I must needs glory, though it is not expedient; but I will come to visions and revelations of the Lord..."
 weight: 12
 ---
 
-# Chapter 12
+# 2 Corinthians 12 
 
 **¹** I must needs glory, though it is not expedient; but I will come to visions and revelations of the Lord. 
 

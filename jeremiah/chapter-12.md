@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 12 RV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Jeremiah 12 Online | Righteous art thou, O LORD, when I plead with thee: yet would I reason the cause with thee: wherefore doth the way of the wicked prosper? wherefore are all they at ease that deal very treacherously..."
 weight: 12
 ---
 
-# Chapter 12
+# Jeremiah 12 
 
 **¹** Righteous art thou, O LORD, when I plead with thee: yet would I reason the cause with thee: wherefore doth the way of the wicked prosper? wherefore are all they at ease that deal very treacherously? 
 

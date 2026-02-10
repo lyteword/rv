@@ -1,8 +1,11 @@
 ---
+title: "Numbers 3 RV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Numbers 3 Online | Now these are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai..."
 weight: 3
 ---
 
-# Chapter 3
+# Numbers 3 
 
 **¹** Now these are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai. 
 

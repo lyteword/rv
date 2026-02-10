@@ -1,8 +1,11 @@
 ---
+title: "Psalm 36 RV | Read the Bible Online"
+linkTitle: "36"
+description: "Read Psalm 36 Online | For the Chief Musician. A Psalm of David the servant of the LORD. The transgression of the wicked saith within my heart, There is no fear of God before his eyes..."
 weight: 36
 ---
 
-# Psalm 36
+# Psalm 36 
 
 **¹** For the Chief Musician. A Psalm of David the servant of the LORD. The transgression of the wicked saith within my heart, There is no fear of God before his eyes. 
 

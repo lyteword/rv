@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 50 RV | Read the Bible Online"
+linkTitle: "50"
+description: "Read Jeremiah 50 Online | The word that the LORD spake concerning Babylon, concerning the land of the Chaldeans, by Jeremiah the prophet..."
 weight: 50
 ---
 
-# Chapter 50
+# Jeremiah 50 
 
 **¹** The word that the LORD spake concerning Babylon, concerning the land of the Chaldeans, by Jeremiah the prophet. 
 

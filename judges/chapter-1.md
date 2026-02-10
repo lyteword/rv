@@ -1,8 +1,11 @@
 ---
+title: "Judges 1 RV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Judges 1 Online | And it came to pass after the death of Joshua, that the children of Israel asked of the LORD, saying, Who shall go up for us first against the Canaanites, to fight against them..."
 weight: 1
 ---
 
-# Chapter 1
+# Judges 1 
 
 **¹** And it came to pass after the death of Joshua, that the children of Israel asked of the LORD, saying, Who shall go up for us first against the Canaanites, to fight against them? 
 

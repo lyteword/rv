@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 46 RV | Read the Bible Online"
+linkTitle: "46"
+description: "Read Isaiah 46 Online | Bel boweth down, Nebo stoopeth; their idols are upon the beasts, and upon the cattle: the things that ye carried about are made a load, a burden to the weary beast..."
 weight: 46
 ---
 
-# Chapter 46
+# Isaiah 46 
 
 **¹** Bel boweth down, Nebo stoopeth; their idols are upon the beasts, and upon the cattle: the things that ye carried about are made a load, a burden to the weary beast. 
 

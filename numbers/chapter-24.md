@@ -1,8 +1,11 @@
 ---
+title: "Numbers 24 RV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Numbers 24 Online | And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at the other times, to meet with enchantments, but he set his face toward the wilderness..."
 weight: 24
 ---
 
-# Chapter 24
+# Numbers 24 
 
 **¹** And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at the other times, to meet with enchantments, but he set his face toward the wilderness. 
 

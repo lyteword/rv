@@ -1,8 +1,11 @@
 ---
+title: "Mark 16 RV | Read the Bible Online"
+linkTitle: "16"
+description: "Read Mark 16 Online | And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, bought spices, that they might come and anoint him..."
 weight: 16
 ---
 
-# Chapter 16
+# Mark 16 
 
 **¹** And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, bought spices, that they might come and anoint him. 
 

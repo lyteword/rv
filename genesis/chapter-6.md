@@ -1,8 +1,11 @@
 ---
+title: "Genesis 6 RV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Genesis 6 Online | And it came to pass, when men began to multiply on the face of the ground, and daughters were born unto them..."
 weight: 6
 ---
 
-# Chapter 6
+# Genesis 6 
 
 **¹** And it came to pass, when men began to multiply on the face of the ground, and daughters were born unto them, 
 

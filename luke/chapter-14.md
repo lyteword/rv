@@ -1,8 +1,11 @@
 ---
+title: "Luke 14 RV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Luke 14 Online | And it came to pass, when he went into the house of one of the rulers of the Pharisees on a sabbath to eat bread, that they were watching him..."
 weight: 14
 ---
 
-# Chapter 14
+# Luke 14 
 
 **¹** And it came to pass, when he went into the house of one of the rulers of the Pharisees on a sabbath to eat bread, that they were watching him. 
 

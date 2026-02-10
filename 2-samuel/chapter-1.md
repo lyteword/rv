@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 1 RV | Read the Bible Online"
+linkTitle: "1"
+description: "Read 2 Samuel 1 Online | And it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag..."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Samuel 1 
 
 **¹** And it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag; 
 

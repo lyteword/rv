@@ -1,8 +1,11 @@
 ---
+title: "Amos 5 RV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Amos 5 Online | Hear ye this word which I take up for a lamentation over you, O house of Israel..."
 weight: 5
 ---
 
-# Chapter 5
+# Amos 5 
 
 **¹** Hear ye this word which I take up for a lamentation over you, O house of Israel. 
 

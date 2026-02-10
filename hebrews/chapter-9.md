@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 9 RV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Hebrews 9 Online | Now even the first covenant had ordinances of divine service, and its sanctuary, a sanctuary of this world..."
 weight: 9
 ---
 
-# Chapter 9
+# Hebrews 9 
 
 **¹** Now even the first covenant had ordinances of divine service, and its sanctuary, a sanctuary of this world. 
 

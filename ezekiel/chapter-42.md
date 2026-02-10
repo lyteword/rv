@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 42 RV | Read the Bible Online"
+linkTitle: "42"
+description: "Read Ezekiel 42 Online | Then he brought me forth into the outer court, the way toward the north: and he brought me into the chamber that was over against the separate place, and which was over against the building toward the north..."
 weight: 42
 ---
 
-# Chapter 42
+# Ezekiel 42 
 
 **¹** Then he brought me forth into the outer court, the way toward the north: and he brought me into the chamber that was over against the separate place, and which was over against the building toward the north. 
 

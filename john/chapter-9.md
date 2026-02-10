@@ -1,8 +1,11 @@
 ---
+title: "John 9 RV | Read the Bible Online"
+linkTitle: "9"
+description: "Read John 9 Online | And as he passed by, he saw a man blind from his birth..."
 weight: 9
 ---
 
-# Chapter 9
+# John 9 
 
 **¹** And as he passed by, he saw a man blind from his birth. 
 

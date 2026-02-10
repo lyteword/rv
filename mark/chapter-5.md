@@ -1,8 +1,11 @@
 ---
+title: "Mark 5 RV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Mark 5 Online | And they came to the other side of the sea, into the country of the Gerasenes..."
 weight: 5
 ---
 
-# Chapter 5
+# Mark 5 
 
 **¹** And they came to the other side of the sea, into the country of the Gerasenes. 
 

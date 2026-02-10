@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 5 RV | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Samuel 5 Online | Now the Philistines had taken the ark of God, and they brought it from Eben-ezer unto Ashdod..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Samuel 5 
 
 **¹** Now the Philistines had taken the ark of God, and they brought it from Eben-ezer unto Ashdod. 
 

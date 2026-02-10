@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 9 RV | Read the Bible Online"
+linkTitle: "9"
+description: "Read 1 Corinthians 9 Online | Am I not free? am I not an apostle? have I not seen Jesus our Lord? are not ye my work in the Lord..."
 weight: 9
 ---
 
-# Chapter 9
+# 1 Corinthians 9 
 
 **¹** Am I not free? am I not an apostle? have I not seen Jesus our Lord? are not ye my work in the Lord? 
 

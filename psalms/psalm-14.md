@@ -1,8 +1,11 @@
 ---
+title: "Psalm 14 RV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Psalm 14 Online | For the Chief Musician. A Psalm of David. The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works; there is none that doeth good..."
 weight: 14
 ---
 
-# Psalm 14
+# Psalm 14 
 
 **¹** For the Chief Musician. A Psalm of David. The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works; there is none that doeth good. 
 

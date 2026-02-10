@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 2 RV | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Chronicles 2 Online | Now Solomon purposed to build an house for the name of the LORD, and an house for his kingdom..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Chronicles 2 
 
 **¹** Now Solomon purposed to build an house for the name of the LORD, and an house for his kingdom. 
 

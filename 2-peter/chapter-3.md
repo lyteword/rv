@@ -1,8 +1,11 @@
 ---
+title: "2 Peter 3 RV | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Peter 3 Online | This is now, beloved, the second epistle that I write unto you; and in both of them I stir up your sincere mind by putting you in remembrance..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Peter 3 
 
 **¹** This is now, beloved, the second epistle that I write unto you; and in both of them I stir up your sincere mind by putting you in remembrance; 
 

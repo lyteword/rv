@@ -1,8 +1,11 @@
 ---
+title: "Romans 10 RV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Romans 10 Online | Brethren, my heart’s desire and my supplication to God is for them, that they may be saved..."
 weight: 10
 ---
 
-# Chapter 10
+# Romans 10 
 
 **¹** Brethren, my heart’s desire and my supplication to God is for them, that they may be saved. 
 

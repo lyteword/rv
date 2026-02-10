@@ -1,8 +1,11 @@
 ---
+title: "Revelation 1 RV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Revelation 1 Online | The Revelation of Jesus Christ, which God gave him to shew unto his servants, even the things which must shortly come to pass: and he sent and signified it by his angel unto his servant John..."
 weight: 1
 ---
 
-# Chapter 1
+# Revelation 1 
 
 **¹** The Revelation of Jesus Christ, which God gave him to shew unto his servants, even the things which must shortly come to pass: and he sent and signified it by his angel unto his servant John; 
 

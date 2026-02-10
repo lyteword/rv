@@ -1,8 +1,11 @@
 ---
+title: "2 Thessalonians 3 RV | Read the Bible Online"
+linkTitle: "3"
+description: "Read 2 Thessalonians 3 Online | Finally, brethren, pray for us, that the word of the Lord may run and be glorified, even as also it is with you..."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Thessalonians 3 
 
 **¹** Finally, brethren, pray for us, that the word of the Lord may run and be glorified, even as also it is with you; 
 

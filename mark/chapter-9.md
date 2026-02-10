@@ -1,8 +1,11 @@
 ---
+title: "Mark 9 RV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Mark 9 Online | And he said unto them, Verily I say unto you, There be some here of them that stand by, which shall in no wise taste of death, till they see the kingdom of God come with power..."
 weight: 9
 ---
 
-# Chapter 9
+# Mark 9 
 
 **¹** And he said unto them, Verily I say unto you, There be some here of them that stand by, which shall in no wise taste of death, till they see the kingdom of God come with power. 
 

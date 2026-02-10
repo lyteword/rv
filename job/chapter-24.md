@@ -1,8 +1,11 @@
 ---
+title: "Job 24 RV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Job 24 Online | Why are times not laid up by the Almighty? and why do not they which know him see his days..."
 weight: 24
 ---
 
-# Chapter 24
+# Job 24 
 
 **¹** Why are times not laid up by the Almighty? and why do not they which know him see his days? 
 

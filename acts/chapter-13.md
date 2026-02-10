@@ -1,8 +1,11 @@
 ---
+title: "Acts 13 RV | Read the Bible Online"
+linkTitle: "13"
+description: "Read Acts 13 Online | Now there were at Antioch, in the church that was there, prophets and teachers, Barnabas, and Symeon that was called Niger, and Lucius of Cyrene, and Manaen the foster-brother of Herod the tetrarch, and Saul..."
 weight: 13
 ---
 
-# Chapter 13
+# Acts 13 
 
 **¹** Now there were at Antioch, in the church that was there, prophets and teachers, Barnabas, and Symeon that was called Niger, and Lucius of Cyrene, and Manaen the foster-brother of Herod the tetrarch, and Saul. 
 

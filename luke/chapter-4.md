@@ -1,8 +1,11 @@
 ---
+title: "Luke 4 RV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Luke 4 Online | And Jesus, full of the Holy Spirit, returned from the Jordan, and was led by the Spirit in the wilderness..."
 weight: 4
 ---
 
-# Chapter 4
+# Luke 4 
 
 **¹** And Jesus, full of the Holy Spirit, returned from the Jordan, and was led by the Spirit in the wilderness 
 

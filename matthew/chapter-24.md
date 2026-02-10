@@ -1,8 +1,11 @@
 ---
+title: "Matthew 24 RV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Matthew 24 Online | And Jesus went out from the temple, and was going on his way; and his disciples came to him to shew him the buildings of the temple..."
 weight: 24
 ---
 
-# Chapter 24
+# Matthew 24 
 
 **¹** And Jesus went out from the temple, and was going on his way; and his disciples came to him to shew him the buildings of the temple. 
 

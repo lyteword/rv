@@ -1,8 +1,11 @@
 ---
+title: "Acts 1 RV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Acts 1 Online | The former treatise I made, O Theophilus, concerning all that Jesus began both to do and to teach..."
 weight: 1
 ---
 
-# Chapter 1
+# Acts 1 
 
 **¹** The former treatise I made, O Theophilus, concerning all that Jesus began both to do and to teach, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 64 RV | Read the Bible Online"
+linkTitle: "64"
+description: "Read Psalm 64 Online | For the Chief Musician. A Psalm of David. Hear my voice, O God, in my complaint: preserve my life from fear of the enemy..."
 weight: 64
 ---
 
-# Psalm 64
+# Psalm 64 
 
 **¹** For the Chief Musician. A Psalm of David. Hear my voice, O God, in my complaint: preserve my life from fear of the enemy. 
 

@@ -1,8 +1,11 @@
 ---
+title: "3 John 1 RV | Read the Bible Online"
+linkTitle: "1"
+description: "Read 3 John 1 Online | The elder unto Gaius the beloved, whom I love in truth..."
 weight: 1
 ---
 
-# Chapter 1
+# 3 John 1 
 
 **¹** The elder unto Gaius the beloved, whom I love in truth. 
 

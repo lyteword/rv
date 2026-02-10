@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 11 RV | Read the Bible Online"
+linkTitle: "11"
+description: "Read 2 Corinthians 11 Online | Would that ye could bear with me in a little foolishness: nay indeed bear with me..."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Corinthians 11 
 
 **¹** Would that ye could bear with me in a little foolishness: nay indeed bear with me. 
 

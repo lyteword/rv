@@ -1,8 +1,11 @@
 ---
+title: "Psalm 37 RV | Read the Bible Online"
+linkTitle: "37"
+description: "Read Psalm 37 Online | A Psalm of David. Fret not thyself because of evil-doers, neither be thou envious against them that work unrighteousness..."
 weight: 37
 ---
 
-# Psalm 37
+# Psalm 37 
 
 **¹** A Psalm of David. Fret not thyself because of evil-doers, neither be thou envious against them that work unrighteousness. 
 

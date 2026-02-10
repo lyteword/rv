@@ -1,8 +1,11 @@
 ---
+title: "Micah 7 RV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Micah 7 Online | Woe is me! for I am as when they have gathered the summer fruits, as the grape gleanings of the vintage: there is no cluster to eat; my soul desireth the firstripe fig..."
 weight: 7
 ---
 
-# Chapter 7
+# Micah 7 
 
 **¹** Woe is me! for I am as when they have gathered the summer fruits, as the grape gleanings of the vintage: there is no cluster to eat; my soul desireth the firstripe fig. 
 

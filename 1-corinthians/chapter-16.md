@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 16 RV | Read the Bible Online"
+linkTitle: "16"
+description: "Read 1 Corinthians 16 Online | Now concerning the collection for the saints, as I gave order to the churches of Galatia, so also do ye..."
 weight: 16
 ---
 
-# Chapter 16
+# 1 Corinthians 16 
 
 **¹** Now concerning the collection for the saints, as I gave order to the churches of Galatia, so also do ye. 
 

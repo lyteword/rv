@@ -1,8 +1,11 @@
 ---
+title: "Mark 8 RV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Mark 8 Online | In those days, when there was again a great multitude, and they had nothing to eat, he called unto him his disciples, and saith unto them..."
 weight: 8
 ---
 
-# Chapter 8
+# Mark 8 
 
 **¹** In those days, when there was again a great multitude, and they had nothing to eat, he called unto him his disciples, and saith unto them, 
 

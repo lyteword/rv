@@ -1,8 +1,11 @@
 ---
+title: "Ezra 10 RV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Ezra 10 Online | Now while Ezra prayed, and made confession, weeping and casting himself down before the house of God, there was gathered together unto him out of Israel a very great congregation of men and women and children: for the people wept very sore..."
 weight: 10
 ---
 
-# Chapter 10
+# Ezra 10 
 
 **¹** Now while Ezra prayed, and made confession, weeping and casting himself down before the house of God, there was gathered together unto him out of Israel a very great congregation of men and women and children: for the people wept very sore. 
 

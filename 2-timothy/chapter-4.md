@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 4 RV | Read the Bible Online"
+linkTitle: "4"
+description: "Read 2 Timothy 4 Online | I charge thee in the sight of God, and of Christ Jesus, who shall judge the quick and the dead, and by his appearing and his kingdom..."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Timothy 4 
 
 **¹** I charge thee in the sight of God, and of Christ Jesus, who shall judge the quick and the dead, and by his appearing and his kingdom; 
 

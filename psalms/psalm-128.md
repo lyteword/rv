@@ -1,8 +1,11 @@
 ---
+title: "Psalm 128 RV | Read the Bible Online"
+linkTitle: "128"
+description: "Read Psalm 128 Online | A Song of Ascents. Blessed is every one that feareth the LORD, that walketh in his ways..."
 weight: 128
 ---
 
-# Psalm 128
+# Psalm 128 
 
 **¹** A Song of Ascents. Blessed is every one that feareth the LORD, that walketh in his ways. 
 

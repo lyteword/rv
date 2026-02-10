@@ -1,8 +1,11 @@
 ---
+title: "Luke 24 RV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Luke 24 Online | But on the first day of the week, at early dawn, they came unto the tomb, bringing the spices which they had prepared..."
 weight: 24
 ---
 
-# Chapter 24
+# Luke 24 
 
 **¹** But on the first day of the week, at early dawn, they came unto the tomb, bringing the spices which they had prepared. 
 

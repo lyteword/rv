@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 36 RV | Read the Bible Online"
+linkTitle: "36"
+description: "Read Ezekiel 36 Online | And thou, son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the LORD..."
 weight: 36
 ---
 
-# Chapter 36
+# Ezekiel 36 
 
 **¹** And thou, son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the LORD. 
 

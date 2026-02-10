@@ -1,8 +1,11 @@
 ---
+title: "Psalm 77 RV | Read the Bible Online"
+linkTitle: "77"
+description: "Read Psalm 77 Online | For the Chief Musician; after the manner of Jeduthun. A Psalm of Asaph. I will cry unto God with my voice; even unto God with my voice, and he wilt give ear unto me..."
 weight: 77
 ---
 
-# Psalm 77
+# Psalm 77 
 
 **¹** For the Chief Musician; after the manner of Jeduthun. A Psalm of Asaph. I will cry unto God with my voice; even unto God with my voice, and he wilt give ear unto me. 
 

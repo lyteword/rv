@@ -1,8 +1,11 @@
 ---
+title: "Psalm 130 RV | Read the Bible Online"
+linkTitle: "130"
+description: "Read Psalm 130 Online | A Song of Ascents. Out of the depths have I cried unto thee, O LORD..."
 weight: 130
 ---
 
-# Psalm 130
+# Psalm 130 
 
 **¹** A Song of Ascents. Out of the depths have I cried unto thee, O LORD. 
 

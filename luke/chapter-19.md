@@ -1,8 +1,11 @@
 ---
+title: "Luke 19 RV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Luke 19 Online | And he entered and was passing through Jericho..."
 weight: 19
 ---
 
-# Chapter 19
+# Luke 19 
 
 **¹** And he entered and was passing through Jericho. 
 

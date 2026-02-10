@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 10 RV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Hebrews 10 Online | For the law having a shadow of the good things to come, not the very image of the things, they can never with the same sacrifices year by year, which they offer continually, make perfect them that draw nigh..."
 weight: 10
 ---
 
-# Chapter 10
+# Hebrews 10 
 
 **¹** For the law having a shadow of the good things to come, not the very image of the things, they can never with the same sacrifices year by year, which they offer continually, make perfect them that draw nigh. 
 

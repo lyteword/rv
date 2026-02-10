@@ -1,8 +1,11 @@
 ---
+title: "Genesis 19 RV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Genesis 19 Online | And the two angels came to Sodom at even; and Lot sat in the gate of Sodom: and Lot saw them, and rose up to meet them; and he bowed himself with his face to the earth..."
 weight: 19
 ---
 
-# Chapter 19
+# Genesis 19 
 
 **¹** And the two angels came to Sodom at even; and Lot sat in the gate of Sodom: and Lot saw them, and rose up to meet them; and he bowed himself with his face to the earth; 
 

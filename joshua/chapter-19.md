@@ -1,8 +1,11 @@
 ---
+title: "Joshua 19 RV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Joshua 19 Online | And the second lot came out for Simeon, even for the tribe of the children of Simeon according to their families: and their inheritance was in the midst of the inheritance of the children of Judah..."
 weight: 19
 ---
 
-# Chapter 19
+# Joshua 19 
 
 **¹** And the second lot came out for Simeon, even for the tribe of the children of Simeon according to their families: and their inheritance was in the midst of the inheritance of the children of Judah. 
 

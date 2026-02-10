@@ -1,8 +1,11 @@
 ---
+title: "Ephesians 4 RV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Ephesians 4 Online | I therefore, the prisoner in the Lord, beseech you to walk worthily of the calling wherewith ye were called..."
 weight: 4
 ---
 
-# Chapter 4
+# Ephesians 4 
 
 **¹** I therefore, the prisoner in the Lord, beseech you to walk worthily of the calling wherewith ye were called, 
 

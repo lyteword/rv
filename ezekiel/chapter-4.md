@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 4 RV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Ezekiel 4 Online | Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it a city, even Jerusalem..."
 weight: 4
 ---
 
-# Chapter 4
+# Ezekiel 4 
 
 **¹** Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it a city, even Jerusalem: 
 

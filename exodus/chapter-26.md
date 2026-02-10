@@ -1,8 +1,11 @@
 ---
+title: "Exodus 26 RV | Read the Bible Online"
+linkTitle: "26"
+description: "Read Exodus 26 Online | Moreover thou shalt make the tabernacle with ten curtains; of fine twined linen, and blue, and purple, and scarlet, with cherubim the work of the cunning workman shalt thou make them..."
 weight: 26
 ---
 
-# Chapter 26
+# Exodus 26 
 
 **¹** Moreover thou shalt make the tabernacle with ten curtains; of fine twined linen, and blue, and purple, and scarlet, with cherubim the work of the cunning workman shalt thou make them. 
 

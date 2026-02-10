@@ -1,8 +1,11 @@
 ---
+title: "John 18 RV | Read the Bible Online"
+linkTitle: "18"
+description: "Read John 18 Online | When Jesus had spoken these words, he went forth with his disciples over the brook Kidron, where was a garden, into the which he entered, himself and his disciples..."
 weight: 18
 ---
 
-# Chapter 18
+# John 18 
 
 **¹** When Jesus had spoken these words, he went forth with his disciples over the brook Kidron, where was a garden, into the which he entered, himself and his disciples. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 95 RV | Read the Bible Online"
+linkTitle: "95"
+description: "Read Psalm 95 Online | O COME, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation..."
 weight: 95
 ---
 
-# Psalm 95
+# Psalm 95 
 
 **¹** O COME, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation. 
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 5 RV | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Thessalonians 5 Online | But concerning the times and the seasons, brethren, ye have no need that aught be written unto you..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Thessalonians 5 
 
 **¹** But concerning the times and the seasons, brethren, ye have no need that aught be written unto you. 
 

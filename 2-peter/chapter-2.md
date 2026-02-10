@@ -1,8 +1,11 @@
 ---
+title: "2 Peter 2 RV | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Peter 2 Online | But there arose false prophets also among the people, as among you also there shall be false teachers, who shall privily bring in destructive heresies, denying even the Master that bought them, bringing upon themselves swift destruction..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Peter 2 
 
 **¹** But there arose false prophets also among the people, as among you also there shall be false teachers, who shall privily bring in destructive heresies, denying even the Master that bought them, bringing upon themselves swift destruction. 
 

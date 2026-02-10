@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 3 RV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Zechariah 3 Online | And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to be his adversary..."
 weight: 3
 ---
 
-# Chapter 3
+# Zechariah 3 
 
 **¹** And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to be his adversary. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 27 RV | Read the Bible Online"
+linkTitle: "27"
+description: "Read Proverbs 27 Online | Boast not thyself of tomorrow; for thou knowest not what a day may bring forth..."
 weight: 27
 ---
 
-# Chapter 27
+# Proverbs 27 
 
 **¹** Boast not thyself of tomorrow; for thou knowest not what a day may bring forth. 
 

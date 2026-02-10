@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 12 RV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Deuteronomy 12 Online | These are the statutes and the judgments, which ye shall observe to do in the land which the LORD, the God of thy fathers, hath given thee to possess it, all the days that ye live upon the earth..."
 weight: 12
 ---
 
-# Chapter 12
+# Deuteronomy 12 
 
 **¹** These are the statutes and the judgments, which ye shall observe to do in the land which the LORD, the God of thy fathers, hath given thee to possess it, all the days that ye live upon the earth. 
 

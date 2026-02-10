@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 10 RV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Zechariah 10 Online | Ask ye of the LORD rain in the time of the latter rain, even of the LORD that maketh lightnings; and he shall give them showers of rain, to every one grass in the field..."
 weight: 10
 ---
 
-# Chapter 10
+# Zechariah 10 
 
 **¹** Ask ye of the LORD rain in the time of the latter rain, even of the LORD that maketh lightnings; and he shall give them showers of rain, to every one grass in the field. 
 

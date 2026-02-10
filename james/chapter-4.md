@@ -1,8 +1,11 @@
 ---
+title: "James 4 RV | Read the Bible Online"
+linkTitle: "4"
+description: "Read James 4 Online | Whence come wars and whence come fightings among you? come they not hence, even of your pleasures that war in your members..."
 weight: 4
 ---
 
-# Chapter 4
+# James 4 
 
 **¹** Whence come wars and whence come fightings among you? come they not hence, even of your pleasures that war in your members? 
 

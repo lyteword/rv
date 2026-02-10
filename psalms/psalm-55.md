@@ -1,8 +1,11 @@
 ---
+title: "Psalm 55 RV | Read the Bible Online"
+linkTitle: "55"
+description: "Read Psalm 55 Online | For the Chief Musician; on stringed instruments. Maschil of David. Give ear to my prayer, O God; and hide not thyself from my supplication..."
 weight: 55
 ---
 
-# Psalm 55
+# Psalm 55 
 
 **¹** For the Chief Musician; on stringed instruments. Maschil of David. Give ear to my prayer, O God; and hide not thyself from my supplication. 
 

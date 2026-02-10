@@ -1,8 +1,11 @@
 ---
+title: "Ruth 1 RV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Ruth 1 Online | And it came to pass in the days when the judges judged, that there was a famine in the land. And a certain man of Beth-lehem-judah went to sojourn in the country of Moab, he, and his wife, and his two sons..."
 weight: 1
 ---
 
-# Chapter 1
+# Ruth 1 
 
 **¹** And it came to pass in the days when the judges judged, that there was a famine in the land. And a certain man of Beth-lehem-judah went to sojourn in the country of Moab, he, and his wife, and his two sons. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Revelation 15 RV | Read the Bible Online"
+linkTitle: "15"
+description: "Read Revelation 15 Online | And I saw another sign in heaven, great and marvelous, seven angels having seven plagues, which are the last, for in them is finished the wrath of God..."
 weight: 15
 ---
 
-# Chapter 15
+# Revelation 15 
 
 **¹** And I saw another sign in heaven, great and marvelous, seven angels having seven plagues, which are the last, for in them is finished the wrath of God. 
 

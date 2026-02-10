@@ -1,8 +1,11 @@
 ---
+title: "Psalm 122 RV | Read the Bible Online"
+linkTitle: "122"
+description: "Read Psalm 122 Online | A Song of Ascents; of David. I was glad when they said unto me, Let us go unto the house of the LORD..."
 weight: 122
 ---
 
-# Psalm 122
+# Psalm 122 
 
 **¹** A Song of Ascents; of David. I was glad when they said unto me, Let us go unto the house of the LORD. 
 

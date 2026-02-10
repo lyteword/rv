@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 8 RV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Ecclesiastes 8 Online | Who is as the wise man? and who knoweth the interpretation of a thing? A man’s wisdom maketh his face to shine, and the hardness of his face is changed..."
 weight: 8
 ---
 
-# Chapter 8
+# Ecclesiastes 8 
 
 **¹** Who is as the wise man? and who knoweth the interpretation of a thing? A man’s wisdom maketh his face to shine, and the hardness of his face is changed. 
 

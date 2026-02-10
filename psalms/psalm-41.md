@@ -1,8 +1,11 @@
 ---
+title: "Psalm 41 RV | Read the Bible Online"
+linkTitle: "41"
+description: "Read Psalm 41 Online | For the Chief Musician. A Psalm of David. Blessed is he that considereth the poor: the LORD will deliver him in the day of evil..."
 weight: 41
 ---
 
-# Psalm 41
+# Psalm 41 
 
 **¹** For the Chief Musician. A Psalm of David. Blessed is he that considereth the poor: the LORD will deliver him in the day of evil. 
 

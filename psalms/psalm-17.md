@@ -1,8 +1,11 @@
 ---
+title: "Psalm 17 RV | Read the Bible Online"
+linkTitle: "17"
+description: "Read Psalm 17 Online | A Prayer of David. Hear the right, O LORD, attend unto my cry; give ear unto my prayer, that goeth not out of feigned lips..."
 weight: 17
 ---
 
-# Psalm 17
+# Psalm 17 
 
 **¹** A Prayer of David. Hear the right, O LORD, attend unto my cry; give ear unto my prayer, that goeth not out of feigned lips. 
 

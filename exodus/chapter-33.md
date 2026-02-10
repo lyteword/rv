@@ -1,8 +1,11 @@
 ---
+title: "Exodus 33 RV | Read the Bible Online"
+linkTitle: "33"
+description: "Read Exodus 33 Online | And the LORD spake unto Moses, Depart, go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land of which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it..."
 weight: 33
 ---
 
-# Chapter 33
+# Exodus 33 
 
 **¹** And the LORD spake unto Moses, Depart, go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land of which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it: 
 

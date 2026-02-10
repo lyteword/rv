@@ -1,8 +1,11 @@
 ---
+title: "Matthew 18 RV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Matthew 18 Online | In that hour came the disciples unto Jesus, saying, Who then is greatest in the kingdom of heaven..."
 weight: 18
 ---
 
-# Chapter 18
+# Matthew 18 
 
 **¹** In that hour came the disciples unto Jesus, saying, Who then is greatest in the kingdom of heaven? 
 

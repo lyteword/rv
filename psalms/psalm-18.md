@@ -1,8 +1,11 @@
 ---
+title: "Psalm 18 RV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Psalm 18 Online | For the Chief Musician. A Psalm of David the servant of the LORD, who spake unto the LORD the words of this song in the day that the LORD delivered him from the hand of all his enemies, and from the hand of Saul: and he said, I love thee, O LORD, my strength..."
 weight: 18
 ---
 
-# Psalm 18
+# Psalm 18 
 
 **¹** For the Chief Musician. A Psalm of David the servant of the LORD, who spake unto the LORD the words of this song in the day that the LORD delivered him from the hand of all his enemies, and from the hand of Saul: and he said, I love thee, O LORD, my strength. 
 
