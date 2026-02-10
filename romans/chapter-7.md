@@ -1,8 +1,11 @@
 ---
+title: "Romans 7 RV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Romans 7 Online | Or are ye ignorant, brethren (for I speak to men that know the law), how that the law hath dominion over a man for so long time as he liveth..."
 weight: 7
 ---
 
-# Chapter 7
+# Romans 7 
 
 **¹** Or are ye ignorant, brethren (for I speak to men that know the law), how that the law hath dominion over a man for so long time as he liveth? 
 

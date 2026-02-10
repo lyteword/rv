@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 49 RV | Read the Bible Online"
+linkTitle: "49"
+description: "Read Isaiah 49 Online | Listen, O isles, unto me; and hearken, ye peoples, from far: the LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name..."
 weight: 49
 ---
 
-# Chapter 49
+# Isaiah 49 
 
 **¹** Listen, O isles, unto me; and hearken, ye peoples, from far: the LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name: 
 

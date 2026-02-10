@@ -1,8 +1,11 @@
 ---
+title: "Matthew 5 RV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Matthew 5 Online | And seeing the multitudes, he went up into the mountain: and when he had sat down, his disciples came unto him..."
 weight: 5
 ---
 
-# Chapter 5
+# Matthew 5 
 
 **¹** And seeing the multitudes, he went up into the mountain: and when he had sat down, his disciples came unto him: 
 

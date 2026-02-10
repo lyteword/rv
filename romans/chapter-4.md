@@ -1,8 +1,11 @@
 ---
+title: "Romans 4 RV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Romans 4 Online | What then shall we say that Abraham, our forefather according to the flesh, hath found..."
 weight: 4
 ---
 
-# Chapter 4
+# Romans 4 
 
 **¹** What then shall we say that Abraham, our forefather according to the flesh, hath found? 
 

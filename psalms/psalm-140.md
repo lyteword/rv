@@ -1,8 +1,11 @@
 ---
+title: "Psalm 140 RV | Read the Bible Online"
+linkTitle: "140"
+description: "Read Psalm 140 Online | For the Chief Musician. A Psalm of David. Deliver me, O LORD, from the evil man; preserve me from the violent man..."
 weight: 140
 ---
 
-# Psalm 140
+# Psalm 140 
 
 **¹** For the Chief Musician. A Psalm of David. Deliver me, O LORD, from the evil man; preserve me from the violent man: 
 

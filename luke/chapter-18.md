@@ -1,8 +1,11 @@
 ---
+title: "Luke 18 RV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Luke 18 Online | And he spake a parable unto them to the end that they ought always to pray, and not to faint..."
 weight: 18
 ---
 
-# Chapter 18
+# Luke 18 
 
 **¹** And he spake a parable unto them to the end that they ought always to pray, and not to faint; 
 

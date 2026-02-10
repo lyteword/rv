@@ -1,8 +1,11 @@
 ---
+title: "Matthew 6 RV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Matthew 6 Online | Take heed that ye do not your righteousness before men, to be seen of them: else ye have no reward with your Father which is in heaven..."
 weight: 6
 ---
 
-# Chapter 6
+# Matthew 6 
 
 **¹** Take heed that ye do not your righteousness before men, to be seen of them: else ye have no reward with your Father which is in heaven. 
 

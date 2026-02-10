@@ -1,8 +1,11 @@
 ---
+title: "Judges 6 RV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Judges 6 Online | And the children of Israel did that which was evil in the sight of the LORD: and the LORD delivered them into the hand of Midian seven years..."
 weight: 6
 ---
 
-# Chapter 6
+# Judges 6 
 
 **¹** And the children of Israel did that which was evil in the sight of the LORD: and the LORD delivered them into the hand of Midian seven years. 
 

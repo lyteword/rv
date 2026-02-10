@@ -1,8 +1,11 @@
 ---
+title: "Numbers 11 RV | Read the Bible Online"
+linkTitle: "11"
+description: "Read Numbers 11 Online | And the people were as murmurers, speaking evil in the ears of the LORD: and when the LORD heard it, his anger was kindled; and the fire of the LORD burnt among them, and devoured in the uttermost part of the camp..."
 weight: 11
 ---
 
-# Chapter 11
+# Numbers 11 
 
 **¹** And the people were as murmurers, speaking evil in the ears of the LORD: and when the LORD heard it, his anger was kindled; and the fire of the LORD burnt among them, and devoured in the uttermost part of the camp. 
 

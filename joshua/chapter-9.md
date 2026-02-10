@@ -1,8 +1,11 @@
 ---
+title: "Joshua 9 RV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Joshua 9 Online | And it came to pass when all the kings which were beyond Jordan, in the hill country, and in the lowland, and on all the shore of the great sea in front of Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard thereof..."
 weight: 9
 ---
 
-# Chapter 9
+# Joshua 9 
 
 **¹** And it came to pass when all the kings which were beyond Jordan, in the hill country, and in the lowland, and on all the shore of the great sea in front of Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard thereof; 
 

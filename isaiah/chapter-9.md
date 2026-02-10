@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 9 RV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Isaiah 9 Online | But there shall be no gloom to her that was in anguish. In the former time he brought into contempt the land of Zebulun and the land of Naphtali, but in the latter time hath he made it glorious, by the way of the sea, beyond Jordan, Galilee of the nations..."
 weight: 9
 ---
 
-# Chapter 9
+# Isaiah 9 
 
 **¹** But there shall be no gloom to her that was in anguish. In the former time he brought into contempt the land of Zebulun and the land of Naphtali, but in the latter time hath he made it glorious, by the way of the sea, beyond Jordan, Galilee of the nations. 
 

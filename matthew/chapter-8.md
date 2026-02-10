@@ -1,8 +1,11 @@
 ---
+title: "Matthew 8 RV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Matthew 8 Online | And when he was come down from the mountain, great multitudes followed him..."
 weight: 8
 ---
 
-# Chapter 8
+# Matthew 8 
 
 **¹** And when he was come down from the mountain, great multitudes followed him. 
 

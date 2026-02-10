@@ -1,8 +1,11 @@
 ---
+title: "Hosea 10 RV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Hosea 10 Online | Israel is a luxuriant vine, which putteth forth his fruit: according to the multitude of his fruit he hath multiplied his altars; according to the goodness of his land they have made goodly pillars..."
 weight: 10
 ---
 
-# Chapter 10
+# Hosea 10 
 
 **¹** Israel is a luxuriant vine, which putteth forth his fruit: according to the multitude of his fruit he hath multiplied his altars; according to the goodness of his land they have made goodly pillars. 
 

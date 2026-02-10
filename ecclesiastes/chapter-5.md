@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 5 RV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Ecclesiastes 5 Online | Keep thy foot when thou goest to the house of God; for to draw nigh to hear is better than to give the sacrifice of fools: for they know not that they do evil..."
 weight: 5
 ---
 
-# Chapter 5
+# Ecclesiastes 5 
 
 **¹** Keep thy foot when thou goest to the house of God; for to draw nigh to hear is better than to give the sacrifice of fools: for they know not that they do evil. 
 

@@ -1,8 +1,11 @@
 ---
+title: "John 6 RV | Read the Bible Online"
+linkTitle: "6"
+description: "Read John 6 Online | After these things Jesus went away to the other side of the sea of Galilee, which is the sea of Tiberias..."
 weight: 6
 ---
 
-# Chapter 6
+# John 6 
 
 **¹** After these things Jesus went away to the other side of the sea of Galilee, which is the sea of Tiberias. 
 

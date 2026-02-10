@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 6 RV | Read the Bible Online"
+linkTitle: "6"
+description: "Read 2 Corinthians 6 Online | And working together with him we entreat also that ye receive not the grace of God in vain..."
 weight: 6
 ---
 
-# Chapter 6
+# 2 Corinthians 6 
 
 **¹** And working together with him we entreat also that ye receive not the grace of God in vain 
 

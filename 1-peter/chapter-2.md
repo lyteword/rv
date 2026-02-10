@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 2 RV | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 Peter 2 Online | Putting away therefore all wickedness, and all guile, and hypocrisies, and envies, and all evil speakings..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Peter 2 
 
 **¹** Putting away therefore all wickedness, and all guile, and hypocrisies, and envies, and all evil speakings, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Psalm 35 RV | Read the Bible Online"
+linkTitle: "35"
+description: "Read Psalm 35 Online | A Psalm of David. Strive thou, O LORD, with them that strive with me: fight thou against them that fight against me..."
 weight: 35
 ---
 
-# Psalm 35
+# Psalm 35 
 
 **¹** A Psalm of David. Strive thou, O LORD, with them that strive with me: fight thou against them that fight against me. 
 

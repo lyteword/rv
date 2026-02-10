@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 23 RV | Read the Bible Online"
+linkTitle: "23"
+description: "Read 2 Samuel 23 Online | Now these be the last words of David. David the son of Jesse saith, and the man who was raised on high saith, the anointed of the God of Jacob, and the sweet psalmist of Israel..."
 weight: 23
 ---
 
-# Chapter 23
+# 2 Samuel 23 
 
 **¹** Now these be the last words of David. David the son of Jesse saith, and the man who was raised on high saith, the anointed of the God of Jacob, and the sweet psalmist of Israel: 
 

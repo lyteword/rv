@@ -1,8 +1,11 @@
 ---
+title: "Joshua 2 RV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Joshua 2 Online | And Joshua the son of Nun sent out of Shittim two men as spies secretly, saying, Go view the land, and Jericho. And they went, and came into the house of an harlot whose name was Rahab, and lay there..."
 weight: 2
 ---
 
-# Chapter 2
+# Joshua 2 
 
 **¹** And Joshua the son of Nun sent out of Shittim two men as spies secretly, saying, Go view the land, and Jericho. And they went, and came into the house of an harlot whose name was Rahab, and lay there. 
 

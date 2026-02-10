@@ -1,8 +1,11 @@
 ---
+title: "Job 33 RV | Read the Bible Online"
+linkTitle: "33"
+description: "Read Job 33 Online | Howbeit, Job, I pray thee, hear my speech, and hearken to all my words..."
 weight: 33
 ---
 
-# Chapter 33
+# Job 33 
 
 **¹** Howbeit, Job, I pray thee, hear my speech, and hearken to all my words. 
 

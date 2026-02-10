@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 6 RV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Hebrews 6 Online | Wherefore let us cease to speak of the first principles of Christ, and press on unto perfection; not laying again a foundation of repentance from dead works, and of faith toward God..."
 weight: 6
 ---
 
-# Chapter 6
+# Hebrews 6 
 
 **¹** Wherefore let us cease to speak of the first principles of Christ, and press on unto perfection; not laying again a foundation of repentance from dead works, and of faith toward God, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 44 RV | Read the Bible Online"
+linkTitle: "44"
+description: "Read Jeremiah 44 Online | The word that came to Jeremiah concerning all the Jews which dwelt in the land of Egypt, which dwelt at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying..."
 weight: 44
 ---
 
-# Chapter 44
+# Jeremiah 44 
 
 **¹** The word that came to Jeremiah concerning all the Jews which dwelt in the land of Egypt, which dwelt at Migdol, and at Tahpanhes, and at Noph, and in the country of Pathros, saying, 
 

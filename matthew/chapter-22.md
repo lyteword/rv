@@ -1,8 +1,11 @@
 ---
+title: "Matthew 22 RV | Read the Bible Online"
+linkTitle: "22"
+description: "Read Matthew 22 Online | And Jesus answered and spake again in parables unto them, saying..."
 weight: 22
 ---
 
-# Chapter 22
+# Matthew 22 
 
 **¹** And Jesus answered and spake again in parables unto them, saying, 
 

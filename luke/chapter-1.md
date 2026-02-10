@@ -1,8 +1,11 @@
 ---
+title: "Luke 1 RV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Luke 1 Online | Forasmuch as many have taken in hand to draw up a narrative concerning those matters which have been fulfilled among us..."
 weight: 1
 ---
 
-# Chapter 1
+# Luke 1 
 
 **¹** Forasmuch as many have taken in hand to draw up a narrative concerning those matters which have been fulfilled among us, 
 

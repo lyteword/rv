@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 2 RV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Song Of Solomon 2 Online | I AM a rose of Sharon, a lily of the valleys..."
 weight: 2
 ---
 
-# Chapter 2
+# Song Of Solomon 2 
 
 **¹** I AM a rose of Sharon, a lily of the valleys. 
 

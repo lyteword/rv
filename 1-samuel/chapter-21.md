@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 21 RV | Read the Bible Online"
+linkTitle: "21"
+description: "Read 1 Samuel 21 Online | Then came David to Nob to Ahimelech the priest: and Ahimelech came to meet David trembling, and said unto him, Why art thou alone, and no man with thee..."
 weight: 21
 ---
 
-# Chapter 21
+# 1 Samuel 21 
 
 **¹** Then came David to Nob to Ahimelech the priest: and Ahimelech came to meet David trembling, and said unto him, Why art thou alone, and no man with thee? 
 

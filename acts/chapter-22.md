@@ -1,8 +1,11 @@
 ---
+title: "Acts 22 RV | Read the Bible Online"
+linkTitle: "22"
+description: "Read Acts 22 Online | Brethren and fathers, hear ye the defence which I now make unto you..."
 weight: 22
 ---
 
-# Chapter 22
+# Acts 22 
 
 **¹** Brethren and fathers, hear ye the defence which I now make unto you. 
 

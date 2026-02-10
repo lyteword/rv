@@ -1,8 +1,11 @@
 ---
+title: "Revelation 14 RV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Revelation 14 Online | And I saw, and behold, the Lamb standing on the mount Zion, and with him a hundred and forty and four thousand, having his name, and the name of his Father, written on their foreheads..."
 weight: 14
 ---
 
-# Chapter 14
+# Revelation 14 
 
 **¹** And I saw, and behold, the Lamb standing on the mount Zion, and with him a hundred and forty and four thousand, having his name, and the name of his Father, written on their foreheads. 
 

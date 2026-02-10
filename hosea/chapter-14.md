@@ -1,8 +1,11 @@
 ---
+title: "Hosea 14 RV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Hosea 14 Online | O ISRAEL, return unto the LORD thy God; for thou hast fallen by thine iniquity..."
 weight: 14
 ---
 
-# Chapter 14
+# Hosea 14 
 
 **¹** O ISRAEL, return unto the LORD thy God; for thou hast fallen by thine iniquity. 
 

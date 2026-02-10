@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 47 RV | Read the Bible Online"
+linkTitle: "47"
+description: "Read Ezekiel 47 Online | And he brought me back unto the door of the house; and behold, waters issued out from under the threshold of the house eastward, for the forefront of the house was toward the east: and the waters came down from under, from the right side of the house, on the south of the altar..."
 weight: 47
 ---
 
-# Chapter 47
+# Ezekiel 47 
 
 **¹** And he brought me back unto the door of the house; and behold, waters issued out from under the threshold of the house eastward, for the forefront of the house was toward the east: and the waters came down from under, from the right side of the house, on the south of the altar. 
 

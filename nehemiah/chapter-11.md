@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 11 RV | Read the Bible Online"
+linkTitle: "11"
+description: "Read Nehemiah 11 Online | And the princes of the people dwelt in Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts in the other cities..."
 weight: 11
 ---
 
-# Chapter 11
+# Nehemiah 11 
 
 **¹** And the princes of the people dwelt in Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts in the other cities. 
 

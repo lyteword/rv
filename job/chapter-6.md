@@ -1,8 +1,11 @@
 ---
+title: "Job 6 RV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Job 6 Online | Then Job answered and said..."
 weight: 6
 ---
 
-# Chapter 6
+# Job 6 
 
 **¹** Then Job answered and said, 
 

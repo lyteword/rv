@@ -1,8 +1,11 @@
 ---
+title: "Matthew 9 RV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Matthew 9 Online | And he entered into a boat, and crossed over, and came into his own city..."
 weight: 9
 ---
 
-# Chapter 9
+# Matthew 9 
 
 **¹** And he entered into a boat, and crossed over, and came into his own city. 
 

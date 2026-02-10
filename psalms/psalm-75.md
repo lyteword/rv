@@ -1,8 +1,11 @@
 ---
+title: "Psalm 75 RV | Read the Bible Online"
+linkTitle: "75"
+description: "Read Psalm 75 Online | For the Chief Musician; set to Al-tashheth. A Psalm of Asaph, a Song. We give thanks unto thee, O God; we give thanks, for thy name is near: men tell of thy wondrous works..."
 weight: 75
 ---
 
-# Psalm 75
+# Psalm 75 
 
 **¹** For the Chief Musician; set to Al-tashheth. A Psalm of Asaph, a Song. We give thanks unto thee, O God; we give thanks, for thy name is near: men tell of thy wondrous works. 
 

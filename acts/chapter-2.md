@@ -1,8 +1,11 @@
 ---
+title: "Acts 2 RV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Acts 2 Online | And when the day of Pentecost was now come, they were all together in one place..."
 weight: 2
 ---
 
-# Chapter 2
+# Acts 2 
 
 **¹** And when the day of Pentecost was now come, they were all together in one place. 
 

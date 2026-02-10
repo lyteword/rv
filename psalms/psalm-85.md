@@ -1,8 +1,11 @@
 ---
+title: "Psalm 85 RV | Read the Bible Online"
+linkTitle: "85"
+description: "Read Psalm 85 Online | For the Chief Musician. A Psalm of the sons of Korah. LORD, Thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob..."
 weight: 85
 ---
 
-# Psalm 85
+# Psalm 85 
 
 **¹** For the Chief Musician. A Psalm of the sons of Korah. LORD, Thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob. 
 

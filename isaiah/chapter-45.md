@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 45 RV | Read the Bible Online"
+linkTitle: "45"
+description: "Read Isaiah 45 Online | Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him, and I will loose the loins of kings; to open the doors before him, and the gates shall not be shut..."
 weight: 45
 ---
 
-# Chapter 45
+# Isaiah 45 
 
 **¹** Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him, and I will loose the loins of kings; to open the doors before him, and the gates shall not be shut; 
 

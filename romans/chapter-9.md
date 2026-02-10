@@ -1,8 +1,11 @@
 ---
+title: "Romans 9 RV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Romans 9 Online | I say the truth in Christ, I lie not, my conscience bearing witness with me in the Holy Ghost..."
 weight: 9
 ---
 
-# Chapter 9
+# Romans 9 
 
 **¹** I say the truth in Christ, I lie not, my conscience bearing witness with me in the Holy Ghost, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 46 RV | Read the Bible Online"
+linkTitle: "46"
+description: "Read Jeremiah 46 Online | The word of the LORD which came to Jeremiah the prophet concerning the nations..."
 weight: 46
 ---
 
-# Chapter 46
+# Jeremiah 46 
 
 **¹** The word of the LORD which came to Jeremiah the prophet concerning the nations. 
 

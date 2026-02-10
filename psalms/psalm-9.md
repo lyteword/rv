@@ -1,8 +1,11 @@
 ---
+title: "Psalm 9 RV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Psalm 9 Online | For the Chief Musician; set to Muthlabben. A Psalm of David. I will give thanks unto the LORD with my whole heart; I will shew forth all thy marvelous works..."
 weight: 9
 ---
 
-# Psalm 9
+# Psalm 9 
 
 **¹** For the Chief Musician; set to Muthlabben. A Psalm of David. I will give thanks unto the LORD with my whole heart; I will shew forth all thy marvelous works. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezra 8 RV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Ezra 8 Online | Now these are the heads of their fathers’ houses, and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king..."
 weight: 8
 ---
 
-# Chapter 8
+# Ezra 8 
 
 **¹** Now these are the heads of their fathers’ houses, and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king. 
 

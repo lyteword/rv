@@ -1,8 +1,11 @@
 ---
+title: "Judges 7 RV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Judges 7 Online | Then Jerubbaal, who is Gideon, and all the people that were with him, rose up early, and pitched beside the spring of Harod: and the camp of Midian was on the north side of them, by the hill of Moreh, in the valley..."
 weight: 7
 ---
 
-# Chapter 7
+# Judges 7 
 
 **¹** Then Jerubbaal, who is Gideon, and all the people that were with him, rose up early, and pitched beside the spring of Harod: and the camp of Midian was on the north side of them, by the hill of Moreh, in the valley. 
 

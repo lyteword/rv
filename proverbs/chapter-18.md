@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 18 RV | Read the Bible Online"
+linkTitle: "18"
+description: "Read Proverbs 18 Online | He that separateth himself seeketh his own desire, and rageth against all sound wisdom..."
 weight: 18
 ---
 
-# Chapter 18
+# Proverbs 18 
 
 **¹** He that separateth himself seeketh his own desire, and rageth against all sound wisdom. 
 

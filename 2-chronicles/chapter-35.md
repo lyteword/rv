@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 35 RV | Read the Bible Online"
+linkTitle: "35"
+description: "Read 2 Chronicles 35 Online | And Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth day of the first month..."
 weight: 35
 ---
 
-# Chapter 35
+# 2 Chronicles 35 
 
 **¹** And Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth day of the first month. 
 

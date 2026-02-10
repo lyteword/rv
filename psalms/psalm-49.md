@@ -1,8 +1,11 @@
 ---
+title: "Psalm 49 RV | Read the Bible Online"
+linkTitle: "49"
+description: "Read Psalm 49 Online | For the Chief Musician; a Psalm of the sons of Korah. Hear this, all ye peoples; give ear, all ye inhabitants of the world..."
 weight: 49
 ---
 
-# Psalm 49
+# Psalm 49 
 
 **¹** For the Chief Musician; a Psalm of the sons of Korah. Hear this, all ye peoples; give ear, all ye inhabitants of the world: 
 

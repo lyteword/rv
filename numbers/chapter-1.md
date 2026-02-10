@@ -1,8 +1,11 @@
 ---
+title: "Numbers 1 RV | Read the Bible Online"
+linkTitle: "1"
+description: "Read Numbers 1 Online | And the LORD spake unto Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying..."
 weight: 1
 ---
 
-# Chapter 1
+# Numbers 1 
 
 **¹** And the LORD spake unto Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying, 
 

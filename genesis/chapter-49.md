@@ -1,8 +1,11 @@
 ---
+title: "Genesis 49 RV | Read the Bible Online"
+linkTitle: "49"
+description: "Read Genesis 49 Online | And Jacob called unto his sons, and said: Gather yourselves together, that I may tell you that which shall befall you in the latter days..."
 weight: 49
 ---
 
-# Chapter 49
+# Genesis 49 
 
 **¹** And Jacob called unto his sons, and said: Gather yourselves together, that I may tell you that which shall befall you in the latter days. 
 

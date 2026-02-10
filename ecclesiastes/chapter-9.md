@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 9 RV | Read the Bible Online"
+linkTitle: "9"
+description: "Read Ecclesiastes 9 Online | For all this I laid to my heart, even to explore all this; that the righteous, and the wise, and their works, are in the hand of God: whether it be love or hatred, man knoweth it not; all is before them..."
 weight: 9
 ---
 
-# Chapter 9
+# Ecclesiastes 9 
 
 **¹** For all this I laid to my heart, even to explore all this; that the righteous, and the wise, and their works, are in the hand of God: whether it be love or hatred, man knoweth it not; all is before them. 
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 13 RV | Read the Bible Online"
+linkTitle: "13"
+description: "Read 2 Corinthians 13 Online | This is the third time I am coming to you. At the mouth of two witnesses or three shall every word be established..."
 weight: 13
 ---
 
-# Chapter 13
+# 2 Corinthians 13 
 
 **¹** This is the third time I am coming to you. At the mouth of two witnesses or three shall every word be established. 
 

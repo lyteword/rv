@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 17 RV | Read the Bible Online"
+linkTitle: "17"
+description: "Read Proverbs 17 Online | Better is a dry morsel and quietness therewith, than an house full of feasting with strife..."
 weight: 17
 ---
 
-# Chapter 17
+# Proverbs 17 
 
 **¹** Better is a dry morsel and quietness therewith, than an house full of feasting with strife. 
 

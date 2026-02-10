@@ -1,8 +1,11 @@
 ---
+title: "Revelation 16 RV | Read the Bible Online"
+linkTitle: "16"
+description: "Read Revelation 16 Online | And I heard a great voice out of the temple, saying to the seven angels, Go ye, and pour out the seven bowls of the wrath of God into the earth..."
 weight: 16
 ---
 
-# Chapter 16
+# Revelation 16 
 
 **¹** And I heard a great voice out of the temple, saying to the seven angels, Go ye, and pour out the seven bowls of the wrath of God into the earth. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 21 RV | Read the Bible Online"
+linkTitle: "21"
+description: "Read Jeremiah 21 Online | The word which came unto Jeremiah from the LORD, when king Zedekiah sent unto him Pashhur the son of Malchijah, and Zephaniah the son of Maaseiah the priest, saying..."
 weight: 21
 ---
 
-# Chapter 21
+# Jeremiah 21 
 
 **¹** The word which came unto Jeremiah from the LORD, when king Zedekiah sent unto him Pashhur the son of Malchijah, and Zephaniah the son of Maaseiah the priest, saying, 
 

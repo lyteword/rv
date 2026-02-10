@@ -1,8 +1,11 @@
 ---
+title: "Mark 3 RV | Read the Bible Online"
+linkTitle: "3"
+description: "Read Mark 3 Online | And he entered again into the synagogue; and there was a man there which had his hand withered..."
 weight: 3
 ---
 
-# Chapter 3
+# Mark 3 
 
 **¹** And he entered again into the synagogue; and there was a man there which had his hand withered. 
 

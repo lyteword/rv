@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 6 RV | Read the Bible Online"
+linkTitle: "6"
+description: "Read 2 Chronicles 6 Online | Then spake Solomon, The LORD hath said that he would dwell in the thick darkness..."
 weight: 6
 ---
 
-# Chapter 6
+# 2 Chronicles 6 
 
 **¹** Then spake Solomon, The LORD hath said that he would dwell in the thick darkness. 
 

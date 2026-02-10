@@ -1,8 +1,11 @@
 ---
+title: "Psalm 87 RV | Read the Bible Online"
+linkTitle: "87"
+description: "Read Psalm 87 Online | A Psalm of the sons of Korah; a Song. His foundation is in the holy mountains..."
 weight: 87
 ---
 
-# Psalm 87
+# Psalm 87 
 
 **¹** A Psalm of the sons of Korah; a Song. His foundation is in the holy mountains. 
 

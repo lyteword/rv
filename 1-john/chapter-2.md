@@ -1,8 +1,11 @@
 ---
+title: "1 John 2 RV | Read the Bible Online"
+linkTitle: "2"
+description: "Read 1 John 2 Online | My little children, these things write I unto you, that ye may not sin. And if any man sin, we have an Advocate with the Father, Jesus Christ the righteous..."
 weight: 2
 ---
 
-# Chapter 2
+# 1 John 2 
 
 **¹** My little children, these things write I unto you, that ye may not sin. And if any man sin, we have an Advocate with the Father, Jesus Christ the righteous: 
 

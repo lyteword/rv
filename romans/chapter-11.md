@@ -1,8 +1,11 @@
 ---
+title: "Romans 11 RV | Read the Bible Online"
+linkTitle: "11"
+description: "Read Romans 11 Online | I say then, Did God cast off his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin..."
 weight: 11
 ---
 
-# Chapter 11
+# Romans 11 
 
 **¹** I say then, Did God cast off his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin. 
 

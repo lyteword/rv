@@ -1,8 +1,11 @@
 ---
+title: "Numbers 7 RV | Read the Bible Online"
+linkTitle: "7"
+description: "Read Numbers 7 Online | And it came to pass on the day that Moses had made an end of setting up the tabernacle, and had anointed it and sanctified it, and all the furniture thereof, and the altar and all the vessels thereof, and had anointed them and sanctified them..."
 weight: 7
 ---
 
-# Chapter 7
+# Numbers 7 
 
 **¹** And it came to pass on the day that Moses had made an end of setting up the tabernacle, and had anointed it and sanctified it, and all the furniture thereof, and the altar and all the vessels thereof, and had anointed them and sanctified them; 
 

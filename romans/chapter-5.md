@@ -1,8 +1,11 @@
 ---
+title: "Romans 5 RV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Romans 5 Online | Being therefore justified by faith, let us have peace with God through our Lord Jesus Christ..."
 weight: 5
 ---
 
-# Chapter 5
+# Romans 5 
 
 **¹** Being therefore justified by faith, let us have peace with God through our Lord Jesus Christ; 
 

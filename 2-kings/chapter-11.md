@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 11 RV | Read the Bible Online"
+linkTitle: "11"
+description: "Read 2 Kings 11 Online | Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal..."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Kings 11 
 
 **¹** Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Judges 10 RV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Judges 10 Online | And after Abimelech there arose to save Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in the hill country of Ephraim..."
 weight: 10
 ---
 
-# Chapter 10
+# Judges 10 
 
 **¹** And after Abimelech there arose to save Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in the hill country of Ephraim. 
 

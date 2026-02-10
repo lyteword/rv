@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 33 RV | Read the Bible Online"
+linkTitle: "33"
+description: "Read Ezekiel 33 Online | And the word of the LORD came unto me, saying..."
 weight: 33
 ---
 
-# Chapter 33
+# Ezekiel 33 
 
 **¹** And the word of the LORD came unto me, saying, 
 

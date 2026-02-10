@@ -1,8 +1,11 @@
 ---
+title: "Judges 20 RV | Read the Bible Online"
+linkTitle: "20"
+description: "Read Judges 20 Online | Then all the children of Israel went out, and the congregation was assembled as one man, from Dan even to Beer-sheba, with the land of Gilead, unto the LORD at Mizpah..."
 weight: 20
 ---
 
-# Chapter 20
+# Judges 20 
 
 **¹** Then all the children of Israel went out, and the congregation was assembled as one man, from Dan even to Beer-sheba, with the land of Gilead, unto the LORD at Mizpah. 
 

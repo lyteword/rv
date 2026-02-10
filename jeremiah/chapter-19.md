@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 19 RV | Read the Bible Online"
+linkTitle: "19"
+description: "Read Jeremiah 19 Online | Thus said the LORD, Go, and buy a potter’s earthen bottle, and take of the elders of the people, and of the elders of the priests..."
 weight: 19
 ---
 
-# Chapter 19
+# Jeremiah 19 
 
 **¹** Thus said the LORD, Go, and buy a potter’s earthen bottle, and take of the elders of the people, and of the elders of the priests; 
 

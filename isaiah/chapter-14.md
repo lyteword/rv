@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 14 RV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Isaiah 14 Online | For the LORD will have compassion on Jacob, and will yet choose Israel, and set them in their own land: and the stranger shall join himself with them, and they shall cleave to the house of Jacob..."
 weight: 14
 ---
 
-# Chapter 14
+# Isaiah 14 
 
 **¹** For the LORD will have compassion on Jacob, and will yet choose Israel, and set them in their own land: and the stranger shall join himself with them, and they shall cleave to the house of Jacob. 
 

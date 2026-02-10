@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 3 RV | Read the Bible Online"
+linkTitle: "3"
+description: "Read 1 Timothy 3 Online | Faithful is the saying, If a man seeketh the office of a bishop, he desireth a good work..."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Timothy 3 
 
 **¹** Faithful is the saying, If a man seeketh the office of a bishop, he desireth a good work. 
 

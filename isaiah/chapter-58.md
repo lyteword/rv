@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 58 RV | Read the Bible Online"
+linkTitle: "58"
+description: "Read Isaiah 58 Online | Cry aloud, spare not, lift up thy voice like a trumpet, and declare unto my people their transgression, and to the house of Jacob their sins..."
 weight: 58
 ---
 
-# Chapter 58
+# Isaiah 58 
 
 **¹** Cry aloud, spare not, lift up thy voice like a trumpet, and declare unto my people their transgression, and to the house of Jacob their sins. 
 

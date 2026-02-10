@@ -1,8 +1,11 @@
 ---
+title: "Matthew 17 RV | Read the Bible Online"
+linkTitle: "17"
+description: "Read Matthew 17 Online | And after six days Jesus taketh with him Peter, and James, and John his brother, and bringeth them up into a high mountain apart..."
 weight: 17
 ---
 
-# Chapter 17
+# Matthew 17 
 
 **¹** And after six days Jesus taketh with him Peter, and James, and John his brother, and bringeth them up into a high mountain apart: 
 

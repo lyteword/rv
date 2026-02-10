@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 4 RV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Hebrews 4 Online | Let us fear therefore, lest haply, a promise being left of entering into his rest, any one of you should seem to have come short of it..."
 weight: 4
 ---
 
-# Chapter 4
+# Hebrews 4 
 
 **¹** Let us fear therefore, lest haply, a promise being left of entering into his rest, any one of you should seem to have come short of it. 
 

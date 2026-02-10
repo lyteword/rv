@@ -1,8 +1,11 @@
 ---
+title: "John 17 RV | Read the Bible Online"
+linkTitle: "17"
+description: "Read John 17 Online | These things spake Jesus; and lifting up his eyes to heaven, he said, Father, the hour is come; glorify thy Son, that the Son may glorify thee..."
 weight: 17
 ---
 
-# Chapter 17
+# John 17 
 
 **¹** These things spake Jesus; and lifting up his eyes to heaven, he said, Father, the hour is come; glorify thy Son, that the Son may glorify thee: 
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 12 RV | Read the Bible Online"
+linkTitle: "12"
+description: "Read Job 12 Online | Then Job answered and said..."
 weight: 12
 ---
 
-# Chapter 12
+# Job 12 
 
 **¹** Then Job answered and said, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 14 RV | Read the Bible Online"
+linkTitle: "14"
+description: "Read Proverbs 14 Online | Every wise woman buildeth her house: but the foolish plucketh it down with her own hands..."
 weight: 14
 ---
 
-# Chapter 14
+# Proverbs 14 
 
 **¹** Every wise woman buildeth her house: but the foolish plucketh it down with her own hands. 
 

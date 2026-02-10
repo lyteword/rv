@@ -1,8 +1,11 @@
 ---
+title: "Revelation 10 RV | Read the Bible Online"
+linkTitle: "10"
+description: "Read Revelation 10 Online | And I saw another strong angel coming down out of heaven, arrayed with a cloud; and the rainbow was upon his head, and his face was as the sun, and his feet as pillars of fire..."
 weight: 10
 ---
 
-# Chapter 10
+# Revelation 10 
 
 **¹** And I saw another strong angel coming down out of heaven, arrayed with a cloud; and the rainbow was upon his head, and his face was as the sun, and his feet as pillars of fire; 
 

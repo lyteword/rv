@@ -1,8 +1,11 @@
 ---
+title: "Acts 11 RV | Read the Bible Online"
+linkTitle: "11"
+description: "Read Acts 11 Online | Now the apostles and the brethren that were in Judaea heard that the Gentiles also had received the word of God..."
 weight: 11
 ---
 
-# Chapter 11
+# Acts 11 
 
 **¹** Now the apostles and the brethren that were in Judaea heard that the Gentiles also had received the word of God. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Joshua 11 RV | Read the Bible Online"
+linkTitle: "11"
+description: "Read Joshua 11 Online | And it came to pass, when Jabin king of Hazor heard thereof, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph..."
 weight: 11
 ---
 
-# Chapter 11
+# Joshua 11 
 
 **¹** And it came to pass, when Jabin king of Hazor heard thereof, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph, 
 

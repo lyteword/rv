@@ -1,8 +1,11 @@
 ---
+title: "Genesis 4 RV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Genesis 4 Online | And the man knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man with the help of the LORD..."
 weight: 4
 ---
 
-# Chapter 4
+# Genesis 4 
 
 **¹** And the man knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man with the help of the LORD. 
 

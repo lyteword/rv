@@ -1,8 +1,11 @@
 ---
+title: "Colossians 4 RV | Read the Bible Online"
+linkTitle: "4"
+description: "Read Colossians 4 Online | Masters, render unto your servants that which is just and equal; knowing that ye also have a Master in heaven..."
 weight: 4
 ---
 
-# Chapter 4
+# Colossians 4 
 
 **¹** Masters, render unto your servants that which is just and equal; knowing that ye also have a Master in heaven. 
 

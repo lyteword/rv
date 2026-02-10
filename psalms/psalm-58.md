@@ -1,8 +1,11 @@
 ---
+title: "Psalm 58 RV | Read the Bible Online"
+linkTitle: "58"
+description: "Read Psalm 58 Online | For the Chief Musician; set to Al-tashheth. A Psalm of David: Michtam. Do ye indeed in silence speak righteousness? do ye judge uprightly, O ye sons of men..."
 weight: 58
 ---
 
-# Psalm 58
+# Psalm 58 
 
 **¹** For the Chief Musician; set to Al-tashheth. A Psalm of David: Michtam. Do ye indeed in silence speak righteousness? do ye judge uprightly, O ye sons of men? 
 

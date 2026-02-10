@@ -1,8 +1,11 @@
 ---
+title: "Psalm 139 RV | Read the Bible Online"
+linkTitle: "139"
+description: "Read Psalm 139 Online | For the Chief Musician. A Psalm of David. LORD, thou hast searched me, and known me..."
 weight: 139
 ---
 
-# Psalm 139
+# Psalm 139 
 
 **¹** For the Chief Musician. A Psalm of David. LORD, thou hast searched me, and known me. 
 

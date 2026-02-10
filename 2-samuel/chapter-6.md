@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 6 RV | Read the Bible Online"
+linkTitle: "6"
+description: "Read 2 Samuel 6 Online | And David again gathered together all the chosen men of Israel, thirty thousand..."
 weight: 6
 ---
 
-# Chapter 6
+# 2 Samuel 6 
 
 **¹** And David again gathered together all the chosen men of Israel, thirty thousand. 
 

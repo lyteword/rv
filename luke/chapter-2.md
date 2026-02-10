@@ -1,8 +1,11 @@
 ---
+title: "Luke 2 RV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Luke 2 Online | Now it came to pass in those days, there went out a decree from Caesar Augustus, that all the world should be enrolled..."
 weight: 2
 ---
 
-# Chapter 2
+# Luke 2 
 
 **¹** Now it came to pass in those days, there went out a decree from Caesar Augustus, that all the world should be enrolled. 
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 15 RV | Read the Bible Online"
+linkTitle: "15"
+description: "Read 1 Corinthians 15 Online | Now I make known unto you brethren, the gospel which I preached unto you, which also ye received, wherein also ye stand..."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Corinthians 15 
 
 **¹** Now I make known unto you brethren, the gospel which I preached unto you, which also ye received, wherein also ye stand, 
 

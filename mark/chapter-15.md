@@ -1,8 +1,11 @@
 ---
+title: "Mark 15 RV | Read the Bible Online"
+linkTitle: "15"
+description: "Read Mark 15 Online | And straightway in the morning the chief priests with the elders and scribes, and the whole council, held a consultation, and bound Jesus, and carried him away, and delivered him up to Pilate..."
 weight: 15
 ---
 
-# Chapter 15
+# Mark 15 
 
 **¹** And straightway in the morning the chief priests with the elders and scribes, and the whole council, held a consultation, and bound Jesus, and carried him away, and delivered him up to Pilate. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 50 RV | Read the Bible Online"
+linkTitle: "50"
+description: "Read Isaiah 50 Online | Thus saith the LORD, Where is the bill of your mother’s divorcement, wherewith I have put her away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities were ye sold, and for your transgressions was your mother put away..."
 weight: 50
 ---
 
-# Chapter 50
+# Isaiah 50 
 
 **¹** Thus saith the LORD, Where is the bill of your mother’s divorcement, wherewith I have put her away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities were ye sold, and for your transgressions was your mother put away. 
 

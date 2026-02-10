@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 6 RV | Read the Bible Online"
+linkTitle: "6"
+description: "Read Jeremiah 6 Online | Flee for safety, ye children of Benjamin, out of the midst of Jerusalem, and blow the trumpet in Tekoa, and raise up a signal on Beth-haccherem: for evil looketh forth from the north, and a great destruction..."
 weight: 6
 ---
 
-# Chapter 6
+# Jeremiah 6 
 
 **¹** Flee for safety, ye children of Benjamin, out of the midst of Jerusalem, and blow the trumpet in Tekoa, and raise up a signal on Beth-haccherem: for evil looketh forth from the north, and a great destruction. 
 

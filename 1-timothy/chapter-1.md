@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 1 RV | Read the Bible Online"
+linkTitle: "1"
+description: "Read 1 Timothy 1 Online | Paul, an apostle of Christ Jesus according to the commandment of God our Saviour, and Christ Jesus our hope..."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Timothy 1 
 
 **¹** Paul, an apostle of Christ Jesus according to the commandment of God our Saviour, and Christ Jesus our hope; 
 

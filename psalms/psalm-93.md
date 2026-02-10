@@ -1,8 +1,11 @@
 ---
+title: "Psalm 93 RV | Read the Bible Online"
+linkTitle: "93"
+description: "Read Psalm 93 Online | The LORD reigneth; he is apparelled with majesty; the LORD is apparelled, he hath girded himself with strength: the world also is stablished, that it cannot be moved..."
 weight: 93
 ---
 
-# Psalm 93
+# Psalm 93 
 
 **¹** The LORD reigneth; he is apparelled with majesty; the LORD is apparelled, he hath girded himself with strength: the world also is stablished, that it cannot be moved. 
 

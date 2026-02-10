@@ -1,8 +1,11 @@
 ---
+title: "Psalm 59 RV | Read the Bible Online"
+linkTitle: "59"
+description: "Read Psalm 59 Online | For the Chief Musician; set to Al-tashheth. A Psalm of David: Michtam: when Saul sent, and they watched the house to kill him. Deliver me from mine enemies, O my God: set me on high from them that rise up against me..."
 weight: 59
 ---
 
-# Psalm 59
+# Psalm 59 
 
 **¹** For the Chief Musician; set to Al-tashheth. A Psalm of David: Michtam: when Saul sent, and they watched the house to kill him. Deliver me from mine enemies, O my God: set me on high from them that rise up against me. 
 

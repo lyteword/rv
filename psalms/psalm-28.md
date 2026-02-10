@@ -1,8 +1,11 @@
 ---
+title: "Psalm 28 RV | Read the Bible Online"
+linkTitle: "28"
+description: "Read Psalm 28 Online | A Psalm of David. Unto thee, O LORD, will I call; my rock, be not thou deaf unto me: lest, if thou be silent unto me, I become like them that go down into the pit..."
 weight: 28
 ---
 
-# Psalm 28
+# Psalm 28 
 
 **¹** A Psalm of David. Unto thee, O LORD, will I call; my rock, be not thou deaf unto me: lest, if thou be silent unto me, I become like them that go down into the pit. 
 

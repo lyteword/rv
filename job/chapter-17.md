@@ -1,8 +1,11 @@
 ---
+title: "Job 17 RV | Read the Bible Online"
+linkTitle: "17"
+description: "Read Job 17 Online | My spirit is consumed, my days are extinct, the grave is ready for me..."
 weight: 17
 ---
 
-# Chapter 17
+# Job 17 
 
 **¹** My spirit is consumed, my days are extinct, the grave is ready for me. 
 

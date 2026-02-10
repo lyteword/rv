@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 48 RV | Read the Bible Online"
+linkTitle: "48"
+description: "Read Jeremiah 48 Online | Of Moab. Thus saith the LORD of hosts, the God of Israel: Woe unto Nebo! for it is laid waste; Kiriathaim is put to shame, it is taken: Misgab is put to shame and broken down..."
 weight: 48
 ---
 
-# Chapter 48
+# Jeremiah 48 
 
 **¹** Of Moab. Thus saith the LORD of hosts, the God of Israel: Woe unto Nebo! for it is laid waste; Kiriathaim is put to shame, it is taken: Misgab is put to shame and broken down. 
 

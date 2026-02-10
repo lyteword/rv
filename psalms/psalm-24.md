@@ -1,8 +1,11 @@
 ---
+title: "Psalm 24 RV | Read the Bible Online"
+linkTitle: "24"
+description: "Read Psalm 24 Online | A Psalm of David. The earth is the LORD’S, and the fulness thereof; the world, and they that dwell therein..."
 weight: 24
 ---
 
-# Psalm 24
+# Psalm 24 
 
 **¹** A Psalm of David. The earth is the LORD’S, and the fulness thereof; the world, and they that dwell therein. 
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 5 RV | Read the Bible Online"
+linkTitle: "5"
+description: "Read 1 Corinthians 5 Online | It is actually reported that there is fornication among you, and such fornication as is not even among the Gentiles, that one of you hath his father’s wife..."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Corinthians 5 
 
 **¹** It is actually reported that there is fornication among you, and such fornication as is not even among the Gentiles, that one of you hath his father’s wife. 
 

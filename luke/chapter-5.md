@@ -1,8 +1,11 @@
 ---
+title: "Luke 5 RV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Luke 5 Online | Now it came to pass, while the multitude pressed upon him and heard the word of God, that he was standing by the lake of Gennesaret..."
 weight: 5
 ---
 
-# Chapter 5
+# Luke 5 
 
 **¹** Now it came to pass, while the multitude pressed upon him and heard the word of God, that he was standing by the lake of Gennesaret; 
 

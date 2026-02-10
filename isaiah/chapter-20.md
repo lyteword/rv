@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 20 RV | Read the Bible Online"
+linkTitle: "20"
+description: "Read Isaiah 20 Online | In the year that Tartan came unto Ashdod, when Sargon the king of Assyria sent him, and he fought against Ashdod and took it..."
 weight: 20
 ---
 
-# Chapter 20
+# Isaiah 20 
 
 **¹** In the year that Tartan came unto Ashdod, when Sargon the king of Assyria sent him, and he fought against Ashdod and took it; 
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 4 RV | Read the Bible Online"
+linkTitle: "4"
+description: "Read 1 Timothy 4 Online | But the Spirit saith expressly, that in later times some shall fall away from the faith, giving heed to seducing spirits and doctrines of devils..."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Timothy 4 
 
 **¹** But the Spirit saith expressly, that in later times some shall fall away from the faith, giving heed to seducing spirits and doctrines of devils, 
 

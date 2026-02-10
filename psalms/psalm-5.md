@@ -1,8 +1,11 @@
 ---
+title: "Psalm 5 RV | Read the Bible Online"
+linkTitle: "5"
+description: "Read Psalm 5 Online | For the Chief Musician; with the Nehiloth. A Psalm of David. Give ear to my words, O LORD, consider my meditation..."
 weight: 5
 ---
 
-# Psalm 5
+# Psalm 5 
 
 **¹** For the Chief Musician; with the Nehiloth. A Psalm of David. Give ear to my words, O LORD, consider my meditation. 
 

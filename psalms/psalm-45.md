@@ -1,8 +1,11 @@
 ---
+title: "Psalm 45 RV | Read the Bible Online"
+linkTitle: "45"
+description: "Read Psalm 45 Online | For the Chief Musician; set to Shoshannim; a Psalm of the sons of Korah. Maschil. A Song of loves. My heart overfloweth with a goodly matter: I speak the things which I have made touching the king: my tongue is the pen of a ready writer..."
 weight: 45
 ---
 
-# Psalm 45
+# Psalm 45 
 
 **¹** For the Chief Musician; set to Shoshannim; a Psalm of the sons of Korah. Maschil. A Song of loves. My heart overfloweth with a goodly matter: I speak the things which I have made touching the king: my tongue is the pen of a ready writer. 
 

@@ -1,8 +1,11 @@
 ---
+title: "Luke 17 RV | Read the Bible Online"
+linkTitle: "17"
+description: "Read Luke 17 Online | And he said unto his disciples, It is impossible but that occasions of stumbling should come: but woe unto him, through whom they come..."
 weight: 17
 ---
 
-# Chapter 17
+# Luke 17 
 
 **¹** And he said unto his disciples, It is impossible but that occasions of stumbling should come: but woe unto him, through whom they come! 
 

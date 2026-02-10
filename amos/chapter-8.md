@@ -1,8 +1,11 @@
 ---
+title: "Amos 8 RV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Amos 8 Online | Thus the Lord GOD shewed me: and behold, a basket of summer fruit..."
 weight: 8
 ---
 
-# Chapter 8
+# Amos 8 
 
 **¹** Thus the Lord GOD shewed me: and behold, a basket of summer fruit. 
 

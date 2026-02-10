@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 14 RV | Read the Bible Online"
+linkTitle: "14"
+description: "Read 1 Chronicles 14 Online | And Hiram king of Tyre sent messengers to David, and cedar trees, and masons, and carpenters, to build him an house..."
 weight: 14
 ---
 
-# Chapter 14
+# 1 Chronicles 14 
 
 **¹** And Hiram king of Tyre sent messengers to David, and cedar trees, and masons, and carpenters, to build him an house. 
 

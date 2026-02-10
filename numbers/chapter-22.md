@@ -1,8 +1,11 @@
 ---
+title: "Numbers 22 RV | Read the Bible Online"
+linkTitle: "22"
+description: "Read Numbers 22 Online | And the children of Israel journeyed, and pitched in the plains of Moab beyond the Jordan at Jericho..."
 weight: 22
 ---
 
-# Chapter 22
+# Numbers 22 
 
 **¹** And the children of Israel journeyed, and pitched in the plains of Moab beyond the Jordan at Jericho. 
 

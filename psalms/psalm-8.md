@@ -1,8 +1,11 @@
 ---
+title: "Psalm 8 RV | Read the Bible Online"
+linkTitle: "8"
+description: "Read Psalm 8 Online | For the Chief Musician; set to the Gittith. A Psalm of David. O LORD, our Lord, how excellent is thy name in all the earth! who hast set thy glory upon the heavens..."
 weight: 8
 ---
 
-# Psalm 8
+# Psalm 8 
 
 **¹** For the Chief Musician; set to the Gittith. A Psalm of David. O LORD, our Lord, how excellent is thy name in all the earth! who hast set thy glory upon the heavens. 
 

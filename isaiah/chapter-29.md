@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 29 RV | Read the Bible Online"
+linkTitle: "29"
+description: "Read Isaiah 29 Online | Ho Ariel, Ariel, the city where David encamped! add ye year to year; let the feasts come round..."
 weight: 29
 ---
 
-# Chapter 29
+# Isaiah 29 
 
 **¹** Ho Ariel, Ariel, the city where David encamped! add ye year to year; let the feasts come round: 
 

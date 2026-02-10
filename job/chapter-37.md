@@ -1,8 +1,11 @@
 ---
+title: "Job 37 RV | Read the Bible Online"
+linkTitle: "37"
+description: "Read Job 37 Online | At this also my heart trembleth, and is moved out of its place..."
 weight: 37
 ---
 
-# Chapter 37
+# Job 37 
 
 **¹** At this also my heart trembleth, and is moved out of its place. 
 

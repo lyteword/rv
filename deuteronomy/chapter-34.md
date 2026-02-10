@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 34 RV | Read the Bible Online"
+linkTitle: "34"
+description: "Read Deuteronomy 34 Online | And Moses went up from the plains of Moab unto mount Nebo, to the top of Pisgah, that is over against Jericho. And the LORD shewed him all the land of Gilead, unto Dan..."
 weight: 34
 ---
 
-# Chapter 34
+# Deuteronomy 34 
 
 **¹** And Moses went up from the plains of Moab unto mount Nebo, to the top of Pisgah, that is over against Jericho. And the LORD shewed him all the land of Gilead, unto Dan; 
 

@@ -1,8 +1,11 @@
 ---
+title: "Philippians 2 RV | Read the Bible Online"
+linkTitle: "2"
+description: "Read Philippians 2 Online | If there is therefore any comfort in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassions..."
 weight: 2
 ---
 
-# Chapter 2
+# Philippians 2 
 
 **¹** If there is therefore any comfort in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassions, 
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 40 RV | Read the Bible Online"
+linkTitle: "40"
+description: "Read Jeremiah 40 Online | The word which came to Jeremiah from the LORD, after that Nebuzaradan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all the captives of Jerusalem and Judah, which were carried away captive unto Babylon..."
 weight: 40
 ---
 
-# Chapter 40
+# Jeremiah 40 
 
 **¹** The word which came to Jeremiah from the LORD, after that Nebuzaradan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all the captives of Jerusalem and Judah, which were carried away captive unto Babylon. 
 

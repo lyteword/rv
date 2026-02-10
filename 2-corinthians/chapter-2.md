@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 2 RV | Read the Bible Online"
+linkTitle: "2"
+description: "Read 2 Corinthians 2 Online | But I determined this for myself, that I would not come again to you with sorrow..."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Corinthians 2 
 
 **¹** But I determined this for myself, that I would not come again to you with sorrow. 
 

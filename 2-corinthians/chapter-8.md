@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 8 RV | Read the Bible Online"
+linkTitle: "8"
+description: "Read 2 Corinthians 8 Online | Moreover, brethren, we make known to you the grace of God which hath been given in the churches of Macedonia..."
 weight: 8
 ---
 
-# Chapter 8
+# 2 Corinthians 8 
 
 **¹** Moreover, brethren, we make known to you the grace of God which hath been given in the churches of Macedonia; 
 
