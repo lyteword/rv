@@ -1,7 +1,8 @@
 ---
 title: "Psalm 15 RV | Read the Bible Online"
 linkTitle: "15"
-description: "Read Psalm 15 Online | A Psalm of David. LORD, who shall sojourn in thy tabernacle? who shall dwell in thy holy hill..."
+description: >
+  Read Psalm 15 Online | A Psalm of David. LORD, who shall sojourn in thy tabernacle? who shall dwell in thy holy hill...
 weight: 15
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 10 RV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Isaiah 10 Online | Woe unto them that decree unrighteous decrees, and to the writers that write perverseness..."
+description: >
+  Read Isaiah 10 Online | Woe unto them that decree unrighteous decrees, and to the writers that write perverseness...
 weight: 10
 ---
 

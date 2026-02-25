@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 12 RV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Zechariah 12 Online | The burden of the word of the LORD concerning Israel. Thus saith the LORD, which stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him..."
+description: >
+  Read Zechariah 12 Online | The burden of the word of the LORD concerning Israel. Thus saith the LORD, which stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him...
 weight: 12
 ---
 

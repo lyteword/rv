@@ -1,7 +1,8 @@
 ---
 title: "1 Timothy 5 RV | Read the Bible Online"
 linkTitle: "5"
-description: "Read 1 Timothy 5 Online | Rebuke not an elder, but exhort him as a father; the younger men as brethren..."
+description: >
+  Read 1 Timothy 5 Online | Rebuke not an elder, but exhort him as a father; the younger men as brethren...
 weight: 5
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 9 RV | Read the Bible Online"
 linkTitle: "9"
-description: "Read 2 Kings 9 Online | And Elisha the prophet called one of the sons of the prophets, and said unto him, Gird up thy loins, and take this vial of oil in thine hand, and go to Ramoth-gilead..."
+description: >
+  Read 2 Kings 9 Online | And Elisha the prophet called one of the sons of the prophets, and said unto him, Gird up thy loins, and take this vial of oil in thine hand, and go to Ramoth-gilead...
 weight: 9
 ---
 

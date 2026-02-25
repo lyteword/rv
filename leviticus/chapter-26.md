@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 26 RV | Read the Bible Online"
 linkTitle: "26"
-description: "Read Leviticus 26 Online | Ye shall make you no idols, neither shall ye rear you up a graven image, or a pillar, neither shall ye place any figured stone in your land, to bow down unto it: for I am the LORD your God..."
+description: >
+  Read Leviticus 26 Online | Ye shall make you no idols, neither shall ye rear you up a graven image, or a pillar, neither shall ye place any figured stone in your land, to bow down unto it: for I am the LORD your God...
 weight: 26
 ---
 

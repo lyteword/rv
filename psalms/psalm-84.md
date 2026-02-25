@@ -1,7 +1,8 @@
 ---
 title: "Psalm 84 RV | Read the Bible Online"
 linkTitle: "84"
-description: "Read Psalm 84 Online | For the Chief Musician; set to the Gittith. A Psalm of the sons of Korah. How amiable are thy tabernacles, O LORD of hosts..."
+description: >
+  Read Psalm 84 Online | For the Chief Musician; set to the Gittith. A Psalm of the sons of Korah. How amiable are thy tabernacles, O LORD of hosts...
 weight: 84
 ---
 

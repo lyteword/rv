@@ -1,7 +1,8 @@
 ---
 title: "Psalm 116 RV | Read the Bible Online"
 linkTitle: "116"
-description: "Read Psalm 116 Online | I LOVE the LORD, because he hath heard my voice and my supplications..."
+description: >
+  Read Psalm 116 Online | I LOVE the LORD, because he hath heard my voice and my supplications...
 weight: 116
 ---
 

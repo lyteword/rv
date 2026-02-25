@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 16 RV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Proverbs 16 Online | The preparations of the heart belong to man: but the answer of the tongue is from the LORD..."
+description: >
+  Read Proverbs 16 Online | The preparations of the heart belong to man: but the answer of the tongue is from the LORD...
 weight: 16
 ---
 

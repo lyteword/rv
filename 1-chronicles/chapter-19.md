@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 19 RV | Read the Bible Online"
 linkTitle: "19"
-description: "Read 1 Chronicles 19 Online | And it came to pass after this, that Nahash the king of the children of Ammon died, and his son reigned in his stead..."
+description: >
+  Read 1 Chronicles 19 Online | And it came to pass after this, that Nahash the king of the children of Ammon died, and his son reigned in his stead...
 weight: 19
 ---
 

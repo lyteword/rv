@@ -1,7 +1,8 @@
 ---
 title: "1 Peter 5 RV | Read the Bible Online"
 linkTitle: "5"
-description: "Read 1 Peter 5 Online | The elders therefore among you I exhort, who am a fellow-elder, and a witness of the sufferings of Christ, who am also a partaker of the glory that shall be revealed..."
+description: >
+  Read 1 Peter 5 Online | The elders therefore among you I exhort, who am a fellow-elder, and a witness of the sufferings of Christ, who am also a partaker of the glory that shall be revealed...
 weight: 5
 ---
 

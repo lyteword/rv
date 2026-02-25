@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 5 RV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Proverbs 5 Online | My son, attend unto my wisdom; incline thine ear to my understanding..."
+description: >
+  Read Proverbs 5 Online | My son, attend unto my wisdom; incline thine ear to my understanding...
 weight: 5
 ---
 

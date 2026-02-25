@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 14 RV | Read the Bible Online"
 linkTitle: "14"
-description: "Read Jeremiah 14 Online | The word of the LORD that came to Jeremiah concerning the drought..."
+description: >
+  Read Jeremiah 14 Online | The word of the LORD that came to Jeremiah concerning the drought...
 weight: 14
 ---
 

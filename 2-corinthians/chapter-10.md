@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 10 RV | Read the Bible Online"
 linkTitle: "10"
-description: "Read 2 Corinthians 10 Online | Now I Paul myself entreat you by the meekness and gentleness of Christ, I who in your presence am lowly among you, but being absent am of good courage toward you..."
+description: >
+  Read 2 Corinthians 10 Online | Now I Paul myself entreat you by the meekness and gentleness of Christ, I who in your presence am lowly among you, but being absent am of good courage toward you...
 weight: 10
 ---
 

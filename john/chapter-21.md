@@ -1,7 +1,8 @@
 ---
 title: "John 21 RV | Read the Bible Online"
 linkTitle: "21"
-description: "Read John 21 Online | After these things Jesus manifested himself again to the disciples at the sea of Tiberias; and he manifested himself on this wise..."
+description: >
+  Read John 21 Online | After these things Jesus manifested himself again to the disciples at the sea of Tiberias; and he manifested himself on this wise...
 weight: 21
 ---
 

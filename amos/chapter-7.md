@@ -1,7 +1,8 @@
 ---
 title: "Amos 7 RV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Amos 7 Online | Thus the Lord GOD shewed me: and, behold, he formed locusts in the beginning of the shooting up of the latter growth; and, lo, it was the latter growth after the king’s mowings..."
+description: >
+  Read Amos 7 Online | Thus the Lord GOD shewed me: and, behold, he formed locusts in the beginning of the shooting up of the latter growth; and, lo, it was the latter growth after the king’s mowings...
 weight: 7
 ---
 

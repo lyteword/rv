@@ -1,7 +1,8 @@
 ---
 title: "Hosea 9 RV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Hosea 9 Online | Rejoice not, O Israel, for joy, like the peoples; for thou hast gone a whoring from thy God, thou hast loved hire upon every cornfloor..."
+description: >
+  Read Hosea 9 Online | Rejoice not, O Israel, for joy, like the peoples; for thou hast gone a whoring from thy God, thou hast loved hire upon every cornfloor...
 weight: 9
 ---
 

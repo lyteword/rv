@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 15 RV | Read the Bible Online"
 linkTitle: "15"
-description: "Read 1 Samuel 15 Online | And Samuel said unto Saul, The LORD sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice the words of the LORD..."
+description: >
+  Read 1 Samuel 15 Online | And Samuel said unto Saul, The LORD sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice the words of the LORD...
 weight: 15
 ---
 

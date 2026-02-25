@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 5 RV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Zechariah 5 Online | Then again I lifted up mine eyes, and saw, and behold, a flying roll..."
+description: >
+  Read Zechariah 5 Online | Then again I lifted up mine eyes, and saw, and behold, a flying roll...
 weight: 5
 ---
 

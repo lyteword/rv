@@ -1,7 +1,8 @@
 ---
 title: "Luke 6 RV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Luke 6 Online | Now it came to pass on a sabbath, that he was going through the cornfields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands..."
+description: >
+  Read Luke 6 Online | Now it came to pass on a sabbath, that he was going through the cornfields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands...
 weight: 6
 ---
 

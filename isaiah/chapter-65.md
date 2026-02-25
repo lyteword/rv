@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 65 RV | Read the Bible Online"
 linkTitle: "65"
-description: "Read Isaiah 65 Online | I AM inquired of by them that asked not for me; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that was not called by my name..."
+description: >
+  Read Isaiah 65 Online | I AM inquired of by them that asked not for me; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that was not called by my name...
 weight: 65
 ---
 

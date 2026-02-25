@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 9 RV | Read the Bible Online"
 linkTitle: "9"
-description: "Read 1 Chronicles 9 Online | So all Israel were reckoned by genealogies; and, behold, they are written in the book of the kings of Israel: and Judah was carried away captive to Babylon for their transgression..."
+description: >
+  Read 1 Chronicles 9 Online | So all Israel were reckoned by genealogies; and, behold, they are written in the book of the kings of Israel: and Judah was carried away captive to Babylon for their transgression...
 weight: 9
 ---
 

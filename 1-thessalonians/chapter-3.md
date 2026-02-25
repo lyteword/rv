@@ -1,7 +1,8 @@
 ---
 title: "1 Thessalonians 3 RV | Read the Bible Online"
 linkTitle: "3"
-description: "Read 1 Thessalonians 3 Online | Wherefore when we could no longer forbear, we thought it good to be left behind at Athens alone..."
+description: >
+  Read 1 Thessalonians 3 Online | Wherefore when we could no longer forbear, we thought it good to be left behind at Athens alone...
 weight: 3
 ---
 

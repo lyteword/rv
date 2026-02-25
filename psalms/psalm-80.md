@@ -1,7 +1,8 @@
 ---
 title: "Psalm 80 RV | Read the Bible Online"
 linkTitle: "80"
-description: "Read Psalm 80 Online | For the Chief Musician; set to Shoshannim Eduth. A Psalm of Asaph. Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that sittest upon the cherubim, shine forth..."
+description: >
+  Read Psalm 80 Online | For the Chief Musician; set to Shoshannim Eduth. A Psalm of Asaph. Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that sittest upon the cherubim, shine forth...
 weight: 80
 ---
 

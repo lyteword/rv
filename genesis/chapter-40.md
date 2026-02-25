@@ -1,7 +1,8 @@
 ---
 title: "Genesis 40 RV | Read the Bible Online"
 linkTitle: "40"
-description: "Read Genesis 40 Online | And it came to pass after these things, that the butler of the king of Egypt and his baker offended their lord the king of Egypt..."
+description: >
+  Read Genesis 40 Online | And it came to pass after these things, that the butler of the king of Egypt and his baker offended their lord the king of Egypt...
 weight: 40
 ---
 

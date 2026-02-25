@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 3 RV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Hebrews 3 Online | Wherefore, holy brethren, partakers of a heavenly calling, consider the Apostle and High Priest of our confession, even Jesus..."
+description: >
+  Read Hebrews 3 Online | Wherefore, holy brethren, partakers of a heavenly calling, consider the Apostle and High Priest of our confession, even Jesus...
 weight: 3
 ---
 

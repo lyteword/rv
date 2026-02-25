@@ -1,7 +1,8 @@
 ---
 title: "Luke 8 RV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Luke 8 Online | And it came to pass soon afterwards, that he went about through cities and villages, preaching and bringing the good tidings of the kingdom of God, and with him the twelve..."
+description: >
+  Read Luke 8 Online | And it came to pass soon afterwards, that he went about through cities and villages, preaching and bringing the good tidings of the kingdom of God, and with him the twelve...
 weight: 8
 ---
 

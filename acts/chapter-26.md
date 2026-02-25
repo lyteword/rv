@@ -1,7 +1,8 @@
 ---
 title: "Acts 26 RV | Read the Bible Online"
 linkTitle: "26"
-description: "Read Acts 26 Online | And Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth his hand, and made his defence..."
+description: >
+  Read Acts 26 Online | And Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth his hand, and made his defence...
 weight: 26
 ---
 

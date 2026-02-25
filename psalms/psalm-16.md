@@ -1,7 +1,8 @@
 ---
 title: "Psalm 16 RV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Psalm 16 Online | Michtam of David. Preserve me, O God: for in thee do I put my trust..."
+description: >
+  Read Psalm 16 Online | Michtam of David. Preserve me, O God: for in thee do I put my trust...
 weight: 16
 ---
 

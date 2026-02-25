@@ -1,7 +1,8 @@
 ---
 title: "Psalm 119 RV | Read the Bible Online"
 linkTitle: "119"
-description: "Read Psalm 119 Online | Blessed are they that are perfect in the way, who walk in the law of the LORD..."
+description: >
+  Read Psalm 119 Online | Blessed are they that are perfect in the way, who walk in the law of the LORD...
 weight: 119
 ---
 

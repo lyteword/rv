@@ -1,7 +1,8 @@
 ---
 title: "Romans 14 RV | Read the Bible Online"
 linkTitle: "14"
-description: "Read Romans 14 Online | But him that is weak in faith receive ye, yet not to doubtful disputations..."
+description: >
+  Read Romans 14 Online | But him that is weak in faith receive ye, yet not to doubtful disputations...
 weight: 14
 ---
 

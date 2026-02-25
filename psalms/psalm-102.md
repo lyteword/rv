@@ -1,7 +1,8 @@
 ---
 title: "Psalm 102 RV | Read the Bible Online"
 linkTitle: "102"
-description: "Read Psalm 102 Online | A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the LORD. Hear my prayer, O LORD, and let my cry come unto thee..."
+description: >
+  Read Psalm 102 Online | A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the LORD. Hear my prayer, O LORD, and let my cry come unto thee...
 weight: 102
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 20 RV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Deuteronomy 20 Online | When thou goest forth to battle against thine enemies, and seest horses, and chariots, and a people more than thou, thou shalt not be afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt..."
+description: >
+  Read Deuteronomy 20 Online | When thou goest forth to battle against thine enemies, and seest horses, and chariots, and a people more than thou, thou shalt not be afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt...
 weight: 20
 ---
 

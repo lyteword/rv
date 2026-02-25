@@ -1,7 +1,8 @@
 ---
 title: "Psalm 25 RV | Read the Bible Online"
 linkTitle: "25"
-description: "Read Psalm 25 Online | A Psalm of David. Unto thee, O LORD, do I lift up my soul..."
+description: >
+  Read Psalm 25 Online | A Psalm of David. Unto thee, O LORD, do I lift up my soul...
 weight: 25
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 21 RV | Read the Bible Online"
 linkTitle: "21"
-description: "Read 1 Chronicles 21 Online | And Satan stood up against Israel, and moved David to number Israel..."
+description: >
+  Read 1 Chronicles 21 Online | And Satan stood up against Israel, and moved David to number Israel...
 weight: 21
 ---
 

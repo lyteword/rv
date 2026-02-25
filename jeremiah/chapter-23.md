@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 23 RV | Read the Bible Online"
 linkTitle: "23"
-description: "Read Jeremiah 23 Online | Woe unto the shepherds that destroy and scatter the sheep of my pasture! saith the LORD..."
+description: >
+  Read Jeremiah 23 Online | Woe unto the shepherds that destroy and scatter the sheep of my pasture! saith the LORD...
 weight: 23
 ---
 

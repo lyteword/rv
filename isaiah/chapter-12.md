@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 12 RV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Isaiah 12 Online | And in that day thou shalt say, I will give thanks unto thee, O LORD; for though thou wast angry with me, thine anger is turned away, and thou comfortest me..."
+description: >
+  Read Isaiah 12 Online | And in that day thou shalt say, I will give thanks unto thee, O LORD; for though thou wast angry with me, thine anger is turned away, and thou comfortest me...
 weight: 12
 ---
 

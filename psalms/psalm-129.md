@@ -1,7 +1,8 @@
 ---
 title: "Psalm 129 RV | Read the Bible Online"
 linkTitle: "129"
-description: "Read Psalm 129 Online | A Song of Ascents. Many a time have they afflicted me from my youth up, let Israel now say..."
+description: >
+  Read Psalm 129 Online | A Song of Ascents. Many a time have they afflicted me from my youth up, let Israel now say...
 weight: 129
 ---
 

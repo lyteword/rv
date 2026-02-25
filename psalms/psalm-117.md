@@ -1,7 +1,8 @@
 ---
 title: "Psalm 117 RV | Read the Bible Online"
 linkTitle: "117"
-description: "Read Psalm 117 Online | O PRAISE the LORD, all ye nations; laud him, all ye peoples..."
+description: >
+  Read Psalm 117 Online | O PRAISE the LORD, all ye nations; laud him, all ye peoples...
 weight: 117
 ---
 

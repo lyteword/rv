@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 4 RV | Read the Bible Online"
 linkTitle: "4"
-description: "Read 2 Corinthians 4 Online | Therefore seeing we have this ministry, even as we obtained mercy, we faint not..."
+description: >
+  Read 2 Corinthians 4 Online | Therefore seeing we have this ministry, even as we obtained mercy, we faint not...
 weight: 4
 ---
 

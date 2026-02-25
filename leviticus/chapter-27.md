@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 27 RV | Read the Bible Online"
 linkTitle: "27"
-description: "Read Leviticus 27 Online | And the LORD spake unto Moses, saying..."
+description: >
+  Read Leviticus 27 Online | And the LORD spake unto Moses, saying...
 weight: 27
 ---
 

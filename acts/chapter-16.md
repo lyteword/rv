@@ -1,7 +1,8 @@
 ---
 title: "Acts 16 RV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Acts 16 Online | And he came also to Derbe and to Lystra: and behold, a certain disciple was there, named Timothy, the son of a Jewess which believed; but his father was a Greek..."
+description: >
+  Read Acts 16 Online | And he came also to Derbe and to Lystra: and behold, a certain disciple was there, named Timothy, the son of a Jewess which believed; but his father was a Greek...
 weight: 16
 ---
 

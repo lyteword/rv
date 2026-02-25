@@ -1,7 +1,8 @@
 ---
 title: "Psalm 111 RV | Read the Bible Online"
 linkTitle: "111"
-description: "Read Psalm 111 Online | Praise ye the LORD. I will give thanks unto the LORD with my whole heart, in the council of the upright, and in the congregation..."
+description: >
+  Read Psalm 111 Online | Praise ye the LORD. I will give thanks unto the LORD with my whole heart, in the council of the upright, and in the congregation...
 weight: 111
 ---
 

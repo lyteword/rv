@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 39 RV | Read the Bible Online"
 linkTitle: "39"
-description: "Read Ezekiel 39 Online | And thou, son of man, prophesy against Gog, and say, Thus saith the Lord GOD: Behold, I am against thee, O Gog, prince of Rosh, Meshech, and Tubal..."
+description: >
+  Read Ezekiel 39 Online | And thou, son of man, prophesy against Gog, and say, Thus saith the Lord GOD: Behold, I am against thee, O Gog, prince of Rosh, Meshech, and Tubal...
 weight: 39
 ---
 

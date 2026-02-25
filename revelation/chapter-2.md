@@ -1,7 +1,8 @@
 ---
 title: "Revelation 2 RV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Revelation 2 Online | To the angel of the church in Ephesus write; These things saith he that holdeth the seven stars in his right hand, he that walketh in the midst of the seven golden candlesticks..."
+description: >
+  Read Revelation 2 Online | To the angel of the church in Ephesus write; These things saith he that holdeth the seven stars in his right hand, he that walketh in the midst of the seven golden candlesticks...
 weight: 2
 ---
 

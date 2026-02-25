@@ -1,7 +1,8 @@
 ---
 title: "Job 30 RV | Read the Bible Online"
 linkTitle: "30"
-description: "Read Job 30 Online | But now they that are younger than I have me in derision, whose fathers I disdained to set with the dogs of my flock..."
+description: >
+  Read Job 30 Online | But now they that are younger than I have me in derision, whose fathers I disdained to set with the dogs of my flock...
 weight: 30
 ---
 

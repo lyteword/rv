@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 21 RV | Read the Bible Online"
 linkTitle: "21"
-description: "Read 2 Chronicles 21 Online | And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David: and Jehoram his son reigned in his stead..."
+description: >
+  Read 2 Chronicles 21 Online | And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David: and Jehoram his son reigned in his stead...
 weight: 21
 ---
 

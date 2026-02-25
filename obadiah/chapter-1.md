@@ -1,7 +1,8 @@
 ---
 title: "Obadiah 1 RV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Obadiah 1 Online | The vision of Obadiah. Thus saith the Lord GOD concerning Edom: We have heard tidings from the LORD, and an ambassador is sent among the nations, saying, Arise ye, and let us rise up against her in battle..."
+description: >
+  Read Obadiah 1 Online | The vision of Obadiah. Thus saith the Lord GOD concerning Edom: We have heard tidings from the LORD, and an ambassador is sent among the nations, saying, Arise ye, and let us rise up against her in battle...
 weight: 1
 ---
 

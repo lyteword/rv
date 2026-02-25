@@ -1,7 +1,8 @@
 ---
 title: "Numbers 30 RV | Read the Bible Online"
 linkTitle: "30"
-description: "Read Numbers 30 Online | And Moses spake unto the heads of the tribes of the children of Israel, saying, This is the thing which the LORD hath commanded..."
+description: >
+  Read Numbers 30 Online | And Moses spake unto the heads of the tribes of the children of Israel, saying, This is the thing which the LORD hath commanded...
 weight: 30
 ---
 

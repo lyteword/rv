@@ -1,7 +1,8 @@
 ---
 title: "Psalm 126 RV | Read the Bible Online"
 linkTitle: "126"
-description: "Read Psalm 126 Online | A Song of Ascents. When the LORD turned again the captivity of Zion, we were like unto them that dream..."
+description: >
+  Read Psalm 126 Online | A Song of Ascents. When the LORD turned again the captivity of Zion, we were like unto them that dream...
 weight: 126
 ---
 

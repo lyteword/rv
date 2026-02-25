@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 2 RV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Ezekiel 2 Online | And he said unto me, Son of man, stand upon thy feet, and I will speak with thee..."
+description: >
+  Read Ezekiel 2 Online | And he said unto me, Son of man, stand upon thy feet, and I will speak with thee...
 weight: 2
 ---
 

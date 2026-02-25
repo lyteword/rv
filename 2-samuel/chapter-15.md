@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 15 RV | Read the Bible Online"
 linkTitle: "15"
-description: "Read 2 Samuel 15 Online | And it came to pass after this, that Absalom prepared him a chariot and horses, and fifty men to run before him..."
+description: >
+  Read 2 Samuel 15 Online | And it came to pass after this, that Absalom prepared him a chariot and horses, and fifty men to run before him...
 weight: 15
 ---
 

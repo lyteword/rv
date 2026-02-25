@@ -1,7 +1,8 @@
 ---
 title: "1 Timothy 2 RV | Read the Bible Online"
 linkTitle: "2"
-description: "Read 1 Timothy 2 Online | I exhort therefore, first of all, that supplications, prayers, intercessions, thanksgivings, be made for all men..."
+description: >
+  Read 1 Timothy 2 Online | I exhort therefore, first of all, that supplications, prayers, intercessions, thanksgivings, be made for all men...
 weight: 2
 ---
 

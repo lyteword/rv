@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 13 RV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Hebrews 13 Online | Let love of the brethren continue..."
+description: >
+  Read Hebrews 13 Online | Let love of the brethren continue...
 weight: 13
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Matthew 20 RV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Matthew 20 Online | For the kingdom of heaven is like unto a man that is a householder, which went out early in the morning to hire labourers into his vineyard..."
+description: >
+  Read Matthew 20 Online | For the kingdom of heaven is like unto a man that is a householder, which went out early in the morning to hire labourers into his vineyard...
 weight: 20
 ---
 

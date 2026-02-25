@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes 10 RV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Ecclesiastes 10 Online | Dead flies cause the ointment of the perfumer to send forth a stinking savour: so doth a little folly outweigh wisdom and honour..."
+description: >
+  Read Ecclesiastes 10 Online | Dead flies cause the ointment of the perfumer to send forth a stinking savour: so doth a little folly outweigh wisdom and honour...
 weight: 10
 ---
 

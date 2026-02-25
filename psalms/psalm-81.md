@@ -1,7 +1,8 @@
 ---
 title: "Psalm 81 RV | Read the Bible Online"
 linkTitle: "81"
-description: "Read Psalm 81 Online | For the Chief Musician; set to the Gittith. A Psalm of Asaph. Sing aloud unto God our strength: make a joyful noise unto the God of Jacob..."
+description: >
+  Read Psalm 81 Online | For the Chief Musician; set to the Gittith. A Psalm of Asaph. Sing aloud unto God our strength: make a joyful noise unto the God of Jacob...
 weight: 81
 ---
 

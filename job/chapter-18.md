@@ -1,7 +1,8 @@
 ---
 title: "Job 18 RV | Read the Bible Online"
 linkTitle: "18"
-description: "Read Job 18 Online | Then answered Bildad the Shuhite, and said..."
+description: >
+  Read Job 18 Online | Then answered Bildad the Shuhite, and said...
 weight: 18
 ---
 

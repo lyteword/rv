@@ -1,7 +1,8 @@
 ---
 title: "Hosea 3 RV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Hosea 3 Online | And the LORD said unto me, Go yet, love a woman beloved of her friend and an adulteress, even as the LORD loveth the children of Israel, though they turn unto other gods, and love cakes of raisins..."
+description: >
+  Read Hosea 3 Online | And the LORD said unto me, Go yet, love a woman beloved of her friend and an adulteress, even as the LORD loveth the children of Israel, though they turn unto other gods, and love cakes of raisins...
 weight: 3
 ---
 

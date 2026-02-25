@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 20 RV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Proverbs 20 Online | Wine is a mocker, strong drink a brawler; and whosoever erreth thereby is not wise..."
+description: >
+  Read Proverbs 20 Online | Wine is a mocker, strong drink a brawler; and whosoever erreth thereby is not wise...
 weight: 20
 ---
 

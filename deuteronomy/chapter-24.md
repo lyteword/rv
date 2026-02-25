@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 24 RV | Read the Bible Online"
 linkTitle: "24"
-description: "Read Deuteronomy 24 Online | When a man taketh a wife, and marrieth her, then it shall be, if she find no favour in his eyes, because he hath found some unseemly thing in her, that he shall write her a bill of divorcement, and give it in her hand, and send her out of his house..."
+description: >
+  Read Deuteronomy 24 Online | When a man taketh a wife, and marrieth her, then it shall be, if she find no favour in his eyes, because he hath found some unseemly thing in her, that he shall write her a bill of divorcement, and give it in her hand, and send her out of his house...
 weight: 24
 ---
 

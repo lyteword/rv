@@ -1,7 +1,8 @@
 ---
 title: "Exodus 27 RV | Read the Bible Online"
 linkTitle: "27"
-description: "Read Exodus 27 Online | And thou shalt make the altar of acacia wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits..."
+description: >
+  Read Exodus 27 Online | And thou shalt make the altar of acacia wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits...
 weight: 27
 ---
 

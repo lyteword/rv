@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 11 RV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Proverbs 11 Online | A FALSE balance is an abomination to the LORD: but a just weight is his delight..."
+description: >
+  Read Proverbs 11 Online | A FALSE balance is an abomination to the LORD: but a just weight is his delight...
 weight: 11
 ---
 

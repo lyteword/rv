@@ -1,7 +1,8 @@
 ---
 title: "2 John 1 RV | Read the Bible Online"
 linkTitle: "1"
-description: "Read 2 John 1 Online | The elder unto the elect lady and her children, whom I love in truth; and not I only, but also all they that know the truth..."
+description: >
+  Read 2 John 1 Online | The elder unto the elect lady and her children, whom I love in truth; and not I only, but also all they that know the truth...
 weight: 1
 ---
 

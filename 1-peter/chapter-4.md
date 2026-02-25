@@ -1,7 +1,8 @@
 ---
 title: "1 Peter 4 RV | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 Peter 4 Online | Forasmuch then as Christ suffered in the flesh, arm ye yourselves also with the same mind; for he that hath suffered in the flesh hath ceased from sin..."
+description: >
+  Read 1 Peter 4 Online | Forasmuch then as Christ suffered in the flesh, arm ye yourselves also with the same mind; for he that hath suffered in the flesh hath ceased from sin...
 weight: 4
 ---
 

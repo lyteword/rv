@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 66 RV | Read the Bible Online"
 linkTitle: "66"
-description: "Read Isaiah 66 Online | Thus saith the LORD; The heaven is my throne, and the earth is my footstool: what manner of house will ye build unto me? and what place shall be my rest..."
+description: >
+  Read Isaiah 66 Online | Thus saith the LORD; The heaven is my throne, and the earth is my footstool: what manner of house will ye build unto me? and what place shall be my rest...
 weight: 66
 ---
 

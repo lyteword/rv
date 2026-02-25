@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 13 RV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Proverbs 13 Online | A WISE son heareth his father’s instruction: but a scorner heareth not rebuke..."
+description: >
+  Read Proverbs 13 Online | A WISE son heareth his father’s instruction: but a scorner heareth not rebuke...
 weight: 13
 ---
 

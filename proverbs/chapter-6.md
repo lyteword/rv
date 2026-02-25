@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 6 RV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Proverbs 6 Online | My son, if thou art become surety for thy neighbour, if thou hast stricken thy hands for a stranger..."
+description: >
+  Read Proverbs 6 Online | My son, if thou art become surety for thy neighbour, if thou hast stricken thy hands for a stranger...
 weight: 6
 ---
 

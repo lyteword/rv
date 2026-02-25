@@ -1,7 +1,8 @@
 ---
 title: "Psalm 132 RV | Read the Bible Online"
 linkTitle: "132"
-description: "Read Psalm 132 Online | A Song of Ascents. LORD, remember for David all his affliction..."
+description: >
+  Read Psalm 132 Online | A Song of Ascents. LORD, remember for David all his affliction...
 weight: 132
 ---
 

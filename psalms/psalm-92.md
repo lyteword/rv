@@ -1,7 +1,8 @@
 ---
 title: "Psalm 92 RV | Read the Bible Online"
 linkTitle: "92"
-description: "Read Psalm 92 Online | A Psalm, a Song for the sabbath day. It is a good thing to give thanks unto the LORD, and to sing praises unto thy name, O Most High..."
+description: >
+  Read Psalm 92 Online | A Psalm, a Song for the sabbath day. It is a good thing to give thanks unto the LORD, and to sing praises unto thy name, O Most High...
 weight: 92
 ---
 

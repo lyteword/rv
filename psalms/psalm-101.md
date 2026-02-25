@@ -1,7 +1,8 @@
 ---
 title: "Psalm 101 RV | Read the Bible Online"
 linkTitle: "101"
-description: "Read Psalm 101 Online | A Psalm of David. I will sing of mercy and judgment: unto thee, O LORD, will I sing praises..."
+description: >
+  Read Psalm 101 Online | A Psalm of David. I will sing of mercy and judgment: unto thee, O LORD, will I sing praises...
 weight: 101
 ---
 

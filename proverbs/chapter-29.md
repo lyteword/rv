@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 29 RV | Read the Bible Online"
 linkTitle: "29"
-description: "Read Proverbs 29 Online | He that being often reproved hardeneth his neck shall suddenly be broken, and that without remedy..."
+description: >
+  Read Proverbs 29 Online | He that being often reproved hardeneth his neck shall suddenly be broken, and that without remedy...
 weight: 29
 ---
 

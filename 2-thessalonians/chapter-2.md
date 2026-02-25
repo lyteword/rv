@@ -1,7 +1,8 @@
 ---
 title: "2 Thessalonians 2 RV | Read the Bible Online"
 linkTitle: "2"
-description: "Read 2 Thessalonians 2 Online | Now we beseech you, brethren, touching the coming of our Lord Jesus Christ, and our gathering together unto him..."
+description: >
+  Read 2 Thessalonians 2 Online | Now we beseech you, brethren, touching the coming of our Lord Jesus Christ, and our gathering together unto him...
 weight: 2
 ---
 

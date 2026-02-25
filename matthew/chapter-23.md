@@ -1,7 +1,8 @@
 ---
 title: "Matthew 23 RV | Read the Bible Online"
 linkTitle: "23"
-description: "Read Matthew 23 Online | Then spake Jesus to the multitudes and to his disciples..."
+description: >
+  Read Matthew 23 Online | Then spake Jesus to the multitudes and to his disciples...
 weight: 23
 ---
 

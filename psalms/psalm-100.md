@@ -1,7 +1,8 @@
 ---
 title: "Psalm 100 RV | Read the Bible Online"
 linkTitle: "100"
-description: "Read Psalm 100 Online | A Psalm of thanksgiving. Make a joyful noise unto the LORD, all ye lands..."
+description: >
+  Read Psalm 100 Online | A Psalm of thanksgiving. Make a joyful noise unto the LORD, all ye lands...
 weight: 100
 ---
 

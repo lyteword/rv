@@ -1,7 +1,8 @@
 ---
 title: "Job 36 RV | Read the Bible Online"
 linkTitle: "36"
-description: "Read Job 36 Online | Elihu also proceeded, and said..."
+description: >
+  Read Job 36 Online | Elihu also proceeded, and said...
 weight: 36
 ---
 

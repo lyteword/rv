@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 8 RV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Isaiah 8 Online | And the LORD said unto me, Take thee a great tablet, and write upon it with the pen of a man, For Maher-shalal-hash-baz..."
+description: >
+  Read Isaiah 8 Online | And the LORD said unto me, Take thee a great tablet, and write upon it with the pen of a man, For Maher-shalal-hash-baz...
 weight: 8
 ---
 

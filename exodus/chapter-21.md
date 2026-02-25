@@ -1,7 +1,8 @@
 ---
 title: "Exodus 21 RV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Exodus 21 Online | Now these are the judgments which thou shalt set before them..."
+description: >
+  Read Exodus 21 Online | Now these are the judgments which thou shalt set before them...
 weight: 21
 ---
 

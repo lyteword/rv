@@ -1,7 +1,8 @@
 ---
 title: "Matthew 21 RV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Matthew 21 Online | And when they drew nigh unto Jerusalem, and came unto Bethphage, unto the mount of Olives, then Jesus sent two disciples..."
+description: >
+  Read Matthew 21 Online | And when they drew nigh unto Jerusalem, and came unto Bethphage, unto the mount of Olives, then Jesus sent two disciples...
 weight: 21
 ---
 

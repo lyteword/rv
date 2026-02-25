@@ -1,7 +1,8 @@
 ---
 title: "Matthew 25 RV | Read the Bible Online"
 linkTitle: "25"
-description: "Read Matthew 25 Online | Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom..."
+description: >
+  Read Matthew 25 Online | Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom...
 weight: 25
 ---
 

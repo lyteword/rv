@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 38 RV | Read the Bible Online"
 linkTitle: "38"
-description: "Read Jeremiah 38 Online | And Shephatiah the son of Mattan, and Gedaliah the son of Pashhur, and Jucal the son of Shelemiah, and Pashhur the son of Malchijah, heard the words that Jeremiah spake unto all the people, saying..."
+description: >
+  Read Jeremiah 38 Online | And Shephatiah the son of Mattan, and Gedaliah the son of Pashhur, and Jucal the son of Shelemiah, and Pashhur the son of Malchijah, heard the words that Jeremiah spake unto all the people, saying...
 weight: 38
 ---
 

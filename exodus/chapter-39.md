@@ -1,7 +1,8 @@
 ---
 title: "Exodus 39 RV | Read the Bible Online"
 linkTitle: "39"
-description: "Read Exodus 39 Online | And of the blue, and purple, and scarlet, they made finely wrought garments, for ministering in the holy place, and made the holy garments for Aaron; as the LORD commanded Moses..."
+description: >
+  Read Exodus 39 Online | And of the blue, and purple, and scarlet, they made finely wrought garments, for ministering in the holy place, and made the holy garments for Aaron; as the LORD commanded Moses...
 weight: 39
 ---
 

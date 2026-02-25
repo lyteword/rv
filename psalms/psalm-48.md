@@ -1,7 +1,8 @@
 ---
 title: "Psalm 48 RV | Read the Bible Online"
 linkTitle: "48"
-description: "Read Psalm 48 Online | A Song; a Psalm of the sons of Korah. Great is the LORD, and highly to be praised, in the city of our God, in his holy mountain..."
+description: >
+  Read Psalm 48 Online | A Song; a Psalm of the sons of Korah. Great is the LORD, and highly to be praised, in the city of our God, in his holy mountain...
 weight: 48
 ---
 

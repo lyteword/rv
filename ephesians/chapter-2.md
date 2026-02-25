@@ -1,7 +1,8 @@
 ---
 title: "Ephesians 2 RV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Ephesians 2 Online | And you did he quicken, when ye were dead through your trespasses and sins..."
+description: >
+  Read Ephesians 2 Online | And you did he quicken, when ye were dead through your trespasses and sins...
 weight: 2
 ---
 

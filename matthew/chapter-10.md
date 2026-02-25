@@ -1,7 +1,8 @@
 ---
 title: "Matthew 10 RV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Matthew 10 Online | And he called unto him his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal all manner of disease and all manner of sickness..."
+description: >
+  Read Matthew 10 Online | And he called unto him his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal all manner of disease and all manner of sickness...
 weight: 10
 ---
 

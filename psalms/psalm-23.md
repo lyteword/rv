@@ -1,7 +1,8 @@
 ---
 title: "Psalm 23 RV | Read the Bible Online"
 linkTitle: "23"
-description: "Read Psalm 23 Online | A Psalm of David. The LORD is my shepherd; I shall not want..."
+description: >
+  Read Psalm 23 Online | A Psalm of David. The LORD is my shepherd; I shall not want...
 weight: 23
 ---
 

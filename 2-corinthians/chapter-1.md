@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 1 RV | Read the Bible Online"
 linkTitle: "1"
-description: "Read 2 Corinthians 1 Online | Paul, an apostle of Christ Jesus through the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in the whole of Achaia..."
+description: >
+  Read 2 Corinthians 1 Online | Paul, an apostle of Christ Jesus through the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in the whole of Achaia...
 weight: 1
 ---
 

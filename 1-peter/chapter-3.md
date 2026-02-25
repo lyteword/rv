@@ -1,7 +1,8 @@
 ---
 title: "1 Peter 3 RV | Read the Bible Online"
 linkTitle: "3"
-description: "Read 1 Peter 3 Online | In like manner, ye wives, be in subjection to your own husbands; that, even if any obey not the word, they may without the word be gained by the behaviour of their wives..."
+description: >
+  Read 1 Peter 3 Online | In like manner, ye wives, be in subjection to your own husbands; that, even if any obey not the word, they may without the word be gained by the behaviour of their wives...
 weight: 3
 ---
 

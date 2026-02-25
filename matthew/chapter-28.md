@@ -1,7 +1,8 @@
 ---
 title: "Matthew 28 RV | Read the Bible Online"
 linkTitle: "28"
-description: "Read Matthew 28 Online | Now late on the sabbath day, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre..."
+description: >
+  Read Matthew 28 Online | Now late on the sabbath day, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre...
 weight: 28
 ---
 

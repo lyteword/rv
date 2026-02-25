@@ -1,7 +1,8 @@
 ---
 title: "Revelation 8 RV | Read the Bible Online"
 linkTitle: "8"
-description: "Read Revelation 8 Online | And when he opened the seventh seal, there followed a silence in heaven about the space of half an hour..."
+description: >
+  Read Revelation 8 Online | And when he opened the seventh seal, there followed a silence in heaven about the space of half an hour...
 weight: 8
 ---
 

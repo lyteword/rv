@@ -1,7 +1,8 @@
 ---
 title: "Joshua 1 RV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Joshua 1 Online | Now it came to pass after the death of Moses the servant of the LORD, that the LORD spake unto Joshua the son of Nun, Moses’ minister, saying..."
+description: >
+  Read Joshua 1 Online | Now it came to pass after the death of Moses the servant of the LORD, that the LORD spake unto Joshua the son of Nun, Moses’ minister, saying...
 weight: 1
 ---
 

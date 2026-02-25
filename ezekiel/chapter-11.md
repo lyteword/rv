@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 11 RV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Ezekiel 11 Online | Moreover the spirit lifted me up, and brought me unto the east gate of the LORD’S house, which looketh eastward: and behold, at the door of the gate five and twenty men; and I saw in the midst of them Jaazaniah the son of Azzur, and Pelatiah the son of Benaiah, princes of the people..."
+description: >
+  Read Ezekiel 11 Online | Moreover the spirit lifted me up, and brought me unto the east gate of the LORD’S house, which looketh eastward: and behold, at the door of the gate five and twenty men; and I saw in the midst of them Jaazaniah the son of Azzur, and Pelatiah the son of Benaiah, princes of the people...
 weight: 11
 ---
 

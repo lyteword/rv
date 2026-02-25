@@ -1,7 +1,8 @@
 ---
 title: "Psalm 144 RV | Read the Bible Online"
 linkTitle: "144"
-description: "Read Psalm 144 Online | A Psalm off David. Blessed be the LORD my rock, which teacheth my hands to war, and my fingers to fight..."
+description: >
+  Read Psalm 144 Online | A Psalm off David. Blessed be the LORD my rock, which teacheth my hands to war, and my fingers to fight...
 weight: 144
 ---
 

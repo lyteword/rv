@@ -1,7 +1,8 @@
 ---
 title: "Exodus 35 RV | Read the Bible Online"
 linkTitle: "35"
-description: "Read Exodus 35 Online | And Moses assembled all the congregation of the children of Israel, and said unto them, These are the words which the LORD hath commanded, that ye should do them..."
+description: >
+  Read Exodus 35 Online | And Moses assembled all the congregation of the children of Israel, and said unto them, These are the words which the LORD hath commanded, that ye should do them...
 weight: 35
 ---
 

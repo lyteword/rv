@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 46 RV | Read the Bible Online"
 linkTitle: "46"
-description: "Read Ezekiel 46 Online | Thus saith the Lord GOD: The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath day it shall be opened, and in the day of the new moon it shall be opened..."
+description: >
+  Read Ezekiel 46 Online | Thus saith the Lord GOD: The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath day it shall be opened, and in the day of the new moon it shall be opened...
 weight: 46
 ---
 

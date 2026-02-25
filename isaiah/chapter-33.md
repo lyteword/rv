@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 33 RV | Read the Bible Online"
 linkTitle: "33"
-description: "Read Isaiah 33 Online | Woe to thee that spoilest, and thou wast not spoiled; and dealest treacherously, and they dealt not treacherously with thee! When thou hast ceased to spoil, thou shalt be spoiled; and when thou hast made an end to deal treacherously, they shall deal treacherously with thee..."
+description: >
+  Read Isaiah 33 Online | Woe to thee that spoilest, and thou wast not spoiled; and dealest treacherously, and they dealt not treacherously with thee! When thou hast ceased to spoil, thou shalt be spoiled; and when thou hast made an end to deal treacherously, they shall deal treacherously with thee...
 weight: 33
 ---
 

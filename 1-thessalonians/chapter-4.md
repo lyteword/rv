@@ -1,7 +1,8 @@
 ---
 title: "1 Thessalonians 4 RV | Read the Bible Online"
 linkTitle: "4"
-description: "Read 1 Thessalonians 4 Online | Finally then, brethren, we beseech and exhort you in the Lord Jesus, that, as ye received of us how ye ought to walk and to please God, even as ye do walk,—that ye abound more and more..."
+description: >
+  Read 1 Thessalonians 4 Online | Finally then, brethren, we beseech and exhort you in the Lord Jesus, that, as ye received of us how ye ought to walk and to please God, even as ye do walk,—that ye abound more and more...
 weight: 4
 ---
 

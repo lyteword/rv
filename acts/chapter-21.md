@@ -1,7 +1,8 @@
 ---
 title: "Acts 21 RV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Acts 21 Online | And when it came to pass that we were parted from them, and had set sail, we came with a straight course unto Cos, and the next day unto Rhodes, and from thence unto Patara..."
+description: >
+  Read Acts 21 Online | And when it came to pass that we were parted from them, and had set sail, we came with a straight course unto Cos, and the next day unto Rhodes, and from thence unto Patara...
 weight: 21
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "2 Samuel 4 RV | Read the Bible Online"
 linkTitle: "4"
-description: "Read 2 Samuel 4 Online | And when Ish-bosheth, Saul’s son, heard that Abner was dead in Hebron, his hands became feeble, and all the Israelites were troubled..."
+description: >
+  Read 2 Samuel 4 Online | And when Ish-bosheth, Saul’s son, heard that Abner was dead in Hebron, his hands became feeble, and all the Israelites were troubled...
 weight: 4
 ---
 

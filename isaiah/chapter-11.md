@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 11 RV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Isaiah 11 Online | And there shall come forth a shoot out of the stock of Jesse, and a branch out of his roots shall bear fruit..."
+description: >
+  Read Isaiah 11 Online | And there shall come forth a shoot out of the stock of Jesse, and a branch out of his roots shall bear fruit...
 weight: 11
 ---
 

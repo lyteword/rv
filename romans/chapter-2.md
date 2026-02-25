@@ -1,7 +1,8 @@
 ---
 title: "Romans 2 RV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Romans 2 Online | Wherefore thou art without excuse, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest dost practise the same things..."
+description: >
+  Read Romans 2 Online | Wherefore thou art without excuse, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest dost practise the same things...
 weight: 2
 ---
 

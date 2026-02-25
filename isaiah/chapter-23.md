@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 23 RV | Read the Bible Online"
 linkTitle: "23"
-description: "Read Isaiah 23 Online | The burden of Tyre. Howl, ye ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Kittim it is revealed to them..."
+description: >
+  Read Isaiah 23 Online | The burden of Tyre. Howl, ye ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Kittim it is revealed to them...
 weight: 23
 ---
 

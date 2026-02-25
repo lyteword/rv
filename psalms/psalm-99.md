@@ -1,7 +1,8 @@
 ---
 title: "Psalm 99 RV | Read the Bible Online"
 linkTitle: "99"
-description: "Read Psalm 99 Online | The LORD reigneth; let the peoples tremble: he sitteth upon the cherubim; let the earth be moved..."
+description: >
+  Read Psalm 99 Online | The LORD reigneth; let the peoples tremble: he sitteth upon the cherubim; let the earth be moved...
 weight: 99
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 2 RV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Hebrews 2 Online | Therefore we ought to give the more earnest heed to the things that were heard, lest haply we drift away from them..."
+description: >
+  Read Hebrews 2 Online | Therefore we ought to give the more earnest heed to the things that were heard, lest haply we drift away from them...
 weight: 2
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 17 RV | Read the Bible Online"
 linkTitle: "17"
-description: "Read 1 Chronicles 17 Online | And it came to pass, when David dwelt in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedar, but the ark of the covenant of the LORD dwelleth under curtains..."
+description: >
+  Read 1 Chronicles 17 Online | And it came to pass, when David dwelt in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedar, but the ark of the covenant of the LORD dwelleth under curtains...
 weight: 17
 ---
 

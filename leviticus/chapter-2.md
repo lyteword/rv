@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 2 RV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Leviticus 2 Online | And when any one offereth an oblation of a meal offering unto the LORD, his oblation shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon..."
+description: >
+  Read Leviticus 2 Online | And when any one offereth an oblation of a meal offering unto the LORD, his oblation shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon...
 weight: 2
 ---
 

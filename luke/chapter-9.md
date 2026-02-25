@@ -1,7 +1,8 @@
 ---
 title: "Luke 9 RV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Luke 9 Online | And he called the twelve together, and gave them power and authority over all devils, and to cure diseases..."
+description: >
+  Read Luke 9 Online | And he called the twelve together, and gave them power and authority over all devils, and to cure diseases...
 weight: 9
 ---
 

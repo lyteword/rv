@@ -1,7 +1,8 @@
 ---
 title: "Psalm 19 RV | Read the Bible Online"
 linkTitle: "19"
-description: "Read Psalm 19 Online | For the Chief Musician. A Psalm of David. The heavens declare the glory of God; and the firmament sheweth his handywork..."
+description: >
+  Read Psalm 19 Online | For the Chief Musician. A Psalm of David. The heavens declare the glory of God; and the firmament sheweth his handywork...
 weight: 19
 ---
 

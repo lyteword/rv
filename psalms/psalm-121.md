@@ -1,7 +1,8 @@
 ---
 title: "Psalm 121 RV | Read the Bible Online"
 linkTitle: "121"
-description: "Read Psalm 121 Online | A Song of Ascents. I will lift up mine eyes unto the mountains: from whence shall my help come..."
+description: >
+  Read Psalm 121 Online | A Song of Ascents. I will lift up mine eyes unto the mountains: from whence shall my help come...
 weight: 121
 ---
 

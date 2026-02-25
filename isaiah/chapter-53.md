@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 53 RV | Read the Bible Online"
 linkTitle: "53"
-description: "Read Isaiah 53 Online | Who hath believed our report? and to whom hath the arm of the LORD been revealed..."
+description: >
+  Read Isaiah 53 Online | Who hath believed our report? and to whom hath the arm of the LORD been revealed...
 weight: 53
 ---
 

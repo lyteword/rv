@@ -1,7 +1,8 @@
 ---
 title: "Joshua 21 RV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Joshua 21 Online | Then came near the heads of fathers’ houses of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of fathers’ houses of the tribes of the children of Israel..."
+description: >
+  Read Joshua 21 Online | Then came near the heads of fathers’ houses of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of fathers’ houses of the tribes of the children of Israel...
 weight: 21
 ---
 

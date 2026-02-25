@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 26 RV | Read the Bible Online"
 linkTitle: "26"
-description: "Read Isaiah 26 Online | In that day shall this song be sung in the land of Judah: We have a strong city; salvation will he appoint for walls and bulwarks..."
+description: >
+  Read Isaiah 26 Online | In that day shall this song be sung in the land of Judah: We have a strong city; salvation will he appoint for walls and bulwarks...
 weight: 26
 ---
 

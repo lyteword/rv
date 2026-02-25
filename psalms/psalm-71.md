@@ -1,7 +1,8 @@
 ---
 title: "Psalm 71 RV | Read the Bible Online"
 linkTitle: "71"
-description: "Read Psalm 71 Online | In thee, O LORD, do I put my trust: let me never be ashamed..."
+description: >
+  Read Psalm 71 Online | In thee, O LORD, do I put my trust: let me never be ashamed...
 weight: 71
 ---
 

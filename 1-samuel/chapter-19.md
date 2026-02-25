@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 19 RV | Read the Bible Online"
 linkTitle: "19"
-description: "Read 1 Samuel 19 Online | And Saul spake to Jonathan his son, and to all his servants, that they should slay David. But Jonathan Saul’s son delighted much in David..."
+description: >
+  Read 1 Samuel 19 Online | And Saul spake to Jonathan his son, and to all his servants, that they should slay David. But Jonathan Saul’s son delighted much in David...
 weight: 19
 ---
 
