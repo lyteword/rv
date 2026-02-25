@@ -1,7 +1,8 @@
 ---
 title: "Luke 3 RV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Luke 3 Online | Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene..."
+description: >
+  Read Luke 3 Online | Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Titus 2 RV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Titus 2 Online | But speak thou the things which befit the sound doctrine..."
+description: >
+  Read Titus 2 Online | But speak thou the things which befit the sound doctrine...
 weight: 2
 ---
 

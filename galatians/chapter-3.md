@@ -1,7 +1,8 @@
 ---
 title: "Galatians 3 RV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Galatians 3 Online | O foolish Galatians, who did bewitch you, before whose eyes Jesus Christ was openly set forth crucified..."
+description: >
+  Read Galatians 3 Online | O foolish Galatians, who did bewitch you, before whose eyes Jesus Christ was openly set forth crucified...
 weight: 3
 ---
 

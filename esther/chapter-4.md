@@ -1,7 +1,8 @@
 ---
 title: "Esther 4 RV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Esther 4 Online | Now when Mordecai knew all that was done, Mordecai rent his clothes, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and a bitter cry..."
+description: >
+  Read Esther 4 Online | Now when Mordecai knew all that was done, Mordecai rent his clothes, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and a bitter cry...
 weight: 4
 ---
 

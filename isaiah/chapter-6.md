@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 6 RV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Isaiah 6 Online | In the year that king Uzziah died I saw the Lord sitting upon a throne, high and lifted up, and his train filled the temple..."
+description: >
+  Read Isaiah 6 Online | In the year that king Uzziah died I saw the Lord sitting upon a throne, high and lifted up, and his train filled the temple...
 weight: 6
 ---
 

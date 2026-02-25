@@ -1,7 +1,8 @@
 ---
 title: "1 Thessalonians 2 RV | Read the Bible Online"
 linkTitle: "2"
-description: "Read 1 Thessalonians 2 Online | For yourselves, brethren, know our entering in unto you, that it hath not been found vain..."
+description: >
+  Read 1 Thessalonians 2 Online | For yourselves, brethren, know our entering in unto you, that it hath not been found vain...
 weight: 2
 ---
 

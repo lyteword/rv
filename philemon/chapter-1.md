@@ -1,7 +1,8 @@
 ---
 title: "Philemon 1 RV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Philemon 1 Online | Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon our beloved and fellow-worker..."
+description: >
+  Read Philemon 1 Online | Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon our beloved and fellow-worker...
 weight: 1
 ---
 

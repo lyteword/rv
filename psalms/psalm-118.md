@@ -1,7 +1,8 @@
 ---
 title: "Psalm 118 RV | Read the Bible Online"
 linkTitle: "118"
-description: "Read Psalm 118 Online | O GIVE thanks unto the LORD; for he is good: for his mercy endureth for ever..."
+description: >
+  Read Psalm 118 Online | O GIVE thanks unto the LORD; for he is good: for his mercy endureth for ever...
 weight: 118
 ---
 

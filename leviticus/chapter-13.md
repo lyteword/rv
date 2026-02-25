@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 13 RV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Leviticus 13 Online | And the LORD spake unto Moses and unto Aaron, saying..."
+description: >
+  Read Leviticus 13 Online | And the LORD spake unto Moses and unto Aaron, saying...
 weight: 13
 ---
 

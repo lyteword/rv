@@ -1,7 +1,8 @@
 ---
 title: "Amos 6 RV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Amos 6 Online | Woe to them that are at ease in Zion, and to them that are secure in the mountain of Samaria, the notable men of the chief of the nations, to whom the house of Israel come..."
+description: >
+  Read Amos 6 Online | Woe to them that are at ease in Zion, and to them that are secure in the mountain of Samaria, the notable men of the chief of the nations, to whom the house of Israel come...
 weight: 6
 ---
 

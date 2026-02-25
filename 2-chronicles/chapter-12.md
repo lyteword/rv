@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 12 RV | Read the Bible Online"
 linkTitle: "12"
-description: "Read 2 Chronicles 12 Online | And it came to pass, when the kingdom of Rehoboam was established, and he was strong, that he forsook the law of the LORD, and all Israel with him..."
+description: >
+  Read 2 Chronicles 12 Online | And it came to pass, when the kingdom of Rehoboam was established, and he was strong, that he forsook the law of the LORD, and all Israel with him...
 weight: 12
 ---
 

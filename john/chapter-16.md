@@ -1,7 +1,8 @@
 ---
 title: "John 16 RV | Read the Bible Online"
 linkTitle: "16"
-description: "Read John 16 Online | These things have I spoken unto you, that ye should not be made to stumble..."
+description: >
+  Read John 16 Online | These things have I spoken unto you, that ye should not be made to stumble...
 weight: 16
 ---
 

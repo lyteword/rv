@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 20 RV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Leviticus 20 Online | And the LORD spake unto Moses, saying..."
+description: >
+  Read Leviticus 20 Online | And the LORD spake unto Moses, saying...
 weight: 20
 ---
 

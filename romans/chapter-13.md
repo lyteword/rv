@@ -1,7 +1,8 @@
 ---
 title: "Romans 13 RV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Romans 13 Online | Let every soul be in subjection to the higher powers: for there is no power but of God; and the powers that be are ordained of God..."
+description: >
+  Read Romans 13 Online | Let every soul be in subjection to the higher powers: for there is no power but of God; and the powers that be are ordained of God...
 weight: 13
 ---
 

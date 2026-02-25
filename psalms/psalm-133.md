@@ -1,7 +1,8 @@
 ---
 title: "Psalm 133 RV | Read the Bible Online"
 linkTitle: "133"
-description: "Read Psalm 133 Online | A Song of Ascents; of David. Behold, how good and how pleasant it is for brethren to dwell together in unity..."
+description: >
+  Read Psalm 133 Online | A Song of Ascents; of David. Behold, how good and how pleasant it is for brethren to dwell together in unity...
 weight: 133
 ---
 

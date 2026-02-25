@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 15 RV | Read the Bible Online"
 linkTitle: "15"
-description: "Read Proverbs 15 Online | A SOFT answer turneth away wrath: but a grievous word stirreth up anger..."
+description: >
+  Read Proverbs 15 Online | A SOFT answer turneth away wrath: but a grievous word stirreth up anger...
 weight: 15
 ---
 

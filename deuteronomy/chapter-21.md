@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 21 RV | Read the Bible Online"
 linkTitle: "21"
-description: "Read Deuteronomy 21 Online | If one be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, and it be not known who hath smitten him..."
+description: >
+  Read Deuteronomy 21 Online | If one be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, and it be not known who hath smitten him...
 weight: 21
 ---
 

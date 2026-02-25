@@ -1,7 +1,8 @@
 ---
 title: "2 Chronicles 26 RV | Read the Bible Online"
 linkTitle: "26"
-description: "Read 2 Chronicles 26 Online | And all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah..."
+description: >
+  Read 2 Chronicles 26 Online | And all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah...
 weight: 26
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 6 RV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Zechariah 6 Online | And again I lifted up mine eyes, and saw, and behold, there came four chariots out from between two mountains; and the mountains were mountains of brass..."
+description: >
+  Read Zechariah 6 Online | And again I lifted up mine eyes, and saw, and behold, there came four chariots out from between two mountains; and the mountains were mountains of brass...
 weight: 6
 ---
 

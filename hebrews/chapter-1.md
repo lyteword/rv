@@ -1,7 +1,8 @@
 ---
 title: "Hebrews 1 RV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Hebrews 1 Online | God, having of old time spoken unto the fathers in the prophets by divers portions and in divers manners..."
+description: >
+  Read Hebrews 1 Online | God, having of old time spoken unto the fathers in the prophets by divers portions and in divers manners...
 weight: 1
 ---
 

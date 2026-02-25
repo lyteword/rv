@@ -1,7 +1,8 @@
 ---
 title: "Luke 15 RV | Read the Bible Online"
 linkTitle: "15"
-description: "Read Luke 15 Online | Now all the publicans and sinners were drawing near unto him for to hear him..."
+description: >
+  Read Luke 15 Online | Now all the publicans and sinners were drawing near unto him for to hear him...
 weight: 15
 ---
 

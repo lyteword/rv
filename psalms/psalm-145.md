@@ -1,7 +1,8 @@
 ---
 title: "Psalm 145 RV | Read the Bible Online"
 linkTitle: "145"
-description: "Read Psalm 145 Online | A Psalm of praise; of David. I will extol thee, my God, O King; and I will bless thy name for ever and ever..."
+description: >
+  Read Psalm 145 Online | A Psalm of praise; of David. I will extol thee, my God, O King; and I will bless thy name for ever and ever...
 weight: 145
 ---
 

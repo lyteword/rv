@@ -1,7 +1,8 @@
 ---
 title: "Joshua 23 RV | Read the Bible Online"
 linkTitle: "23"
-description: "Read Joshua 23 Online | And it came to pass after many days, when the LORD had given rest unto Israel from all their enemies round about, and Joshua was old and well stricken in years..."
+description: >
+  Read Joshua 23 Online | And it came to pass after many days, when the LORD had given rest unto Israel from all their enemies round about, and Joshua was old and well stricken in years...
 weight: 23
 ---
 

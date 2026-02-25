@@ -1,7 +1,8 @@
 ---
 title: "Judges 16 RV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Judges 16 Online | And Samson went to Gaza, and saw there an harlot, and went in unto her..."
+description: >
+  Read Judges 16 Online | And Samson went to Gaza, and saw there an harlot, and went in unto her...
 weight: 16
 ---
 

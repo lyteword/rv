@@ -1,7 +1,8 @@
 ---
 title: "Psalm 108 RV | Read the Bible Online"
 linkTitle: "108"
-description: "Read Psalm 108 Online | A Song, a Psalm Of David. My heart is fixed, O God; I will sing, yea, I will sing praises, even with my glory..."
+description: >
+  Read Psalm 108 Online | A Song, a Psalm Of David. My heart is fixed, O God; I will sing, yea, I will sing praises, even with my glory...
 weight: 108
 ---
 

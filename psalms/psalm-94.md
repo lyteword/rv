@@ -1,7 +1,8 @@
 ---
 title: "Psalm 94 RV | Read the Bible Online"
 linkTitle: "94"
-description: "Read Psalm 94 Online | O LORD, thou God to whom vengeance belongeth, thou God to whom vengeance belongeth, shine forth..."
+description: >
+  Read Psalm 94 Online | O LORD, thou God to whom vengeance belongeth, thou God to whom vengeance belongeth, shine forth...
 weight: 94
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 25 RV | Read the Bible Online"
 linkTitle: "25"
-description: "Read 1 Chronicles 25 Online | Moreover David and the captains of the host separated for the service certain of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of them that did the work according to their service was..."
+description: >
+  Read 1 Chronicles 25 Online | Moreover David and the captains of the host separated for the service certain of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of them that did the work according to their service was...
 weight: 25
 ---
 

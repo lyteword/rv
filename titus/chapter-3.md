@@ -1,7 +1,8 @@
 ---
 title: "Titus 3 RV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Titus 3 Online | Put them in mind to be in subjection to rulers, to authorities, to be obedient, to be ready unto every good work..."
+description: >
+  Read Titus 3 Online | Put them in mind to be in subjection to rulers, to authorities, to be obedient, to be ready unto every good work...
 weight: 3
 ---
 

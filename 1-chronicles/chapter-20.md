@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 20 RV | Read the Bible Online"
 linkTitle: "20"
-description: "Read 1 Chronicles 20 Online | And it came to pass, at the time of the return of the year, at the time when kings go out to battle, that Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and overthrew it..."
+description: >
+  Read 1 Chronicles 20 Online | And it came to pass, at the time of the return of the year, at the time when kings go out to battle, that Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and overthrew it...
 weight: 20
 ---
 

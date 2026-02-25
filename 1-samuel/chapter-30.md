@@ -1,7 +1,8 @@
 ---
 title: "1 Samuel 30 RV | Read the Bible Online"
 linkTitle: "30"
-description: "Read 1 Samuel 30 Online | And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had made a raid upon the South, and upon Ziklag, and had smitten Ziklag, and burned it with fire..."
+description: >
+  Read 1 Samuel 30 Online | And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had made a raid upon the South, and upon Ziklag, and had smitten Ziklag, and burned it with fire...
 weight: 30
 ---
 

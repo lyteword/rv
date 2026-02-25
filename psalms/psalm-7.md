@@ -1,7 +1,8 @@
 ---
 title: "Psalm 7 RV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Psalm 7 Online | Shiggaion of David, which he sang unto the LORD; concerning the words of Cush a Benjamite. O LORD my God, in thee do I put my trust: save me from all them that pursue me, and deliver me..."
+description: >
+  Read Psalm 7 Online | Shiggaion of David, which he sang unto the LORD; concerning the words of Cush a Benjamite. O LORD my God, in thee do I put my trust: save me from all them that pursue me, and deliver me...
 weight: 7
 ---
 

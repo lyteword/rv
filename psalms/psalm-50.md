@@ -1,7 +1,8 @@
 ---
 title: "Psalm 50 RV | Read the Bible Online"
 linkTitle: "50"
-description: "Read Psalm 50 Online | A Psalm of Asaph. God, even God, the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof..."
+description: >
+  Read Psalm 50 Online | A Psalm of Asaph. God, even God, the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof...
 weight: 50
 ---
 

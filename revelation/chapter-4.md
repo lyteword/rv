@@ -1,7 +1,8 @@
 ---
 title: "Revelation 4 RV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Revelation 4 Online | After these things I saw, and behold, a door opened in heaven, and the first voice which I heard, a voice as of a trumpet speaking with me, one saying, Come up hither, and I will shew thee the things which must come to pass hereafter..."
+description: >
+  Read Revelation 4 Online | After these things I saw, and behold, a door opened in heaven, and the first voice which I heard, a voice as of a trumpet speaking with me, one saying, Come up hither, and I will shew thee the things which must come to pass hereafter...
 weight: 4
 ---
 

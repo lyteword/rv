@@ -1,7 +1,8 @@
 ---
 title: "Acts 12 RV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Acts 12 Online | Now about that time Herod the king put forth his hands to afflict certain of the church..."
+description: >
+  Read Acts 12 Online | Now about that time Herod the king put forth his hands to afflict certain of the church...
 weight: 12
 ---
 

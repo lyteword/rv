@@ -1,7 +1,8 @@
 ---
 title: "Genesis 37 RV | Read the Bible Online"
 linkTitle: "37"
-description: "Read Genesis 37 Online | And Jacob dwelt in the land of his father’s sojournings, in the land of Canaan..."
+description: >
+  Read Genesis 37 Online | And Jacob dwelt in the land of his father’s sojournings, in the land of Canaan...
 weight: 37
 ---
 

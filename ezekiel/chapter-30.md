@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 30 RV | Read the Bible Online"
 linkTitle: "30"
-description: "Read Ezekiel 30 Online | The word of the LORD came again unto me, saying..."
+description: >
+  Read Ezekiel 30 Online | The word of the LORD came again unto me, saying...
 weight: 30
 ---
 

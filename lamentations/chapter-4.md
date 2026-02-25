@@ -1,7 +1,8 @@
 ---
 title: "Lamentations 4 RV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Lamentations 4 Online | How is the gold become dim! how is the most pure gold changed! the stones of the sanctuary are poured out at the top of every street..."
+description: >
+  Read Lamentations 4 Online | How is the gold become dim! how is the most pure gold changed! the stones of the sanctuary are poured out at the top of every street...
 weight: 4
 ---
 

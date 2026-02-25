@@ -1,7 +1,8 @@
 ---
 title: "2 Kings 6 RV | Read the Bible Online"
 linkTitle: "6"
-description: "Read 2 Kings 6 Online | And the sons of the prophets said unto Elisha, Behold now, the place where we dwell before thee is too strait for us..."
+description: >
+  Read 2 Kings 6 Online | And the sons of the prophets said unto Elisha, Behold now, the place where we dwell before thee is too strait for us...
 weight: 6
 ---
 

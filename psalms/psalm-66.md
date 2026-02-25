@@ -1,7 +1,8 @@
 ---
 title: "Psalm 66 RV | Read the Bible Online"
 linkTitle: "66"
-description: "Read Psalm 66 Online | For the Chief Musician. A Song, a Psalm. Make a joyful noise unto God, all the earth..."
+description: >
+  Read Psalm 66 Online | For the Chief Musician. A Song, a Psalm. Make a joyful noise unto God, all the earth...
 weight: 66
 ---
 

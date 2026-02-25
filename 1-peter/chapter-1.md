@@ -1,7 +1,8 @@
 ---
 title: "1 Peter 1 RV | Read the Bible Online"
 linkTitle: "1"
-description: "Read 1 Peter 1 Online | Peter, an apostle of Jesus Christ, to the elect who are sojourners of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia..."
+description: >
+  Read 1 Peter 1 Online | Peter, an apostle of Jesus Christ, to the elect who are sojourners of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia...
 weight: 1
 ---
 

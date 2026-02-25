@@ -1,7 +1,8 @@
 ---
 title: "Mark 7 RV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Mark 7 Online | And there are gathered together unto him the Pharisees, and certain of the scribes, which had come from Jerusalem..."
+description: >
+  Read Mark 7 Online | And there are gathered together unto him the Pharisees, and certain of the scribes, which had come from Jerusalem...
 weight: 7
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Hosea 7 RV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Hosea 7 Online | When I would heal Israel, then is the iniquity of Ephraim discovered, and the wickedness of Samaria; for they commit falsehood: and the thief entereth in, and the troop of robbers spoileth without..."
+description: >
+  Read Hosea 7 Online | When I would heal Israel, then is the iniquity of Ephraim discovered, and the wickedness of Samaria; for they commit falsehood: and the thief entereth in, and the troop of robbers spoileth without...
 weight: 7
 ---
 

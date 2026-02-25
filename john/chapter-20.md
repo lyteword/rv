@@ -1,7 +1,8 @@
 ---
 title: "John 20 RV | Read the Bible Online"
 linkTitle: "20"
-description: "Read John 20 Online | Now on the first day of the week cometh Mary Magdalene early, while it was yet dark, unto the tomb, and seeth the stone taken away from the tomb..."
+description: >
+  Read John 20 Online | Now on the first day of the week cometh Mary Magdalene early, while it was yet dark, unto the tomb, and seeth the stone taken away from the tomb...
 weight: 20
 ---
 

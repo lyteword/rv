@@ -1,7 +1,8 @@
 ---
 title: "Psalm 142 RV | Read the Bible Online"
 linkTitle: "142"
-description: "Read Psalm 142 Online | Maschil of David, when he was in the cave; a Prayer. I cry with my voice unto the LORD; with my voice unto the LORD do I make supplication..."
+description: >
+  Read Psalm 142 Online | Maschil of David, when he was in the cave; a Prayer. I cry with my voice unto the LORD; with my voice unto the LORD do I make supplication...
 weight: 142
 ---
 

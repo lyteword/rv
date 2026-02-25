@@ -1,7 +1,8 @@
 ---
 title: "Proverbs 12 RV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Proverbs 12 Online | Whoso loveth correction loveth knowledge: but he that hateth reproof is brutish..."
+description: >
+  Read Proverbs 12 Online | Whoso loveth correction loveth knowledge: but he that hateth reproof is brutish...
 weight: 12
 ---
 

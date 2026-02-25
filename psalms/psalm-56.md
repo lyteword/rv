@@ -1,7 +1,8 @@
 ---
 title: "Psalm 56 RV | Read the Bible Online"
 linkTitle: "56"
-description: "Read Psalm 56 Online | For the Chief Musician; set to Jonath elem rehokim. A Psalm of David: Michtam: when the Philistines took him in Gath. Be merciful unto me, O God; for man would swallow me up: all the day long he fighting oppresseth me..."
+description: >
+  Read Psalm 56 Online | For the Chief Musician; set to Jonath elem rehokim. A Psalm of David: Michtam: when the Philistines took him in Gath. Be merciful unto me, O God; for man would swallow me up: all the day long he fighting oppresseth me...
 weight: 56
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Matthew 15 RV | Read the Bible Online"
 linkTitle: "15"
-description: "Read Matthew 15 Online | Then there come to Jesus from Jerusalem Pharisees and scribes, saying..."
+description: >
+  Read Matthew 15 Online | Then there come to Jesus from Jerusalem Pharisees and scribes, saying...
 weight: 15
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Exodus 3 RV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Exodus 3 Online | Now Moses was keeping the flock of Jethro his father in law, the priest of Midian: and he led the flock to the back of the wilderness, and came to the mountain of God, unto Horeb..."
+description: >
+  Read Exodus 3 Online | Now Moses was keeping the flock of Jethro his father in law, the priest of Midian: and he led the flock to the back of the wilderness, and came to the mountain of God, unto Horeb...
 weight: 3
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Revelation 3 RV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Revelation 3 Online | And to the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars: I know thy works, that thou hast a name that thou livest, and thou art dead..."
+description: >
+  Read Revelation 3 Online | And to the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars: I know thy works, that thou hast a name that thou livest, and thou art dead...
 weight: 3
 ---
 

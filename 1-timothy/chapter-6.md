@@ -1,7 +1,8 @@
 ---
 title: "1 Timothy 6 RV | Read the Bible Online"
 linkTitle: "6"
-description: "Read 1 Timothy 6 Online | Let as many as are servants under the yoke count their own masters worthy of all honour, that the name of God and the doctrine be not blasphemed..."
+description: >
+  Read 1 Timothy 6 Online | Let as many as are servants under the yoke count their own masters worthy of all honour, that the name of God and the doctrine be not blasphemed...
 weight: 6
 ---
 

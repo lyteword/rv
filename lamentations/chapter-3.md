@@ -1,7 +1,8 @@
 ---
 title: "Lamentations 3 RV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Lamentations 3 Online | I AM the man that hath seen affliction by the rod of his wrath..."
+description: >
+  Read Lamentations 3 Online | I AM the man that hath seen affliction by the rod of his wrath...
 weight: 3
 ---
 

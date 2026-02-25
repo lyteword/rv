@@ -1,7 +1,8 @@
 ---
 title: "Acts 23 RV | Read the Bible Online"
 linkTitle: "23"
-description: "Read Acts 23 Online | And Paul, looking stedfastly on the council, said, Brethren, I have lived before God in all good conscience until this day..."
+description: >
+  Read Acts 23 Online | And Paul, looking stedfastly on the council, said, Brethren, I have lived before God in all good conscience until this day...
 weight: 23
 ---
 

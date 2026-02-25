@@ -1,7 +1,8 @@
 ---
 title: "Deuteronomy 1 RV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Deuteronomy 1 Online | These be the words which Moses spake unto all Israel beyond Jordan in the wilderness, in the Arabah over against Suph, between Paran, and Tophel, and Laban, and Hazeroth, and Di-zahab..."
+description: >
+  Read Deuteronomy 1 Online | These be the words which Moses spake unto all Israel beyond Jordan in the wilderness, in the Arabah over against Suph, between Paran, and Tophel, and Laban, and Hazeroth, and Di-zahab...
 weight: 1
 ---
 

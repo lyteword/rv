@@ -1,7 +1,8 @@
 ---
 title: "Matthew 19 RV | Read the Bible Online"
 linkTitle: "19"
-description: "Read Matthew 19 Online | And it came to pass when Jesus had finished these words, he departed from Galilee, and came into the borders of Judaea beyond Jordan..."
+description: >
+  Read Matthew 19 Online | And it came to pass when Jesus had finished these words, he departed from Galilee, and came into the borders of Judaea beyond Jordan...
 weight: 19
 ---
 

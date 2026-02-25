@@ -1,7 +1,8 @@
 ---
 title: "Malachi 4 RV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Malachi 4 Online | For, behold, the day cometh, it burneth as a furnace; and all the proud, and all that work wickedness, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch..."
+description: >
+  Read Malachi 4 Online | For, behold, the day cometh, it burneth as a furnace; and all the proud, and all that work wickedness, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch...
 weight: 4
 ---
 

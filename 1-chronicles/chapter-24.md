@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 24 RV | Read the Bible Online"
 linkTitle: "24"
-description: "Read 1 Chronicles 24 Online | And the courses of the sons of Aaron were these. The sons of Aaron; Nadab and Abihu, Eleazar and Ithamar..."
+description: >
+  Read 1 Chronicles 24 Online | And the courses of the sons of Aaron were these. The sons of Aaron; Nadab and Abihu, Eleazar and Ithamar...
 weight: 24
 ---
 

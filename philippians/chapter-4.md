@@ -1,7 +1,8 @@
 ---
 title: "Philippians 4 RV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Philippians 4 Online | Wherefore, my brethren beloved and longed for, my joy and crown, so stand fast in the Lord, my beloved..."
+description: >
+  Read Philippians 4 Online | Wherefore, my brethren beloved and longed for, my joy and crown, so stand fast in the Lord, my beloved...
 weight: 4
 ---
 

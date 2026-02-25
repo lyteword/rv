@@ -1,7 +1,8 @@
 ---
 title: "Ezra 5 RV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Ezra 5 Online | Now the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem; in the name of the God of Israel prophesied they unto them..."
+description: >
+  Read Ezra 5 Online | Now the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem; in the name of the God of Israel prophesied they unto them...
 weight: 5
 ---
 

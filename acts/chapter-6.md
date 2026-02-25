@@ -1,7 +1,8 @@
 ---
 title: "Acts 6 RV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Acts 6 Online | Now in these days, when the number of the disciples was multiplying, there arose a murmuring of the Grecian Jews against the Hebrews, because their widows were neglected in the daily ministration..."
+description: >
+  Read Acts 6 Online | Now in these days, when the number of the disciples was multiplying, there arose a murmuring of the Grecian Jews against the Hebrews, because their widows were neglected in the daily ministration...
 weight: 6
 ---
 

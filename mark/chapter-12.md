@@ -1,7 +1,8 @@
 ---
 title: "Mark 12 RV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Mark 12 Online | And he began to speak unto them in parables. A man planted a vineyard, and set a hedge about it, and digged a pit for the winepress, and built a tower, and let it out to husbandmen, and went into another country..."
+description: >
+  Read Mark 12 Online | And he began to speak unto them in parables. A man planted a vineyard, and set a hedge about it, and digged a pit for the winepress, and built a tower, and let it out to husbandmen, and went into another country...
 weight: 12
 ---
 

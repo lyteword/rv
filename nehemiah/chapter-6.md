@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 6 RV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Nehemiah 6 Online | Now it came to pass, when it was reported to Sanballat and Tobiah, and to Geshem the Arabian, and unto the rest of our enemies, that I had builded the wall, and that there was no breach left therein; (though even unto that time I had not set up the doors in the gates;..."
+description: >
+  Read Nehemiah 6 Online | Now it came to pass, when it was reported to Sanballat and Tobiah, and to Geshem the Arabian, and unto the rest of our enemies, that I had builded the wall, and that there was no breach left therein; (though even unto that time I had not set up the doors in the gates;...
 weight: 6
 ---
 

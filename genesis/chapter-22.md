@@ -1,7 +1,8 @@
 ---
 title: "Genesis 22 RV | Read the Bible Online"
 linkTitle: "22"
-description: "Read Genesis 22 Online | And it came to pass after these things, that God did prove Abraham, and said unto him, Abraham; and he said, Here am I..."
+description: >
+  Read Genesis 22 Online | And it came to pass after these things, that God did prove Abraham, and said unto him, Abraham; and he said, Here am I...
 weight: 22
 ---
 

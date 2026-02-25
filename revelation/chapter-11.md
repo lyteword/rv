@@ -1,7 +1,8 @@
 ---
 title: "Revelation 11 RV | Read the Bible Online"
 linkTitle: "11"
-description: "Read Revelation 11 Online | And there was given me a reed like unto a rod: and one said, Rise, and measure the temple of God, and the altar, and them that worship therein..."
+description: >
+  Read Revelation 11 Online | And there was given me a reed like unto a rod: and one said, Rise, and measure the temple of God, and the altar, and them that worship therein...
 weight: 11
 ---
 

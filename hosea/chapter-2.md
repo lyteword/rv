@@ -1,7 +1,8 @@
 ---
 title: "Hosea 2 RV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Hosea 2 Online | Say ye unto your brethren, Ammi; and to your sisters, Ruhamah..."
+description: >
+  Read Hosea 2 Online | Say ye unto your brethren, Ammi; and to your sisters, Ruhamah...
 weight: 2
 ---
 

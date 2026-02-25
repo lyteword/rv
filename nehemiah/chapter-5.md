@@ -1,7 +1,8 @@
 ---
 title: "Nehemiah 5 RV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Nehemiah 5 Online | Then there arose a great cry of the people and of their wives against their brethren the Jews..."
+description: >
+  Read Nehemiah 5 Online | Then there arose a great cry of the people and of their wives against their brethren the Jews...
 weight: 5
 ---
 

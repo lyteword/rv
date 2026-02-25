@@ -1,7 +1,8 @@
 ---
 title: "Romans 12 RV | Read the Bible Online"
 linkTitle: "12"
-description: "Read Romans 12 Online | I beseech you therefore, brethren, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service..."
+description: >
+  Read Romans 12 Online | I beseech you therefore, brethren, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service...
 weight: 12
 ---
 

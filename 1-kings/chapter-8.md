@@ -1,7 +1,8 @@
 ---
 title: "1 Kings 8 RV | Read the Bible Online"
 linkTitle: "8"
-description: "Read 1 Kings 8 Online | Then Solomon assembled the elders of Israel, and all the heads of the tribes, the princes of the fathers’ houses of the children of Israel, unto king Solomon in Jerusalem, to bring up the ark of the covenant of the LORD out of the city of David, which is Zion..."
+description: >
+  Read 1 Kings 8 Online | Then Solomon assembled the elders of Israel, and all the heads of the tribes, the princes of the fathers’ houses of the children of Israel, unto king Solomon in Jerusalem, to bring up the ark of the covenant of the LORD out of the city of David, which is Zion...
 weight: 8
 ---
 

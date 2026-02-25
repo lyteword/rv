@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 27 RV | Read the Bible Online"
 linkTitle: "27"
-description: "Read Isaiah 27 Online | In that day the LORD with his sore and great and strong sword shall punish leviathan the swift serpent, and leviathan the crooked serpent; and he shall slay the dragon that is in the sea..."
+description: >
+  Read Isaiah 27 Online | In that day the LORD with his sore and great and strong sword shall punish leviathan the swift serpent, and leviathan the crooked serpent; and he shall slay the dragon that is in the sea...
 weight: 27
 ---
 

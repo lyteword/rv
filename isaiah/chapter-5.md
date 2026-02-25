@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 5 RV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Isaiah 5 Online | Let me sing for my wellbeloved a song of my beloved touching his vineyard. My wellbeloved had a vineyard in a very fruitful hill..."
+description: >
+  Read Isaiah 5 Online | Let me sing for my wellbeloved a song of my beloved touching his vineyard. My wellbeloved had a vineyard in a very fruitful hill...
 weight: 5
 ---
 

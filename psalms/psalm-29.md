@@ -1,7 +1,8 @@
 ---
 title: "Psalm 29 RV | Read the Bible Online"
 linkTitle: "29"
-description: "Read Psalm 29 Online | A Psalm of David. Give unto the LORD, O ye sons of the mighty, give unto the LORD glory and strength..."
+description: >
+  Read Psalm 29 Online | A Psalm of David. Give unto the LORD, O ye sons of the mighty, give unto the LORD glory and strength...
 weight: 29
 ---
 

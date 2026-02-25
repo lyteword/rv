@@ -1,7 +1,8 @@
 ---
 title: "Luke 7 RV | Read the Bible Online"
 linkTitle: "7"
-description: "Read Luke 7 Online | After he had ended all his sayings in the ears of the people, he entered into Capernaum..."
+description: >
+  Read Luke 7 Online | After he had ended all his sayings in the ears of the people, he entered into Capernaum...
 weight: 7
 ---
 

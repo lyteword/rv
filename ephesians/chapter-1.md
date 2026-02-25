@@ -1,7 +1,8 @@
 ---
 title: "Ephesians 1 RV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Ephesians 1 Online | Paul, an apostle of Christ Jesus through the will of God, to the saints which are at Ephesus, and the faithful in Christ Jesus..."
+description: >
+  Read Ephesians 1 Online | Paul, an apostle of Christ Jesus through the will of God, to the saints which are at Ephesus, and the faithful in Christ Jesus...
 weight: 1
 ---
 

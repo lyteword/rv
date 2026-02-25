@@ -1,7 +1,8 @@
 ---
 title: "Judges 13 RV | Read the Bible Online"
 linkTitle: "13"
-description: "Read Judges 13 Online | And the children of Israel again did that which was evil in the sight of the LORD; and the LORD delivered them into the hand of the Philistines forty years..."
+description: >
+  Read Judges 13 Online | And the children of Israel again did that which was evil in the sight of the LORD; and the LORD delivered them into the hand of the Philistines forty years...
 weight: 13
 ---
 

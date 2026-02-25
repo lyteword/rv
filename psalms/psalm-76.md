@@ -1,7 +1,8 @@
 ---
 title: "Psalm 76 RV | Read the Bible Online"
 linkTitle: "76"
-description: "Read Psalm 76 Online | For the Chief Musician; on stringed instruments. A Psalm of Asaph, a Song. In Judah is God known: his name is great in Israel..."
+description: >
+  Read Psalm 76 Online | For the Chief Musician; on stringed instruments. A Psalm of Asaph, a Song. In Judah is God known: his name is great in Israel...
 weight: 76
 ---
 

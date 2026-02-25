@@ -1,7 +1,8 @@
 ---
 title: "Numbers 20 RV | Read the Bible Online"
 linkTitle: "20"
-description: "Read Numbers 20 Online | And the children of Israel, even the whole congregation, came into the wilderness of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there..."
+description: >
+  Read Numbers 20 Online | And the children of Israel, even the whole congregation, came into the wilderness of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there...
 weight: 20
 ---
 

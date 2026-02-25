@@ -1,7 +1,8 @@
 ---
 title: "Psalm 62 RV | Read the Bible Online"
 linkTitle: "62"
-description: "Read Psalm 62 Online | For the Chief Musician; after the manner of Jeduthun. A Psalm of David. My soul waiteth only upon God: from him cometh my salvation..."
+description: >
+  Read Psalm 62 Online | For the Chief Musician; after the manner of Jeduthun. A Psalm of David. My soul waiteth only upon God: from him cometh my salvation...
 weight: 62
 ---
 

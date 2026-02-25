@@ -1,7 +1,8 @@
 ---
 title: "Acts 10 RV | Read the Bible Online"
 linkTitle: "10"
-description: "Read Acts 10 Online | Now there was a certain man in Caesarea, Cornelius by name, a centurion of the band called the Italian band..."
+description: >
+  Read Acts 10 Online | Now there was a certain man in Caesarea, Cornelius by name, a centurion of the band called the Italian band...
 weight: 10
 ---
 

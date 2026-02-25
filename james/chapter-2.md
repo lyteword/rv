@@ -1,7 +1,8 @@
 ---
 title: "James 2 RV | Read the Bible Online"
 linkTitle: "2"
-description: "Read James 2 Online | My brethren, hold not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons..."
+description: >
+  Read James 2 Online | My brethren, hold not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons...
 weight: 2
 ---
 

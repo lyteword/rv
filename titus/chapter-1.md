@@ -1,7 +1,8 @@
 ---
 title: "Titus 1 RV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Titus 1 Online | Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the knowledge of the truth which is according to godliness..."
+description: >
+  Read Titus 1 Online | Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the knowledge of the truth which is according to godliness...
 weight: 1
 ---
 

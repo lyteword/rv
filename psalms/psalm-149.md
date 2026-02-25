@@ -1,7 +1,8 @@
 ---
 title: "Psalm 149 RV | Read the Bible Online"
 linkTitle: "149"
-description: "Read Psalm 149 Online | Praise ye the LORD. Sing unto the LORD a new song, and his praise in the assembly of the saints..."
+description: >
+  Read Psalm 149 Online | Praise ye the LORD. Sing unto the LORD a new song, and his praise in the assembly of the saints...
 weight: 149
 ---
 

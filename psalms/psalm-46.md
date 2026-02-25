@@ -1,7 +1,8 @@
 ---
 title: "Psalm 46 RV | Read the Bible Online"
 linkTitle: "46"
-description: "Read Psalm 46 Online | For the Chief Musician: a Psalm of the sons of Korah; set to Alamoth. A Song. God is our refuge and strength, a very present help in trouble..."
+description: >
+  Read Psalm 46 Online | For the Chief Musician: a Psalm of the sons of Korah; set to Alamoth. A Song. God is our refuge and strength, a very present help in trouble...
 weight: 46
 ---
 

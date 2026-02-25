@@ -1,7 +1,8 @@
 ---
 title: "2 Corinthians 3 RV | Read the Bible Online"
 linkTitle: "3"
-description: "Read 2 Corinthians 3 Online | Are we beginning again to commend ourselves? or need we, as do some, epistles of commendation to you or from you..."
+description: >
+  Read 2 Corinthians 3 Online | Are we beginning again to commend ourselves? or need we, as do some, epistles of commendation to you or from you...
 weight: 3
 ---
 

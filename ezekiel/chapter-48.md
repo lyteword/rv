@@ -1,7 +1,8 @@
 ---
 title: "Ezekiel 48 RV | Read the Bible Online"
 linkTitle: "48"
-description: "Read Ezekiel 48 Online | Now these are the names of the tribes: from the north end, beside the way of Hethlon to the entering in of Hamath, Hazer-enan at the border of Damascus, northward beside Hamath; and they shall have their sides east and west; Dan, one portion..."
+description: >
+  Read Ezekiel 48 Online | Now these are the names of the tribes: from the north end, beside the way of Hethlon to the entering in of Hamath, Hazer-enan at the border of Damascus, northward beside Hamath; and they shall have their sides east and west; Dan, one portion...
 weight: 48
 ---
 

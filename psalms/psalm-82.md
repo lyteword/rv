@@ -1,7 +1,8 @@
 ---
 title: "Psalm 82 RV | Read the Bible Online"
 linkTitle: "82"
-description: "Read Psalm 82 Online | A Psalm of Asaph. God standeth in the congregation of God; he judgeth among the gods..."
+description: >
+  Read Psalm 82 Online | A Psalm of Asaph. God standeth in the congregation of God; he judgeth among the gods...
 weight: 82
 ---
 

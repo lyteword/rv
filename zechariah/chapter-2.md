@@ -1,7 +1,8 @@
 ---
 title: "Zechariah 2 RV | Read the Bible Online"
 linkTitle: "2"
-description: "Read Zechariah 2 Online | And I lifted up mine eyes, and saw, and behold a man with a measuring line in his hand..."
+description: >
+  Read Zechariah 2 Online | And I lifted up mine eyes, and saw, and behold a man with a measuring line in his hand...
 weight: 2
 ---
 

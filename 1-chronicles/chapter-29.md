@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 29 RV | Read the Bible Online"
 linkTitle: "29"
-description: "Read 1 Chronicles 29 Online | And David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the LORD God..."
+description: >
+  Read 1 Chronicles 29 Online | And David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the LORD God...
 weight: 29
 ---
 

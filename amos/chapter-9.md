@@ -1,7 +1,8 @@
 ---
 title: "Amos 9 RV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Amos 9 Online | I SAW the Lord standing beside the altar: and he said, Smite the chapiters, that the thresholds may shake: and break them in pieces on the head of all of them; and I will slay the last of them with the sword: there shall not one of them flee away, and there shall not one of them escape..."
+description: >
+  Read Amos 9 Online | I SAW the Lord standing beside the altar: and he said, Smite the chapiters, that the thresholds may shake: and break them in pieces on the head of all of them; and I will slay the last of them with the sword: there shall not one of them flee away, and there shall not one of them escape...
 weight: 9
 ---
 

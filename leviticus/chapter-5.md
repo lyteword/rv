@@ -1,7 +1,8 @@
 ---
 title: "Leviticus 5 RV | Read the Bible Online"
 linkTitle: "5"
-description: "Read Leviticus 5 Online | And if any one sin, in that he heareth the voice of adjuration, he being a witness, whether he hath seen or known, if he do not utter it, then he shall bear his iniquity..."
+description: >
+  Read Leviticus 5 Online | And if any one sin, in that he heareth the voice of adjuration, he being a witness, whether he hath seen or known, if he do not utter it, then he shall bear his iniquity...
 weight: 5
 ---
 

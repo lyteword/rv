@@ -1,7 +1,8 @@
 ---
 title: "Matthew 3 RV | Read the Bible Online"
 linkTitle: "3"
-description: "Read Matthew 3 Online | And in those days cometh John the Baptist, preaching in the wilderness of Judaea..."
+description: >
+  Read Matthew 3 Online | And in those days cometh John the Baptist, preaching in the wilderness of Judaea...
 weight: 3
 ---
 

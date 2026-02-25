@@ -1,7 +1,8 @@
 ---
 title: "Job 35 RV | Read the Bible Online"
 linkTitle: "35"
-description: "Read Job 35 Online | Moreover Elihu answered and said..."
+description: >
+  Read Job 35 Online | Moreover Elihu answered and said...
 weight: 35
 ---
 

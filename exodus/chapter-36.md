@@ -1,7 +1,8 @@
 ---
 title: "Exodus 36 RV | Read the Bible Online"
 linkTitle: "36"
-description: "Read Exodus 36 Online | And Bezalel and Oholiab shall work, and every wise hearted man, in whom the LORD hath put wisdom and understanding to know how to work all the work for the service of the sanctuary, according to all that the LORD hath commanded..."
+description: >
+  Read Exodus 36 Online | And Bezalel and Oholiab shall work, and every wise hearted man, in whom the LORD hath put wisdom and understanding to know how to work all the work for the service of the sanctuary, according to all that the LORD hath commanded...
 weight: 36
 ---
 

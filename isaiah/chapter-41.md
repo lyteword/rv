@@ -1,7 +1,8 @@
 ---
 title: "Isaiah 41 RV | Read the Bible Online"
 linkTitle: "41"
-description: "Read Isaiah 41 Online | Keep silence before me, O islands; and let the peoples renew their strength: let them come near; then let them speak: let us come near together to judgment..."
+description: >
+  Read Isaiah 41 Online | Keep silence before me, O islands; and let the peoples renew their strength: let them come near; then let them speak: let us come near together to judgment...
 weight: 41
 ---
 

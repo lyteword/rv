@@ -1,7 +1,8 @@
 ---
 title: "Psalm 83 RV | Read the Bible Online"
 linkTitle: "83"
-description: "Read Psalm 83 Online | A Song, a Psalm of Asaph. O God, keep not thou silence: hold not thy peace, and be not still, O God..."
+description: >
+  Read Psalm 83 Online | A Song, a Psalm of Asaph. O God, keep not thou silence: hold not thy peace, and be not still, O God...
 weight: 83
 ---
 

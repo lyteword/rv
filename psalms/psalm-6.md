@@ -1,7 +1,8 @@
 ---
 title: "Psalm 6 RV | Read the Bible Online"
 linkTitle: "6"
-description: "Read Psalm 6 Online | For the Chief Musician; on stringed instruments, set to the Sheminith. A Psalm of David. O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure..."
+description: >
+  Read Psalm 6 Online | For the Chief Musician; on stringed instruments, set to the Sheminith. A Psalm of David. O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure...
 weight: 6
 ---
 

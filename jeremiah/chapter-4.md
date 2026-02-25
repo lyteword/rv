@@ -1,7 +1,8 @@
 ---
 title: "Jeremiah 4 RV | Read the Bible Online"
 linkTitle: "4"
-description: "Read Jeremiah 4 Online | If thou wilt return, O Israel, saith the LORD, unto me shalt thou return: and if thou wilt put away thine abominations out of my sight, then shalt thou not be removed..."
+description: >
+  Read Jeremiah 4 Online | If thou wilt return, O Israel, saith the LORD, unto me shalt thou return: and if thou wilt put away thine abominations out of my sight, then shalt thou not be removed...
 weight: 4
 ---
 

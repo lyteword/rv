@@ -1,7 +1,8 @@
 ---
 title: "Jude 1 RV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Jude 1 Online | Judas, a servant of Jesus Christ, and brother of James, to them that are called, beloved in God the Father, and kept for Jesus Christ..."
+description: >
+  Read Jude 1 Online | Judas, a servant of Jesus Christ, and brother of James, to them that are called, beloved in God the Father, and kept for Jesus Christ...
 weight: 1
 ---
 

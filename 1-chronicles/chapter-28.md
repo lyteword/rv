@@ -1,7 +1,8 @@
 ---
 title: "1 Chronicles 28 RV | Read the Bible Online"
 linkTitle: "28"
-description: "Read 1 Chronicles 28 Online | And David assembled all the prices of Israel, the princes of the tribes, and the captains of the companies that served the king by course, and the captains of thousands, and the captains of hundreds, and the rulers over all the substance and possessions of the king and of his sons, with the officers, and the mighty men, even all the mighty men of valour, unto Jerusalem..."
+description: >
+  Read 1 Chronicles 28 Online | And David assembled all the prices of Israel, the princes of the tribes, and the captains of the companies that served the king by course, and the captains of thousands, and the captains of hundreds, and the rulers over all the substance and possessions of the king and of his sons, with the officers, and the mighty men, even all the mighty men of valour, unto Jerusalem...
 weight: 28
 ---
 

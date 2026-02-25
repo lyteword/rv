@@ -1,7 +1,8 @@
 ---
 title: "Philippians 1 RV | Read the Bible Online"
 linkTitle: "1"
-description: "Read Philippians 1 Online | Paul and Timothy, servants of Christ Jesus, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons..."
+description: >
+  Read Philippians 1 Online | Paul and Timothy, servants of Christ Jesus, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons...
 weight: 1
 ---
 

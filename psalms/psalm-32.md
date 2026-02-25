@@ -1,7 +1,8 @@
 ---
 title: "Psalm 32 RV | Read the Bible Online"
 linkTitle: "32"
-description: "Read Psalm 32 Online | A Psalm of David. Maschil. Blessed is he whose transgression is forgiven, whose sin is covered..."
+description: >
+  Read Psalm 32 Online | A Psalm of David. Maschil. Blessed is he whose transgression is forgiven, whose sin is covered...
 weight: 32
 ---
 

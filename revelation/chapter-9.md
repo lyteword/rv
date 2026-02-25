@@ -1,7 +1,8 @@
 ---
 title: "Revelation 9 RV | Read the Bible Online"
 linkTitle: "9"
-description: "Read Revelation 9 Online | And the fifth angel sounded, and I saw a star from heaven fallen unto the earth: and there was given to him the key of the pit of the abyss..."
+description: >
+  Read Revelation 9 Online | And the fifth angel sounded, and I saw a star from heaven fallen unto the earth: and there was given to him the key of the pit of the abyss...
 weight: 9
 ---
 

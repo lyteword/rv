@@ -1,7 +1,8 @@
 ---
 title: "Revelation 17 RV | Read the Bible Online"
 linkTitle: "17"
-description: "Read Revelation 17 Online | And there came one of the seven angels that had the seven bowls, and spake with me, saying, Come hither, I will shew thee the judgment of the great harlot that sitteth upon many waters..."
+description: >
+  Read Revelation 17 Online | And there came one of the seven angels that had the seven bowls, and spake with me, saying, Come hither, I will shew thee the judgment of the great harlot that sitteth upon many waters...
 weight: 17
 ---
 

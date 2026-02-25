@@ -1,7 +1,8 @@
 ---
 title: "Psalm 52 RV | Read the Bible Online"
 linkTitle: "52"
-description: "Read Psalm 52 Online | For the Chief Musician. Maschil of David: when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech. Why boastest thou thyself in mischief, O mighty man? the mercy of God endureth continually..."
+description: >
+  Read Psalm 52 Online | For the Chief Musician. Maschil of David: when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech. Why boastest thou thyself in mischief, O mighty man? the mercy of God endureth continually...
 weight: 52
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: "Luke 16 RV | Read the Bible Online"
 linkTitle: "16"
-description: "Read Luke 16 Online | And he said also unto the disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he was wasting his goods..."
+description: >
+  Read Luke 16 Online | And he said also unto the disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he was wasting his goods...
 weight: 16
 ---
 
