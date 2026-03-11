@@ -1,11 +1,20 @@
 ---
-title: English Revised Version
-linkTitle: RV
+title: "English Revised Version (RV) | Read the Bible Online"
+linkTitle: "RV"
+description: >
+  The first official revision of the King James Version, updating wording and scholarship based on improved biblical manuscripts.
 sidebar:
   exclude: true
 cascade:
   toc: true
+layout: single-section
 ---
+
+# English Revised Version
+
+The English Revised Version, also called the Revised Version (abbreviated RV) is a translation of the Bible published in stages between 1881 (New Testament) and 1885 (Old Testament). It was produced by a team of scholars working together to revise the earlier King James Version. Their goal was not to create a completely new translation, but to carefully update the language and correct places where earlier scholarship or manuscripts suggested improvements.
+
+This translation is described as the first official revision of the King James Version, updating wording and scholarship based on improved biblical manuscripts. The translators relied on a broader range of ancient sources than were available in 1611, including older Greek manuscripts of the New Testament. As a result, the RV adjusted certain readings, clarified archaic wording, and sometimes changed familiar phrasing where the underlying Hebrew or Greek text appeared to support a different translation.
 
 ## The Old Testament
 
