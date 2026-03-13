@@ -1,5 +1,5 @@
 ---
-title: "English Revised Version (RV) | Read the Bible Online"
+title: "English Revised Version (RV) | Read the Bible Online RV | Read the Bible Online"
 linkTitle: "RV"
 description: >
   The first official revision of the King James Version, updating wording and scholarship based on improved biblical manuscripts.

@@ -1,7 +1,13 @@
 ---
-title: Lamentations
+title: "Lamentations RV | Read the Bible Online"
+linkTitle: "Lamentations"
 weight: 25
+description: >
+  Read Lamentations from the English Revised Version (RV) Online
+layout: single-section
 ---
+
+# Lamentations
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

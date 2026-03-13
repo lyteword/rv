@@ -1,7 +1,13 @@
 ---
-title: Ezra
+title: "Ezra RV | Read the Bible Online"
+linkTitle: "Ezra"
 weight: 15
+description: >
+  Read Ezra from the English Revised Version (RV) Online
+layout: single-section
 ---
+
+# Ezra
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

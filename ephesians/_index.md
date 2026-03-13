@@ -1,7 +1,13 @@
 ---
-title: Ephesians
+title: "Ephesians RV | Read the Bible Online"
+linkTitle: "Ephesians"
 weight: 49
+description: >
+  Read Ephesians from the English Revised Version (RV) Online
+layout: single-section
 ---
+
+# Ephesians
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}
