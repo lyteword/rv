@@ -1,7 +1,13 @@
 ---
-title: Ezekiel
+title: "Ezekiel RV | Read the Bible Online"
+linkTitle: "Ezekiel"
 weight: 26
+description: >
+  Read Ezekiel from the English Revised Version (RV) Online
+layout: single-section
 ---
+
+# Ezekiel
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

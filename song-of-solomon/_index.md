@@ -1,7 +1,13 @@
 ---
-title: Song of Solomon
+title: "Song of Solomon RV | Read the Bible Online"
+linkTitle: "Song of Solomon"
 weight: 22
+description: >
+  Read Song of Solomon from the English Revised Version (RV) Online
+layout: single-section
 ---
+
+# Song of Solomon
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

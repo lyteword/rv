@@ -1,7 +1,13 @@
 ---
-title: Ecclesiastes
+title: "Ecclesiastes RV | Read the Bible Online"
+linkTitle: "Ecclesiastes"
 weight: 21
+description: >
+  Read Ecclesiastes from the English Revised Version (RV) Online
+layout: single-section
 ---
+
+# Ecclesiastes
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

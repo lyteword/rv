@@ -1,7 +1,13 @@
 ---
-title: Leviticus
+title: "Leviticus RV | Read the Bible Online"
+linkTitle: "Leviticus"
 weight: 3
+description: >
+  Read Leviticus from the English Revised Version (RV) Online
+layout: single-section
 ---
+
+# Leviticus
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

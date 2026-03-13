@@ -1,7 +1,13 @@
 ---
-title: Haggai
+title: "Haggai RV | Read the Bible Online"
+linkTitle: "Haggai"
 weight: 37
+description: >
+  Read Haggai from the English Revised Version (RV) Online
+layout: single-section
 ---
+
+# Haggai
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

@@ -1,7 +1,13 @@
 ---
-title: Nahum
+title: "Nahum RV | Read the Bible Online"
+linkTitle: "Nahum"
 weight: 34
+description: >
+  Read Nahum from the English Revised Version (RV) Online
+layout: single-section
 ---
+
+# Nahum
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}
